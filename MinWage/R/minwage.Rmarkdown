@@ -1,0 +1,154 @@
+---
+title: "Min Wage Preprocess"
+author: Lingyan Zhou
+output: html_document
+---
+
+import `readxl` library and read in the input.
+
+```{r}
+library(readxl)
+df = read_excel("../data/MinWage.xls")
+```
+
+Summary of the dataframe
+
+```{r}
+str(df)
+```
+
+Set the row names and column names.
+
+```{r}
+row.names(df) <- lapply(df$Area, tolower)
+df$Area <- NULL 
+names(df) <- lapply(names(df), function(x) {substring(x, 1, 4)}) 
+str(df)
+```
+
+Remove unwanted data.
+* The other dataset contains only data rom 1980 to 2014.
+
+```{r}
+valid.range = lapply(1980:2014, as.character)
+for (col in names(df)) {
+  if (col %in% valid.range) {
+    
+  } else {
+    df[[col]] <- NULL
+  }
+}
+str(df)
+```
+
+Convert cells to numeric.
+
+```{r}
+isCellNA = function (cellStr) {
+  !grepl("\\d+(\\.\\d+)?|\\.\\d+", cellStr)
+}
+
+getMax = function (cellStr) {
+  if (isCellNA(cellStr)) {
+    NA
+  } else {
+    m = gregexpr("\\d+(\\.\\d+)?|\\.\\d+", cellStr)
+    len = tail(attr(m[[1]], "match.length"), n=1)
+    idx = tail(m[[1]], n=1)
+    str = substring(cellStr, idx, idx+len-1)
+    as.numeric(str)
+  }
+}
+
+getMin = function (cellStr) {
+  if (isCellNA(cellStr)) {
+    NA
+  } else {
+    m = gregexpr("\\d+(\\.\\d+)?|\\.\\d+", cellStr)
+    len = attr(m[[1]], "match.length")[1]
+    idx = m[[1]][1]
+    str = substring(cellStr, idx, idx+len-1)
+    as.numeric(str)
+  }
+}
+
+dfMin =  as.data.frame(lapply(df, function(x) { sapply(x, getMin) }), row.names = row.names(df))
+names(dfMin) <- names(df)
+str(dfMin)
+
+dfMax = as.data.frame(lapply(df, function(x) { sapply(x, getMax) }), row.names = row.names(df))
+names(dfMax) <- names(df)
+str(dfMax)
+```
+
+Interpolate unlisted years.
+* It's clear that the table only shows chages in polycies.
+* In years not listed in the table, previous polycies are likely to be still enforced.
+
+```{r}
+interpolate.by.year = function(df) {
+  dfRes <- cbind(df)
+  presentYears <- names(df)
+  prevCol <- "1980"
+  for (y in 1980:2014) {
+    yStr = as.character(y)
+    if (yStr %in% presentYears) {
+      prevCol <- yStr
+    } else {
+      dfRes[[yStr]] <- df[[prevCol]]
+    }
+  }
+  dfRes[,sapply(1980:2014, as.character)]
+}
+
+dfMin = interpolate.by.year(dfMin)
+dfMin
+
+dfMax = interpolate.by.year(dfMax)
+dfMax
+```
+
+Visualizing the data quality using heatmap
+
+```{r}
+dfMin.matrix <- data.matrix(dfMin)
+dfMin.heatmap <- heatmap(dfMin.matrix, Rowv=NA, Colv=NA, col = heat.colors(256), scale="none", margins=c(5,10))
+summary(dfMin)
+
+dfMax.matrix <- data.matrix(dfMax)
+dfMax.heatmap <- heatmap(dfMax.matrix, Rowv=NA, Colv=NA, col = heat.colors(256), scale="none", margins=c(5,10))
+summary(dfMax)
+```
+
+Save them to a file.
+
+```{r}
+write.csv(dfMax, file="../processed/MinWageMax.csv")
+write.csv(dfMin, file="../processed/MinWageMin.csv")
+```
+
+Now read in unemployment statistics, and do some preprocessing.
+
+```{r}
+dfEmp = read_excel("../data/emp-unemployment.xls")
+row.names(dfEmp) <- lapply(dfEmp$Area, tolower)
+dfEmp$Area <- NULL
+names(dfEmp) <- lapply(names(dfEmp), function(a) {substring(a, 1, 4)})
+str(dfEmp)
+```
+
+Visualizing the unemployment rate
+
+```{r}
+dfEmp.matrix <- data.matrix(dfEmp)
+dfEmp.heatmap <- heatmap(dfEmp.matrix, Rowv=NA, Colv=NA, col = heat.colors(256), scale="none", margins=c(5,10))
+summary(dfEmp)
+```
+
+Visualize them
+
+```{r}
+for (i in 1:52) {
+  plot(names(dfEmp),dfEmp[i,1:35],type='l', sub=row.names(dfEmp)[i], ylim=c(0,20))
+}
+```
