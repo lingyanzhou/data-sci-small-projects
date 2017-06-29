@@ -1,0 +1,196 @@
+---
+title: "Reshaping"
+author: "Lingyan Zhou"
+date: "June 27, 2017"
+output: html_document
+---
+
+# Initializing workspace
+
+```{r}
+library(readxl)
+library(reshape2)
+
+violent.crimes = read.csv("../data/USViolentCrimeTotal_YearState.csv")
+
+state.population = read.csv("../data/StatePopulations_1950-2010_proc.csv")
+
+degree.awarded.total = read_excel("../data/BSDegreesAwarded_proc.xls", sheet=2,
+  skip = 1)
+
+degree.awarded.public = read_excel("../data/BSDegreesAwarded_proc.xls", sheet=3,
+  skip = 1)
+
+degree.awarded.priv.nonprof = read_excel("../data/BSDegreesAwarded_proc.xls", sheet=4,
+  skip = 1)
+
+degree.awarded.priv.prof = read_excel("../data/BSDegreesAwarded_proc.xls", sheet=5,
+  skip = 1)
+
+all.area = as.list(state.population$Area)
+```
+
+# Adding national sum in ViolentCrime table
+
+ViolentCrime statistics does not contain national totals. So we calculate the fields.
+
+```{r}
+violent.crimes$Area <- as.character(violent.crimes$Area)
+
+us_crime = apply(violent.crimes[,2:54],2, sum)
+
+us_crime = append(us_crime, "United States", 0)
+  
+violent.crimes = rbind(violent.crimes, us_crime)
+
+tail(violent.crimes)
+```
+
+# Interpolate missing population
+
+State populations table has some NA values that we need to deal with.
+
+```{r}
+row.names(state.population) <- state.population$Area
+
+names(state.population) <- lapply(names(state.population), substring, 2,5)
+
+names(state.population)[1] <- 'Area'
+
+plot(names(state.population[,2:62]), state.population['California',2:62], type="l", sub='California');
+```
+
+It's acceptable to interpolate population linearly.
+
+```{r}
+for (state in row.names(state.population)) {
+  tmp1 = state.population[state,"1990"]
+  tmp2 = state.population[state,"2000"]
+  dif = (tmp2-tmp1)
+  step = dif/10.0
+  for (y in 1991:1999) {
+    state.population[state,as.character(y)] <- tmp1+step*(y-1990)
+  }
+}
+```
+
+
+```{r}
+plot(names(state.population[,2:62]), state.population['California',2:62], type="l", sub='California');
+```
+
+# Reshaping the tables
+
+Excel uses wide styled spread sheet. For analysis, we need to use normalized style, ie, a long list, with each row contains all variables.
+
+```{r}
+degree.awarded.priv.prof <- melt(degree.awarded.priv.prof, id.vars='Area', variable.name = "Year", value.name='Private forprofit graduate')
+
+degree.awarded.priv.prof$'Year' <- as.numeric(as.character(
+degree.awarded.priv.prof$'Year'))
+```
+
+After reshape:
+
+```{r}
+head(degree.awarded.priv.prof)
+
+head(degree.awarded.priv.prof[degree.awarded.priv.prof$Area=='Alaska',])
+```
+
+Continue this process for other data frames.
+
+```{r}
+degree.awarded.priv.nonprof <- melt(degree.awarded.priv.nonprof, id.vars='Area', variable.name = "Year", value.name='Private nonprofit graduate')
+
+degree.awarded.priv.nonprof$'Year' <- as.numeric(as.character(
+degree.awarded.priv.nonprof$'Year'))
+
+degree.awarded.public <- melt(degree.awarded.public, id.vars='Area', variable.name = "Year", value.name='Public graduate')
+
+degree.awarded.public$'Year' <- as.numeric(as.character(
+degree.awarded.public$'Year'))
+
+degree.awarded.total <- melt(degree.awarded.total, id.vars='Area', variable.name = "Year", value.name='Total graduate')
+
+degree.awarded.total$'Year' <- as.numeric(as.character(
+degree.awarded.total$'Year'))
+
+degree.awarded.total[degree.awarded.total$Area=='California',]
+
+state.population <- melt(state.population, id.vars='Area', variable.name = "Year", value.name='Population')
+
+violent.crimes <- melt(violent.crimes, id.vars='Area', variable.name = "Year", value.name='Violent crimes')
+
+violent.crimes$'Year' <- as.numeric(substring(as.character(
+violent.crimes$'Year'), 2,5))
+```
+
+Preview the partial result.
+
+```{r}
+head(violent.crimes)
+head(violent.crimes[violent.crimes$Area=='Alaska',])
+
+
+head(state.population)
+head(state.population[state.population$Area=='Alaska',])
+head(state.population[state.population$Year==1980,])
+
+head(degree.awarded.total)
+head(degree.awarded.public)
+head(degree.awarded.priv.nonprof)
+head(degree.awarded.priv.prof)
+```
+
+Join them.
+
+```{r}
+#merged.data.frame = merge(degree.awarded.total, degree.awarded.public, by = c("Area", "Year"))
+#merged.data.frame = merge(merged.data.frame, degree.awarded.priv.nonprof, by = c("Area", "Year"))
+#merged.data.frame = merge(merged.data.frame, degree.awarded.priv.prof, by = c("Area", "Year"))
+#merged.data.frame = merge(merged.data.frame, violent.crimes, by = c("Area", "Year"))
+#merged.data.frame = merge(merged.data.frame, state.population, by = c("Area", "Year"))
+merged.data.frame = Reduce(function(df1, df2) {merge(df1, df2, by = c("Area", "Year"), all = TRUE)}, list(violent.crimes, state.population, degree.awarded.total, degree.awarded.public, degree.awarded.priv.nonprof), degree.awarded.priv.prof)
+
+head(merged.data.frame[merged.data.frame$Area=='District of Columbia',])
+head(merged.data.frame)
+```
+
+Save the preprocessed data.
+
+```{r}
+write.csv(merged.data.frame, file="../preproced/data.csv")
+```
+
+See the result
+
+```{r}
+merged.data.frame[merged.data.frame$Area=='District of Columbia',"Total graduate"]
+
+layout(matrix(1:3, 1, 3, byrow = TRUE))
+
+for (state in all.area) {
+  tryCatch(
+  plot(merged.data.frame$`Year`[merged.data.frame$Area==state], merged.data.frame$`Violent crimes`[merged.data.frame$Area==state], type="l", sub=state)
+  , error = function (e) {
+    plot.new()
+  })
+  
+  tryCatch(
+  plot(merged.data.frame[merged.data.frame$Area==state,"Year"], merged.data.frame[merged.data.frame$Area==state,"Population"], type="l",  sub=state)
+  , error = function (e) {
+    plot.new()
+  })
+  
+  tryCatch(
+  plot(merged.data.frame[merged.data.frame$Area==state,"Year"], merged.data.frame[merged.data.frame$Area==state,"Total graduate"], type="l", xlim=c(2000,2011), sub=state)
+  , error = function (e) {
+    plot.new()
+  }
+  , warning = function (e) {
+    plot.new()
+  }
+  )
+}
+```

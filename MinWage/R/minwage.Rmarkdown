@@ -1,8 +1,10 @@
 ---
 title: "Min Wage Preprocess"
-author: Lingyan Zhou
+author: "Lingyan Zhou"
 output: html_document
 ---
+
+# Initialize the workspace
 
 import `readxl` library and read in the input.
 
@@ -26,7 +28,8 @@ names(df) <- lapply(names(df), function(x) {substring(x, 1, 4)})
 str(df)
 ```
 
-Remove unwanted data.
+# Remove unwanted data.
+
 * The other dataset contains only data rom 1980 to 2014.
 
 ```{r}
@@ -41,7 +44,9 @@ for (col in names(df)) {
 str(df)
 ```
 
-Convert cells to numeric.
+# Convert cells to numeric.
+
+* Get rid of `$`, `-` and spaces.
 
 ```{r}
 isCellNA = function (cellStr) {
@@ -81,8 +86,10 @@ names(dfMax) <- names(df)
 str(dfMax)
 ```
 
-Interpolate unlisted years.
+# Interpolate unlisted years.
+
 * It's clear that the table only shows chages in polycies.
+
 * In years not listed in the table, previous polycies are likely to be still enforced.
 
 ```{r}
@@ -102,22 +109,20 @@ interpolate.by.year = function(df) {
 }
 
 dfMin = interpolate.by.year(dfMin)
-dfMin
+str(dfMin)
 
 dfMax = interpolate.by.year(dfMax)
-dfMax
+str(dfMax)
 ```
 
-Visualizing the data quality using heatmap
+# Visualizing the data quality using heatmap
 
 ```{r}
 dfMin.matrix <- data.matrix(dfMin)
 dfMin.heatmap <- heatmap(dfMin.matrix, Rowv=NA, Colv=NA, col = heat.colors(256), scale="none", margins=c(5,10))
-summary(dfMin)
 
 dfMax.matrix <- data.matrix(dfMax)
 dfMax.heatmap <- heatmap(dfMax.matrix, Rowv=NA, Colv=NA, col = heat.colors(256), scale="none", margins=c(5,10))
-summary(dfMax)
 ```
 
 Save them to a file.
@@ -142,13 +147,36 @@ Visualizing the unemployment rate
 ```{r}
 dfEmp.matrix <- data.matrix(dfEmp)
 dfEmp.heatmap <- heatmap(dfEmp.matrix, Rowv=NA, Colv=NA, col = heat.colors(256), scale="none", margins=c(5,10))
-summary(dfEmp)
 ```
 
 Visualize them
 
 ```{r}
-for (i in 1:52) {
-  plot(names(dfEmp),dfEmp[i,1:35],type='l', sub=row.names(dfEmp)[i], ylim=c(0,20))
+layout(matrix(1:3,1,3))
+for (i in row.names(dfEmp)) {
+  tryCatch(
+    plot(names(dfMin),dfMin[i,],type='l', sub=i)
+  , error= function(e) {
+    plot.new()
+  }
+  , warning = function(w) {
+    plot.new()
+  })
+  tryCatch(
+    plot(names(dfMax),dfMax[i,],type='l', sub=i)
+  , error= function(e) {
+    plot.new()
+  }
+  , warning = function(w) {
+    plot.new()
+  })
+  tryCatch(
+    plot(names(dfEmp),dfEmp[i,],type='l', sub=i)
+  , error= function(e) {
+    plot.new()
+  }
+  , warning = function(w) {
+    plot.new()
+  })
 }
 ```

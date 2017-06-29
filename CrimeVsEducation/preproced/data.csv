@@ -1,0 +1,3277 @@
+"","Area","Year","Private forprofit graduate","Violent crimes","Population","Total graduate","Public graduate","Private nonprofit graduate"
+"1","Alabama","1950",NA,NA,3058,NA,NA,NA
+"2","Alabama","1951",NA,NA,3059,NA,NA,NA
+"3","Alabama","1952",NA,NA,3068,NA,NA,NA
+"4","Alabama","1953",NA,NA,3053,NA,NA,NA
+"5","Alabama","1954",NA,NA,3014,NA,NA,NA
+"6","Alabama","1955",NA,NA,3050,NA,NA,NA
+"7","Alabama","1956",NA,NA,3071,NA,NA,NA
+"8","Alabama","1957",NA,NA,3109,NA,NA,NA
+"9","Alabama","1958",NA,NA,3163,NA,NA,NA
+"10","Alabama","1959",NA,NA,3204,NA,NA,NA
+"11","Alabama","1960",NA,"6097",3267,NA,NA,NA
+"12","Alabama","1961",NA,"5564",3316,NA,NA,NA
+"13","Alabama","1962",NA,"5283",3323,NA,NA,NA
+"14","Alabama","1963",NA,"6115",3358,NA,NA,NA
+"15","Alabama","1964",NA,"7260",3395,NA,NA,NA
+"16","Alabama","1965",NA,"6916",NA,NA,NA,NA
+"17","Alabama","1966",NA,"8098",3464,NA,NA,NA
+"18","Alabama","1967",NA,"8448",3458,NA,NA,NA
+"19","Alabama","1968",NA,"8288",3446,NA,NA,NA
+"20","Alabama","1969",NA,"8842",3440,NA,NA,NA
+"21","Alabama","1970",NA,"10185",3444,NA,NA,NA
+"22","Alabama","1971",NA,"10835",3497,NA,NA,NA
+"23","Alabama","1972",NA,"10994",3539,NA,NA,NA
+"24","Alabama","1973",NA,"12390",3580,NA,NA,NA
+"25","Alabama","1974",NA,"13338",3626,NA,NA,NA
+"26","Alabama","1975",NA,"14201",3679,NA,NA,NA
+"27","Alabama","1976",NA,"14248",3735,NA,NA,NA
+"28","Alabama","1977",NA,"15293",3780,NA,NA,NA
+"29","Alabama","1978",NA,"15682",3832,NA,NA,NA
+"30","Alabama","1979",NA,"15578",3866,NA,NA,NA
+"31","Alabama","1980",NA,"17320",3894,NA,NA,NA
+"32","Alabama","1981",NA,"18423",3919,NA,NA,NA
+"33","Alabama","1982",NA,"17653",3925,NA,NA,NA
+"34","Alabama","1983",NA,"16471",3934,NA,NA,NA
+"35","Alabama","1984",NA,"17204",3952,NA,NA,NA
+"36","Alabama","1985",NA,"18398",3973,NA,NA,NA
+"37","Alabama","1986",NA,"22616",3992,NA,NA,NA
+"38","Alabama","1987",NA,"22833",4015,NA,NA,NA
+"39","Alabama","1988",NA,"23052",4024,NA,NA,NA
+"40","Alabama","1989",NA,"24329",4030,NA,NA,NA
+"41","Alabama","1990",NA,"28630",4041,NA,NA,NA
+"42","Alabama","1991",NA,"34518",4082.1,NA,NA,NA
+"43","Alabama","1992",NA,"36052",4123.2,NA,NA,NA
+"44","Alabama","1993",NA,"32676",4164.3,NA,NA,NA
+"45","Alabama","1994",NA,"28844",4205.4,NA,NA,NA
+"46","Alabama","1995",NA,"26894",4246.5,NA,NA,NA
+"47","Alabama","1996",NA,"24159",4287.6,NA,NA,NA
+"48","Alabama","1997",NA,"24379",4328.7,NA,NA,NA
+"49","Alabama","1998",NA,"22286",4369.8,NA,NA,NA
+"50","Alabama","1999",NA,"21421",4410.9,NA,NA,NA
+"51","Alabama","2000",NA,"21620",4452,NA,NA,NA
+"52","Alabama","2001",169,"19582",4468,20823,17210,3444
+"53","Alabama","2002",93,"19931",4480,20314,16757,3464
+"54","Alabama","2003",149,"19331",4503,20479,16950,3380
+"55","Alabama","2004",177,"19324",4531,21386,17643,3566
+"56","Alabama","2005",257,"19678",4570,21616,17810,3549
+"57","Alabama","2006",251,"19553",4629,21995,18332,3412
+"58","Alabama","2007",254,"20775",4673,21981,18499,3228
+"59","Alabama","2008",715,"21110",4718,23448,18926,3807
+"60","Alabama","2009",869,"21194",4758,24245,19928,3448
+"61","Alabama","2010",1560,"18363",4780,25686,20633,3488
+"62","Alabama","2011",NA,"20166",NA,NA,NA,NA
+"63","Alabama","2012",NA,"21693",NA,NA,NA,NA
+"64","Alaska","1950",NA,NA,135,NA,NA,NA
+"65","Alaska","1951",NA,NA,158,NA,NA,NA
+"66","Alaska","1952",NA,NA,189,NA,NA,NA
+"67","Alaska","1953",NA,NA,205,NA,NA,NA
+"68","Alaska","1954",NA,NA,215,NA,NA,NA
+"69","Alaska","1955",NA,NA,222,NA,NA,NA
+"70","Alaska","1956",NA,NA,224,NA,NA,NA
+"71","Alaska","1957",NA,NA,231,NA,NA,NA
+"72","Alaska","1958",NA,NA,224,NA,NA,NA
+"73","Alaska","1959",NA,NA,224,NA,NA,NA
+"74","Alaska","1960",NA,"236",226,NA,NA,NA
+"75","Alaska","1961",NA,"208",238,NA,NA,NA
+"76","Alaska","1962",NA,"225",246,NA,NA,NA
+"77","Alaska","1963",NA,"272",256,NA,NA,NA
+"78","Alaska","1964",NA,"375",263,NA,NA,NA
+"79","Alaska","1965",NA,"377",NA,NA,NA,NA
+"80","Alaska","1966",NA,"409",271,NA,NA,NA
+"81","Alaska","1967",NA,"437",278,NA,NA,NA
+"82","Alaska","1968",NA,"486",285,NA,NA,NA
+"83","Alaska","1969",NA,"624",296,NA,NA,NA
+"84","Alaska","1970",NA,"840",302,NA,NA,NA
+"85","Alaska","1971",NA,"1112",316,NA,NA,NA
+"86","Alaska","1972",NA,"1204",324,NA,NA,NA
+"87","Alaska","1973",NA,"1269",331,NA,NA,NA
+"88","Alaska","1974",NA,"1527",341,NA,NA,NA
+"89","Alaska","1975",NA,"1900",376,NA,NA,NA
+"90","Alaska","1976",NA,"2063",401,NA,NA,NA
+"91","Alaska","1977",NA,"1804",403,NA,NA,NA
+"92","Alaska","1978",NA,"1781",405,NA,NA,NA
+"93","Alaska","1979",NA,"1994",403,NA,NA,NA
+"94","Alaska","1980",NA,"1919",402,NA,NA,NA
+"95","Alaska","1981",NA,"2537",418,NA,NA,NA
+"96","Alaska","1982",NA,"2732",450,NA,NA,NA
+"97","Alaska","1983",NA,"2940",488,NA,NA,NA
+"98","Alaska","1984",NA,"3108",514,NA,NA,NA
+"99","Alaska","1985",NA,"3031",532,NA,NA,NA
+"100","Alaska","1986",NA,"3046",544,NA,NA,NA
+"101","Alaska","1987",NA,"2391",539,NA,NA,NA
+"102","Alaska","1988",NA,"2682",542,NA,NA,NA
+"103","Alaska","1989",NA,"2623",547,NA,NA,NA
+"104","Alaska","1990",NA,"2885",550,NA,NA,NA
+"105","Alaska","1991",NA,"3499",557.8,NA,NA,NA
+"106","Alaska","1992",NA,"3877",565.6,NA,NA,NA
+"107","Alaska","1993",NA,"4557",573.4,NA,NA,NA
+"108","Alaska","1994",NA,"4644",581.2,NA,NA,NA
+"109","Alaska","1995",NA,"4656",589,NA,NA,NA
+"110","Alaska","1996",NA,"4417",596.8,NA,NA,NA
+"111","Alaska","1997",NA,"4270",604.6,NA,NA,NA
+"112","Alaska","1998",NA,"4015",612.4,NA,NA,NA
+"113","Alaska","1999",NA,"3908",620.2,NA,NA,NA
+"114","Alaska","2000",NA,"3554",628,NA,NA,NA
+"115","Alaska","2001",0,"3735",634,1338,1232,106
+"116","Alaska","2002",0,"3627",642,1377,1277,100
+"117","Alaska","2003",8,"3877",648,1363,1245,110
+"118","Alaska","2004",4,"4159",659,1405,1288,113
+"119","Alaska","2005",20,"4194",667,1427,1304,103
+"120","Alaska","2006",30,"4610",675,1573,1443,100
+"121","Alaska","2007",9,"4520",680,1512,1419,84
+"122","Alaska","2008",16,"4475",687,1498,1408,74
+"123","Alaska","2009",24,"4424",699,1626,1527,75
+"124","Alaska","2010",30,"4537",710,1619,1498,91
+"125","Alaska","2011",NA,"4416",NA,NA,NA,NA
+"126","Alaska","2012",NA,"4412",NA,NA,NA,NA
+"127","Arizona","1950",NA,NA,756,NA,NA,NA
+"128","Arizona","1951",NA,NA,785,NA,NA,NA
+"129","Arizona","1952",NA,NA,842,NA,NA,NA
+"130","Arizona","1953",NA,NA,894,NA,NA,NA
+"131","Arizona","1954",NA,NA,933,NA,NA,NA
+"132","Arizona","1955",NA,NA,987,NA,NA,NA
+"133","Arizona","1956",NA,NA,1053,NA,NA,NA
+"134","Arizona","1957",NA,NA,1125,NA,NA,NA
+"135","Arizona","1958",NA,NA,1193,NA,NA,NA
+"136","Arizona","1959",NA,NA,1261,NA,NA,NA
+"137","Arizona","1960",NA,"2704",1302,NA,NA,NA
+"138","Arizona","1961",NA,"2288",1407,NA,NA,NA
+"139","Arizona","1962",NA,"2610",1471,NA,NA,NA
+"140","Arizona","1963",NA,"3027",1521,NA,NA,NA
+"141","Arizona","1964",NA,"3368",1556,NA,NA,NA
+"142","Arizona","1965",NA,"3092",NA,NA,NA,NA
+"143","Arizona","1966",NA,"3272",1614,NA,NA,NA
+"144","Arizona","1967",NA,"3892",1646,NA,NA,NA
+"145","Arizona","1968",NA,"4402",1682,NA,NA,NA
+"146","Arizona","1969",NA,"5742",1737,NA,NA,NA
+"147","Arizona","1970",NA,"6564",1772,NA,NA,NA
+"148","Arizona","1971",NA,"7407",1896,NA,NA,NA
+"149","Arizona","1972",NA,"8731",2008,NA,NA,NA
+"150","Arizona","1973",NA,"9877",2124,NA,NA,NA
+"151","Arizona","1974",NA,"12202",2223,NA,NA,NA
+"152","Arizona","1975",NA,"12184",2285,NA,NA,NA
+"153","Arizona","1976",NA,"10335",2346,NA,NA,NA
+"154","Arizona","1977",NA,"11347",2425,NA,NA,NA
+"155","Arizona","1978",NA,"12996",2515,NA,NA,NA
+"156","Arizona","1979",NA,"14528",2636,NA,NA,NA
+"157","Arizona","1980",NA,"17673",2718,NA,NA,NA
+"158","Arizona","1981",NA,"16082",2810,NA,NA,NA
+"159","Arizona","1982",NA,"14785",2890,NA,NA,NA
+"160","Arizona","1983",NA,"14642",2969,NA,NA,NA
+"161","Arizona","1984",NA,"15756",3067,NA,NA,NA
+"162","Arizona","1985",NA,"19202",3184,NA,NA,NA
+"163","Arizona","1986",NA,"21835",3308,NA,NA,NA
+"164","Arizona","1987",NA,"20742",3437,NA,NA,NA
+"165","Arizona","1988",NA,"21147",3535,NA,NA,NA
+"166","Arizona","1989",NA,"21320",3622,NA,NA,NA
+"167","Arizona","1990",NA,"23911",3665,NA,NA,NA
+"168","Arizona","1991",NA,"25152",3814.6,NA,NA,NA
+"169","Arizona","1992",NA,"25706",3964.2,NA,NA,NA
+"170","Arizona","1993",NA,"28142",4113.8,NA,NA,NA
+"171","Arizona","1994",NA,"28653",4263.4,NA,NA,NA
+"172","Arizona","1995",NA,"30095",4413,NA,NA,NA
+"173","Arizona","1996",NA,"27963",4562.6,NA,NA,NA
+"174","Arizona","1997",NA,"28411",4712.2,NA,NA,NA
+"175","Arizona","1998",NA,"26984",4861.8,NA,NA,NA
+"176","Arizona","1999",NA,"26334",5011.4,NA,NA,NA
+"177","Arizona","2000",NA,"27281",5161,NA,NA,NA
+"178","Arizona","2001",2614,"28675",5273,19589,15593,1382
+"179","Arizona","2002",3009,"30171",5396,20468,16123,1336
+"180","Arizona","2003",2934,"28638",5510,21065,16697,1434
+"181","Arizona","2004",3175,"28952",5652,21752,17350,1227
+"182","Arizona","2005",3095,"30478",5839,22439,18299,1045
+"183","Arizona","2006",3016,"33456",6029,22417,18302,1099
+"184","Arizona","2007",3371,"32835",6168,22946,18570,1005
+"185","Arizona","2008",3293,"31567",6280,23501,19198,1010
+"186","Arizona","2009",3805,"28128",6343,25012,20294,913
+"187","Arizona","2010",4315,"26528",6392,26305,21037,953
+"188","Arizona","2011",NA,"26789",NA,NA,NA,NA
+"189","Arizona","2012",NA,"28108",NA,NA,NA,NA
+"190","Arkansas","1950",NA,NA,1908,NA,NA,NA
+"191","Arkansas","1951",NA,NA,1901,NA,NA,NA
+"192","Arkansas","1952",NA,NA,1838,NA,NA,NA
+"193","Arkansas","1953",NA,NA,1780,NA,NA,NA
+"194","Arkansas","1954",NA,NA,1734,NA,NA,NA
+"195","Arkansas","1955",NA,NA,1725,NA,NA,NA
+"196","Arkansas","1956",NA,NA,1704,NA,NA,NA
+"197","Arkansas","1957",NA,NA,1733,NA,NA,NA
+"198","Arkansas","1958",NA,NA,1726,NA,NA,NA
+"199","Arkansas","1959",NA,NA,1756,NA,NA,NA
+"200","Arkansas","1960",NA,"1924",1786,NA,NA,NA
+"201","Arkansas","1961",NA,"1809",1806,NA,NA,NA
+"202","Arkansas","1962",NA,"1667",1853,NA,NA,NA
+"203","Arkansas","1963",NA,"1991",1875,NA,NA,NA
+"204","Arkansas","1964",NA,"2641",1897,NA,NA,NA
+"205","Arkansas","1965",NA,"2662",NA,NA,NA,NA
+"206","Arkansas","1966",NA,"3185",1899,NA,NA,NA
+"207","Arkansas","1967",NA,"4320",1901,NA,NA,NA
+"208","Arkansas","1968",NA,"4360",1902,NA,NA,NA
+"209","Arkansas","1969",NA,"4390",1913,NA,NA,NA
+"210","Arkansas","1970",NA,"4276",1923,NA,NA,NA
+"211","Arkansas","1971",NA,"4680",1972,NA,NA,NA
+"212","Arkansas","1972",NA,"4840",2019,NA,NA,NA
+"213","Arkansas","1973",NA,"5905",2059,NA,NA,NA
+"214","Arkansas","1974",NA,"6521",2101,NA,NA,NA
+"215","Arkansas","1975",NA,"7369",2160,NA,NA,NA
+"216","Arkansas","1976",NA,"6410",2170,NA,NA,NA
+"217","Arkansas","1977",NA,"6924",2209,NA,NA,NA
+"218","Arkansas","1978",NA,"7522",2243,NA,NA,NA
+"219","Arkansas","1979",NA,"7984",2271,NA,NA,NA
+"220","Arkansas","1980",NA,"7656",2286,NA,NA,NA
+"221","Arkansas","1981",NA,"7119",2293,NA,NA,NA
+"222","Arkansas","1982",NA,"7438",2294,NA,NA,NA
+"223","Arkansas","1983",NA,"6930",2306,NA,NA,NA
+"224","Arkansas","1984",NA,"7549",2320,NA,NA,NA
+"225","Arkansas","1985",NA,"8199",2327,NA,NA,NA
+"226","Arkansas","1986",NA,"9365",2332,NA,NA,NA
+"227","Arkansas","1987",NA,"9839",2342,NA,NA,NA
+"228","Arkansas","1988",NA,"10237",2343,NA,NA,NA
+"229","Arkansas","1989",NA,"11397",2346,NA,NA,NA
+"230","Arkansas","1990",NA,"12511",2351,NA,NA,NA
+"231","Arkansas","1991",NA,"14072",2383.8,NA,NA,NA
+"232","Arkansas","1992",NA,"13831",2416.6,NA,NA,NA
+"233","Arkansas","1993",NA,"14381",2449.4,NA,NA,NA
+"234","Arkansas","1994",NA,"14598",2482.2,NA,NA,NA
+"235","Arkansas","1995",NA,"13741",2515,NA,NA,NA
+"236","Arkansas","1996",NA,"13161",2547.8,NA,NA,NA
+"237","Arkansas","1997",NA,"13293",2580.6,NA,NA,NA
+"238","Arkansas","1998",NA,"12442",2613.4,NA,NA,NA
+"239","Arkansas","1999",NA,"10848",2646.2,NA,NA,NA
+"240","Arkansas","2000",NA,"11904",2679,NA,NA,NA
+"241","Arkansas","2001",0,"12190",2692,9628,7610,2018
+"242","Arkansas","2002",0,"11501",2706,10078,8009,2069
+"243","Arkansas","2003",0,"12449",2725,10591,8449,2142
+"244","Arkansas","2004",0,"13814",2750,10784,8537,2247
+"245","Arkansas","2005",0,"14670",2781,11191,8843,2348
+"246","Arkansas","2006",22,"15538",2822,11340,8935,2383
+"247","Arkansas","2007",44,"15226",2849,11479,9188,2247
+"248","Arkansas","2008",47,"14649",2875,11574,9306,2221
+"249","Arkansas","2009",91,"14905",2897,12027,9680,2256
+"250","Arkansas","2010",110,"14711",2916,12523,10032,2381
+"251","Arkansas","2011",NA,"14173",NA,NA,NA,NA
+"252","Arkansas","2012",NA,"13835",NA,NA,NA,NA
+"253","California","1950",NA,NA,10677,NA,NA,NA
+"254","California","1951",NA,NA,11134,NA,NA,NA
+"255","California","1952",NA,NA,11635,NA,NA,NA
+"256","California","1953",NA,NA,12251,NA,NA,NA
+"257","California","1954",NA,NA,12746,NA,NA,NA
+"258","California","1955",NA,NA,13133,NA,NA,NA
+"259","California","1956",NA,NA,13713,NA,NA,NA
+"260","California","1957",NA,NA,14264,NA,NA,NA
+"261","California","1958",NA,NA,14880,NA,NA,NA
+"262","California","1959",NA,NA,15467,NA,NA,NA
+"263","California","1960",NA,"37558",15717,NA,NA,NA
+"264","California","1961",NA,"38154",16497,NA,NA,NA
+"265","California","1962",NA,"39846",17072,NA,NA,NA
+"266","California","1963",NA,"42419",17668,NA,NA,NA
+"267","California","1964",NA,"48026",18151,NA,NA,NA
+"268","California","1965",NA,"52490",NA,NA,NA,NA
+"269","California","1966",NA,"57718",18858,NA,NA,NA
+"270","California","1967",NA,"67446",19176,NA,NA,NA
+"271","California","1968",NA,"81293",19394,NA,NA,NA
+"272","California","1969",NA,"89878",19711,NA,NA,NA
+"273","California","1970",NA,"94741",19953,NA,NA,NA
+"274","California","1971",NA,"104872",20346,NA,NA,NA
+"275","California","1972",NA,"110667",20585,NA,NA,NA
+"276","California","1973",NA,"116563",20869,NA,NA,NA
+"277","California","1974",NA,"127658",21174,NA,NA,NA
+"278","California","1975",NA,"138842",21538,NA,NA,NA
+"279","California","1976",NA,"144041",21936,NA,NA,NA
+"280","California","1977",NA,"154582",22352,NA,NA,NA
+"281","California","1978",NA,"165626",22836,NA,NA,NA
+"282","California","1979",NA,"184087",23257,NA,NA,NA
+"283","California","1980",NA,"210290",23668,NA,NA,NA
+"284","California","1981",NA,"208485",24286,NA,NA,NA
+"285","California","1982",NA,"201429",24820,NA,NA,NA
+"286","California","1983",NA,"194491",25360,NA,NA,NA
+"287","California","1984",NA,"195589",25844,NA,NA,NA
+"288","California","1985",NA,"201763",26441,NA,NA,NA
+"289","California","1986",NA,"248370",27102,NA,NA,NA
+"290","California","1987",NA,"253943",27777,NA,NA,NA
+"291","California","1988",NA,"261912",28464,NA,NA,NA
+"292","California","1989",NA,"284136",29218,NA,NA,NA
+"293","California","1990",NA,"311051",29760,NA,NA,NA
+"294","California","1991",NA,"331122",30182.8,NA,NA,NA
+"295","California","1992",NA,"345624",30605.6,NA,NA,NA
+"296","California","1993",NA,"336381",31028.4,NA,NA,NA
+"297","California","1994",NA,"318395",31451.2,NA,NA,NA
+"298","California","1995",NA,"305154",31874,NA,NA,NA
+"299","California","1996",NA,"274996",32296.8,NA,NA,NA
+"300","California","1997",NA,"257582",32719.6,NA,NA,NA
+"301","California","1998",NA,"229883",33142.4,NA,NA,NA
+"302","California","1999",NA,"207879",33565.2,NA,NA,NA
+"303","California","2000",NA,"210531",33988,NA,NA,NA
+"304","California","2001",5880,"212867",34479,123382,89959,27543
+"305","California","2002",6475,"208388",34872,131152,96179,28498
+"306","California","2003",7148,"205551",35253,135844,98809,29887
+"307","California","2004",8272,"189175",35575,142418,104322,29824
+"308","California","2005",8653,"190178",35828,146959,107630,30676
+"309","California","2006",9022,"194483",36021,151021,110990,31009
+"310","California","2007",9261,"191561",36250,153312,112661,31381
+"311","California","2008",10273,"185329",36604,158652,116177,32202
+"312","California","2009",12089,"174934",36961,160930,117309,31532
+"313","California","2010",12404,"164133",37254,164234,120274,31556
+"314","California","2011",NA,"154943",NA,NA,NA,NA
+"315","California","2012",NA,"160944",NA,NA,NA,NA
+"316","Colorado","1950",NA,NA,1325,NA,NA,NA
+"317","Colorado","1951",NA,NA,1326,NA,NA,NA
+"318","Colorado","1952",NA,NA,1365,NA,NA,NA
+"319","Colorado","1953",NA,NA,1431,NA,NA,NA
+"320","Colorado","1954",NA,NA,1493,NA,NA,NA
+"321","Colorado","1955",NA,NA,1546,NA,NA,NA
+"322","Colorado","1956",NA,NA,1625,NA,NA,NA
+"323","Colorado","1957",NA,NA,1664,NA,NA,NA
+"324","Colorado","1958",NA,NA,1667,NA,NA,NA
+"325","Colorado","1959",NA,NA,1710,NA,NA,NA
+"326","Colorado","1960",NA,"2408",1754,NA,NA,NA
+"327","Colorado","1961",NA,"2659",1844,NA,NA,NA
+"328","Colorado","1962",NA,"2990",1899,NA,NA,NA
+"329","Colorado","1963",NA,"2555",1936,NA,NA,NA
+"330","Colorado","1964",NA,"3119",1970,NA,NA,NA
+"331","Colorado","1965",NA,"3007",NA,NA,NA,NA
+"332","Colorado","1966",NA,"3340",2007,NA,NA,NA
+"333","Colorado","1967",NA,"3789",2053,NA,NA,NA
+"334","Colorado","1968",NA,"5387",2120,NA,NA,NA
+"335","Colorado","1969",NA,"6275",2166,NA,NA,NA
+"336","Colorado","1970",NA,"7874",2207,NA,NA,NA
+"337","Colorado","1971",NA,"8530",2304,NA,NA,NA
+"338","Colorado","1972",NA,"9555",2405,NA,NA,NA
+"339","Colorado","1973",NA,"10088",2496,NA,NA,NA
+"340","Colorado","1974",NA,"10728",2541,NA,NA,NA
+"341","Colorado","1975",NA,"11735",2586,NA,NA,NA
+"342","Colorado","1976",NA,"10770",2632,NA,NA,NA
+"343","Colorado","1977",NA,"13407",2696,NA,NA,NA
+"344","Colorado","1978",NA,"13296",2767,NA,NA,NA
+"345","Colorado","1979",NA,"14472",2849,NA,NA,NA
+"346","Colorado","1980",NA,"15215",2890,NA,NA,NA
+"347","Colorado","1981",NA,"15755",2978,NA,NA,NA
+"348","Colorado","1982",NA,"15354",3062,NA,NA,NA
+"349","Colorado","1983",NA,"14955",3134,NA,NA,NA
+"350","Colorado","1984",NA,"14548",3170,NA,NA,NA
+"351","Colorado","1985",NA,"15219",3209,NA,NA,NA
+"352","Colorado","1986",NA,"17105",3237,NA,NA,NA
+"353","Colorado","1987",NA,"15409",3260,NA,NA,NA
+"354","Colorado","1988",NA,"15548",3262,NA,NA,NA
+"355","Colorado","1989",NA,"15636",3276,NA,NA,NA
+"356","Colorado","1990",NA,"17328",3294,NA,NA,NA
+"357","Colorado","1991",NA,"18887",3397.3,NA,NA,NA
+"358","Colorado","1992",NA,"20086",3500.6,NA,NA,NA
+"359","Colorado","1993",NA,"20229",3603.9,NA,NA,NA
+"360","Colorado","1994",NA,"18632",3707.2,NA,NA,NA
+"361","Colorado","1995",NA,"16494",3810.5,NA,NA,NA
+"362","Colorado","1996",NA,"15463",3913.8,NA,NA,NA
+"363","Colorado","1997",NA,"14139",4017.1,NA,NA,NA
+"364","Colorado","1998",NA,"15008",4120.4,NA,NA,NA
+"365","Colorado","1999",NA,"13811",4223.7,NA,NA,NA
+"366","Colorado","2000",NA,"14367",4327,NA,NA,NA
+"367","Colorado","2001",956,"15492",4426,22272,18277,3039
+"368","Colorado","2002",1095,"15882",4490,23216,19109,3012
+"369","Colorado","2003",1302,"15757",4529,24260,19865,3093
+"370","Colorado","2004",1534,"17121",4575,25247,20275,3438
+"371","Colorado","2005",1616,"18498",4632,25997,20976,3405
+"372","Colorado","2006",1902,"18794",4720,26938,21690,3346
+"373","Colorado","2007",1847,"17101",4804,26902,21425,3630
+"374","Colorado","2008",2029,"17480",4890,27731,21939,3763
+"375","Colorado","2009",1848,"17022",4972,27425,21639,3938
+"376","Colorado","2010",1822,"16339",5029,27545,21840,3883
+"377","Colorado","2011",NA,"16085",NA,NA,NA,NA
+"378","Colorado","2012",NA,"16023",NA,NA,NA,NA
+"379","Connecticut","1950",NA,NA,2016,NA,NA,NA
+"380","Connecticut","1951",NA,NA,2028,NA,NA,NA
+"381","Connecticut","1952",NA,NA,2081,NA,NA,NA
+"382","Connecticut","1953",NA,NA,2168,NA,NA,NA
+"383","Connecticut","1954",NA,NA,2249,NA,NA,NA
+"384","Connecticut","1955",NA,NA,2300,NA,NA,NA
+"385","Connecticut","1956",NA,NA,2316,NA,NA,NA
+"386","Connecticut","1957",NA,NA,2359,NA,NA,NA
+"387","Connecticut","1958",NA,NA,2446,NA,NA,NA
+"388","Connecticut","1959",NA,NA,2523,NA,NA,NA
+"389","Connecticut","1960",NA,"928",2535,NA,NA,NA
+"390","Connecticut","1961",NA,"878",2586,NA,NA,NA
+"391","Connecticut","1962",NA,"938",2647,NA,NA,NA
+"392","Connecticut","1963",NA,"1192",2727,NA,NA,NA
+"393","Connecticut","1964",NA,"1773",2798,NA,NA,NA
+"394","Connecticut","1965",NA,"1973",NA,NA,NA,NA
+"395","Connecticut","1966",NA,"2146",2903,NA,NA,NA
+"396","Connecticut","1967",NA,"2804",2935,NA,NA,NA
+"397","Connecticut","1968",NA,"3825",2964,NA,NA,NA
+"398","Connecticut","1969",NA,"4415",3000,NA,NA,NA
+"399","Connecticut","1970",NA,"5167",3032,NA,NA,NA
+"400","Connecticut","1971",NA,"5968",3061,NA,NA,NA
+"401","Connecticut","1972",NA,"6138",3069,NA,NA,NA
+"402","Connecticut","1973",NA,"6421",3068,NA,NA,NA
+"403","Connecticut","1974",NA,"7045",3074,NA,NA,NA
+"404","Connecticut","1975",NA,"8308",3082,NA,NA,NA
+"405","Connecticut","1976",NA,"8516",3083,NA,NA,NA
+"406","Connecticut","1977",NA,"8774",3086,NA,NA,NA
+"407","Connecticut","1978",NA,"9762",3092,NA,NA,NA
+"408","Connecticut","1979",NA,"12902",3096,NA,NA,NA
+"409","Connecticut","1980",NA,"12768",3108,NA,NA,NA
+"410","Connecticut","1981",NA,"14033",3129,NA,NA,NA
+"411","Connecticut","1982",NA,"12597",3139,NA,NA,NA
+"412","Connecticut","1983",NA,"11767",3162,NA,NA,NA
+"413","Connecticut","1984",NA,"12422",3180,NA,NA,NA
+"414","Connecticut","1985",NA,"12758",3201,NA,NA,NA
+"415","Connecticut","1986",NA,"13578",3224,NA,NA,NA
+"416","Connecticut","1987",NA,"13455",3247,NA,NA,NA
+"417","Connecticut","1988",NA,"14759",3272,NA,NA,NA
+"418","Connecticut","1989",NA,"16576",3283,NA,NA,NA
+"419","Connecticut","1990",NA,"18201",3287,NA,NA,NA
+"420","Connecticut","1991",NA,"17761",3299.5,NA,NA,NA
+"421","Connecticut","1992",NA,"16252",3312,NA,NA,NA
+"422","Connecticut","1993",NA,"14949",3324.5,NA,NA,NA
+"423","Connecticut","1994",NA,"14916",3337,NA,NA,NA
+"424","Connecticut","1995",NA,"13293",3349.5,NA,NA,NA
+"425","Connecticut","1996",NA,"13490",3362,NA,NA,NA
+"426","Connecticut","1997",NA,"12781",3374.5,NA,NA,NA
+"427","Connecticut","1998",NA,"11993",3387,NA,NA,NA
+"428","Connecticut","1999",NA,"11342",3399.5,NA,NA,NA
+"429","Connecticut","2000",NA,"11058",3412,NA,NA,NA
+"430","Connecticut","2001",36,"11492",3433,14245,6898,7311
+"431","Connecticut","2002",28,"10807",3459,14809,7116,7665
+"432","Connecticut","2003",25,"11045",3484,16034,7934,8075
+"433","Connecticut","2004",38,"10113",3496,16853,8359,8456
+"434","Connecticut","2005",228,"9542",3507,16833,8722,7883
+"435","Connecticut","2006",243,"10505",3517,17997,9556,8198
+"436","Connecticut","2007",226,"10547",3527,18520,9600,8694
+"437","Connecticut","2008",251,"10737",3546,18938,10073,8614
+"438","Connecticut","2009",284,"10588",3562,19178,10077,8817
+"439","Connecticut","2010",151,"10083",3574,19680,10332,9197
+"440","Connecticut","2011",NA,"9889",NA,NA,NA,NA
+"441","Connecticut","2012",NA,"10160",NA,NA,NA,NA
+"442","Delaware","1950",NA,NA,321,NA,NA,NA
+"443","Delaware","1951",NA,NA,331,NA,NA,NA
+"444","Delaware","1952",NA,NA,341,NA,NA,NA
+"445","Delaware","1953",NA,NA,351,NA,NA,NA
+"446","Delaware","1954",NA,NA,368,NA,NA,NA
+"447","Delaware","1955",NA,NA,389,NA,NA,NA
+"448","Delaware","1956",NA,NA,408,NA,NA,NA
+"449","Delaware","1957",NA,NA,426,NA,NA,NA
+"450","Delaware","1958",NA,NA,433,NA,NA,NA
+"451","Delaware","1959",NA,NA,441,NA,NA,NA
+"452","Delaware","1960",NA,"375",446,NA,NA,NA
+"453","Delaware","1961",NA,"318",461,NA,NA,NA
+"454","Delaware","1962",NA,"338",469,NA,NA,NA
+"455","Delaware","1963",NA,"424",483,NA,NA,NA
+"456","Delaware","1964",NA,"541",497,NA,NA,NA
+"457","Delaware","1965",NA,"561",NA,NA,NA,NA
+"458","Delaware","1966",NA,"655",516,NA,NA,NA
+"459","Delaware","1967",NA,"948",525,NA,NA,NA
+"460","Delaware","1968",NA,"1288",534,NA,NA,NA
+"461","Delaware","1969",NA,"1588",540,NA,NA,NA
+"462","Delaware","1970",NA,"1795",548,NA,NA,NA
+"463","Delaware","1971",NA,"2060",565,NA,NA,NA
+"464","Delaware","1972",NA,"2181",573,NA,NA,NA
+"465","Delaware","1973",NA,"2016",578,NA,NA,NA
+"466","Delaware","1974",NA,"2539",581,NA,NA,NA
+"467","Delaware","1975",NA,"2270",587,NA,NA,NA
+"468","Delaware","1976",NA,"1872",590,NA,NA,NA
+"469","Delaware","1977",NA,"2224",592,NA,NA,NA
+"470","Delaware","1978",NA,"2569",595,NA,NA,NA
+"471","Delaware","1979",NA,"3127",595,NA,NA,NA
+"472","Delaware","1980",NA,"2824",594,NA,NA,NA
+"473","Delaware","1981",NA,"3044",596,NA,NA,NA
+"474","Delaware","1982",NA,"3370",599,NA,NA,NA
+"475","Delaware","1983",NA,"2746",605,NA,NA,NA
+"476","Delaware","1984",NA,"2671",612,NA,NA,NA
+"477","Delaware","1985",NA,"2695",618,NA,NA,NA
+"478","Delaware","1986",NA,"2703",628,NA,NA,NA
+"479","Delaware","1987",NA,"2774",637,NA,NA,NA
+"480","Delaware","1988",NA,"2981",648,NA,NA,NA
+"481","Delaware","1989",NA,"3745",658,NA,NA,NA
+"482","Delaware","1990",NA,"4365",666,NA,NA,NA
+"483","Delaware","1991",NA,"4857",678,NA,NA,NA
+"484","Delaware","1992",NA,"4280",690,NA,NA,NA
+"485","Delaware","1993",NA,"4801",702,NA,NA,NA
+"486","Delaware","1994",NA,"4549",714,NA,NA,NA
+"487","Delaware","1995",NA,"5198",726,NA,NA,NA
+"488","Delaware","1996",NA,"4845",738,NA,NA,NA
+"489","Delaware","1997",NA,"5753",750,NA,NA,NA
+"490","Delaware","1998",NA,"5672",762,NA,NA,NA
+"491","Delaware","1999",NA,"5534",774,NA,NA,NA
+"492","Delaware","2000",NA,"5363",786,NA,NA,NA
+"493","Delaware","2001",0,"4868",796,4504,3566,938
+"494","Delaware","2002",0,"4836",806,4936,3879,1057
+"495","Delaware","2003",0,"5525",818,5164,4012,1152
+"496","Delaware","2004",0,"5105",831,5101,3811,1290
+"497","Delaware","2005",0,"5332",845,5247,3970,1277
+"498","Delaware","2006",0,"5983",859,5410,4132,1278
+"499","Delaware","2007",0,"6100",872,5113,3821,1292
+"500","Delaware","2008",0,"6187",884,5322,3955,1367
+"501","Delaware","2009",0,"5713",892,5472,4075,1397
+"502","Delaware","2010",13,"5608",898,5505,3797,1695
+"503","Delaware","2011",NA,"5144",NA,NA,NA,NA
+"504","Delaware","2012",NA,"5020",NA,NA,NA,NA
+"505","District of Columbia","1950",NA,NA,806,NA,NA,NA
+"506","District of Columbia","1951",NA,NA,808,NA,NA,NA
+"507","District of Columbia","1952",NA,NA,805,NA,NA,NA
+"508","District of Columbia","1953",NA,NA,810,NA,NA,NA
+"509","District of Columbia","1954",NA,NA,791,NA,NA,NA
+"510","District of Columbia","1955",NA,NA,785,NA,NA,NA
+"511","District of Columbia","1956",NA,NA,759,NA,NA,NA
+"512","District of Columbia","1957",NA,NA,763,NA,NA,NA
+"513","District of Columbia","1958",NA,NA,757,NA,NA,NA
+"514","District of Columbia","1959",NA,NA,761,NA,NA,NA
+"515","District of Columbia","1960",NA,"4230",764,NA,NA,NA
+"516","District of Columbia","1961",NA,"4491",778,NA,NA,NA
+"517","District of Columbia","1962",NA,"4750",788,NA,NA,NA
+"518","District of Columbia","1963",NA,"4740",798,NA,NA,NA
+"519","District of Columbia","1964",NA,"5112",798,NA,NA,NA
+"520","District of Columbia","1965",NA,"5804",NA,NA,NA,NA
+"521","District of Columbia","1966",NA,"7155",791,NA,NA,NA
+"522","District of Columbia","1967",NA,"9252",791,NA,NA,NA
+"523","District of Columbia","1968",NA,"12180",778,NA,NA,NA
+"524","District of Columbia","1969",NA,"17038",762,NA,NA,NA
+"525","District of Columbia","1970",NA,"16846",757,NA,NA,NA
+"526","District of Columbia","1971",NA,"16084",750,NA,NA,NA
+"527","District of Columbia","1972",NA,"12607",742,NA,NA,NA
+"528","District of Columbia","1973",NA,"11626",731,NA,NA,NA
+"529","District of Columbia","1974",NA,"11590",718,NA,NA,NA
+"530","District of Columbia","1975",NA,"12704",707,NA,NA,NA
+"531","District of Columbia","1976",NA,"10399",692,NA,NA,NA
+"532","District of Columbia","1977",NA,"9843",677,NA,NA,NA
+"533","District of Columbia","1978",NA,"9515",665,NA,NA,NA
+"534","District of Columbia","1979",NA,"10553",650,NA,NA,NA
+"535","District of Columbia","1980",NA,"12772",638,NA,NA,NA
+"536","District of Columbia","1981",NA,"14468",637,NA,NA,NA
+"537","District of Columbia","1982",NA,"13397",634,NA,NA,NA
+"538","District of Columbia","1983",NA,"11933",632,NA,NA,NA
+"539","District of Columbia","1984",NA,"10725",633,NA,NA,NA
+"540","District of Columbia","1985",NA,"10171",635,NA,NA,NA
+"541","District of Columbia","1986",NA,"9423",638,NA,NA,NA
+"542","District of Columbia","1987",NA,"10016",637,NA,NA,NA
+"543","District of Columbia","1988",NA,"11914",630,NA,NA,NA
+"544","District of Columbia","1989",NA,"12937",624,NA,NA,NA
+"545","District of Columbia","1990",NA,"14919",607,NA,NA,NA
+"546","District of Columbia","1991",NA,"14671",603.5,NA,NA,NA
+"547","District of Columbia","1992",NA,"16685",600,NA,NA,NA
+"548","District of Columbia","1993",NA,"16888",596.5,NA,NA,NA
+"549","District of Columbia","1994",NA,"15177",593,NA,NA,NA
+"550","District of Columbia","1995",NA,"14744",589.5,NA,NA,NA
+"551","District of Columbia","1996",NA,"13411",586,NA,NA,NA
+"552","District of Columbia","1997",NA,"10708",582.5,NA,NA,NA
+"553","District of Columbia","1998",NA,"8988",579,NA,NA,NA
+"554","District of Columbia","1999",NA,"8448",575.5,NA,NA,NA
+"555","District of Columbia","2000",NA,"8626",572,NA,NA,NA
+"556","District of Columbia","2001",NA,"9195",575,NA,NA,NA
+"557","District of Columbia","2002",NA,"9322",573,NA,NA,NA
+"558","District of Columbia","2003",NA,"9061",569,NA,NA,NA
+"559","District of Columbia","2004",NA,"7590",568,NA,NA,NA
+"560","District of Columbia","2005",NA,"8032",567,NA,NA,NA
+"561","District of Columbia","2006",NA,"8772",571,NA,NA,NA
+"562","District of Columbia","2007",NA,"8325",574,NA,NA,NA
+"563","District of Columbia","2008",NA,"8509",580,NA,NA,NA
+"564","District of Columbia","2009",NA,"8089",592,NA,NA,NA
+"565","District of Columbia","2010",NA,"8026",602,NA,NA,NA
+"566","District of Columbia","2011",NA,"7433",NA,NA,NA,NA
+"567","District of Columbia","2012",NA,"7864",NA,NA,NA,NA
+"568","Florida","1950",NA,NA,2810,NA,NA,NA
+"569","Florida","1951",NA,NA,2980,NA,NA,NA
+"570","Florida","1952",NA,NA,3157,NA,NA,NA
+"571","Florida","1953",NA,NA,3310,NA,NA,NA
+"572","Florida","1954",NA,NA,3505,NA,NA,NA
+"573","Florida","1955",NA,NA,3747,NA,NA,NA
+"574","Florida","1956",NA,NA,4047,NA,NA,NA
+"575","Florida","1957",NA,NA,4372,NA,NA,NA
+"576","Florida","1958",NA,NA,4630,NA,NA,NA
+"577","Florida","1959",NA,NA,4808,NA,NA,NA
+"578","Florida","1960",NA,"11061",4952,NA,NA,NA
+"579","Florida","1961",NA,"11376",5243,NA,NA,NA
+"580","Florida","1962",NA,"10489",5458,NA,NA,NA
+"581","Florida","1963",NA,"12150",5628,NA,NA,NA
+"582","Florida","1964",NA,"16539",5781,NA,NA,NA
+"583","Florida","1965",NA,"17386",NA,NA,NA,NA
+"584","Florida","1966",NA,"20069",6104,NA,NA,NA
+"585","Florida","1967",NA,"23399",6242,NA,NA,NA
+"586","Florida","1968",NA,"27913",6433,NA,NA,NA
+"587","Florida","1969",NA,"29411",6641,NA,NA,NA
+"588","Florida","1970",NA,"33824",6789,NA,NA,NA
+"589","Florida","1971",NA,"38575",7158,NA,NA,NA
+"590","Florida","1972",NA,"40252",7511,NA,NA,NA
+"591","Florida","1973",NA,"46419",7914,NA,NA,NA
+"592","Florida","1974",NA,"54821",8299,NA,NA,NA
+"593","Florida","1975",NA,"57540",8518,NA,NA,NA
+"594","Florida","1976",NA,"54597",8667,NA,NA,NA
+"595","Florida","1977",NA,"58052",8856,NA,NA,NA
+"596","Florida","1978",NA,"65792",9102,NA,NA,NA
+"597","Florida","1979",NA,"73881",9426,NA,NA,NA
+"598","Florida","1980",NA,"94095",9746,NA,NA,NA
+"599","Florida","1981",NA,"98109",10193,NA,NA,NA
+"600","Florida","1982",NA,"93411",10471,NA,NA,NA
+"601","Florida","1983",NA,"88292",10750,NA,NA,NA
+"602","Florida","1984",NA,"95270",11040,NA,NA,NA
+"603","Florida","1985",NA,"106971",11351,NA,NA,NA
+"604","Florida","1986",NA,"121013",11668,NA,NA,NA
+"605","Florida","1987",NA,"123168",11997,NA,NA,NA
+"606","Florida","1988",NA,"138343",12306,NA,NA,NA
+"607","Florida","1989",NA,"140575",12638,NA,NA,NA
+"608","Florida","1990",NA,"160990",12938,NA,NA,NA
+"609","Florida","1991",NA,"157243",13249,NA,NA,NA
+"610","Florida","1992",NA,"162827",13560,NA,NA,NA
+"611","Florida","1993",NA,"164975",13871,NA,NA,NA
+"612","Florida","1994",NA,"160016",14182,NA,NA,NA
+"613","Florida","1995",NA,"151711",14493,NA,NA,NA
+"614","Florida","1996",NA,"151350",14804,NA,NA,NA
+"615","Florida","1997",NA,"149996",15115,NA,NA,NA
+"616","Florida","1998",NA,"140016",15426,NA,NA,NA
+"617","Florida","1999",NA,"129044",15737,NA,NA,NA
+"618","Florida","2000",NA,"129777",16048,NA,NA,NA
+"619","Florida","2001",1794,"130713",16357,52557,35748,15015
+"620","Florida","2002",1937,"128721",16689,56351,38064,16350
+"621","Florida","2003",2218,"124280",17004,58933,39987,16728
+"622","Florida","2004",3291,"123754",17415,63811,42797,17723
+"623","Florida","2005",3696,"125957",17842,65839,43481,18662
+"624","Florida","2006",4686,"129602",18167,69899,45398,19815
+"625","Florida","2007",5474,"131878",18368,73874,47879,20521
+"626","Florida","2008",5926,"126256",18527,77460,50359,21175
+"627","Florida","2009",6635,"113541",18653,80275,52481,21159
+"628","Florida","2010",6964,"101969",18801,83471,54979,21528
+"629","Florida","2011",NA,"98198",NA,NA,NA,NA
+"630","Florida","2012",NA,"94087",NA,NA,NA,NA
+"631","Georgia","1950",NA,NA,3458,NA,NA,NA
+"632","Georgia","1951",NA,NA,3531,NA,NA,NA
+"633","Georgia","1952",NA,NA,3584,NA,NA,NA
+"634","Georgia","1953",NA,NA,3558,NA,NA,NA
+"635","Georgia","1954",NA,NA,3602,NA,NA,NA
+"636","Georgia","1955",NA,NA,3636,NA,NA,NA
+"637","Georgia","1956",NA,NA,3701,NA,NA,NA
+"638","Georgia","1957",NA,NA,3766,NA,NA,NA
+"639","Georgia","1958",NA,NA,3804,NA,NA,NA
+"640","Georgia","1959",NA,NA,3868,NA,NA,NA
+"641","Georgia","1960",NA,"6262",3943,NA,NA,NA
+"642","Georgia","1961",NA,"6269",4015,NA,NA,NA
+"643","Georgia","1962",NA,"6200",4086,NA,NA,NA
+"644","Georgia","1963",NA,"7019",4172,NA,NA,NA
+"645","Georgia","1964",NA,"8285",4258,NA,NA,NA
+"646","Georgia","1965",NA,"8777",NA,NA,NA,NA
+"647","Georgia","1966",NA,"9066",4379,NA,NA,NA
+"648","Georgia","1967",NA,"8536",4408,NA,NA,NA
+"649","Georgia","1968",NA,"9903",4482,NA,NA,NA
+"650","Georgia","1969",NA,"11235",4551,NA,NA,NA
+"651","Georgia","1970",NA,"13976",4590,NA,NA,NA
+"652","Georgia","1971",NA,"15898",4712,NA,NA,NA
+"653","Georgia","1972",NA,"17823",4809,NA,NA,NA
+"654","Georgia","1973",NA,"19738",4910,NA,NA,NA
+"655","Georgia","1974",NA,"21587",4999,NA,NA,NA
+"656","Georgia","1975",NA,"22608",5064,NA,NA,NA
+"657","Georgia","1976",NA,"21030",5133,NA,NA,NA
+"658","Georgia","1977",NA,"22203",5220,NA,NA,NA
+"659","Georgia","1978",NA,"24545",5296,NA,NA,NA
+"660","Georgia","1979",NA,"28594",5401,NA,NA,NA
+"661","Georgia","1980",NA,"29993",5463,NA,NA,NA
+"662","Georgia","1981",NA,"30527",5568,NA,NA,NA
+"663","Georgia","1982",NA,"26963",5650,NA,NA,NA
+"664","Georgia","1983",NA,"26179",5728,NA,NA,NA
+"665","Georgia","1984",NA,"27935",5835,NA,NA,NA
+"666","Georgia","1985",NA,"30311",5963,NA,NA,NA
+"667","Georgia","1986",NA,"35869",6085,NA,NA,NA
+"668","Georgia","1987",NA,"35868",6208,NA,NA,NA
+"669","Georgia","1988",NA,"42589",6316,NA,NA,NA
+"670","Georgia","1989",NA,"47357",6411,NA,NA,NA
+"671","Georgia","1990",NA,"48996",6478,NA,NA,NA
+"672","Georgia","1991",NA,"48894",6652.9,NA,NA,NA
+"673","Georgia","1992",NA,"49496",6827.8,NA,NA,NA
+"674","Georgia","1993",NA,"50019",7002.7,NA,NA,NA
+"675","Georgia","1994",NA,"47103",7177.6,NA,NA,NA
+"676","Georgia","1995",NA,"47317",7352.5,NA,NA,NA
+"677","Georgia","1996",NA,"46966",7527.4,NA,NA,NA
+"678","Georgia","1997",NA,"45408",7702.3,NA,NA,NA
+"679","Georgia","1998",NA,"43762",7877.2,NA,NA,NA
+"680","Georgia","1999",NA,"41585",8052.1,NA,NA,NA
+"681","Georgia","2000",NA,"41319",8227,NA,NA,NA
+"682","Georgia","2001",925,"41671",8377,28790,19962,7903
+"683","Georgia","2002",1151,"39271",8508,29999,20517,8331
+"684","Georgia","2003",1460,"39435",8623,31974,22245,8269
+"685","Georgia","2004",4000,"40217",8769,36162,23638,8524
+"686","Georgia","2005",1722,"40725",8926,35515,24894,8899
+"687","Georgia","2006",1825,"44754",9156,36332,25617,8890
+"688","Georgia","2007",1683,"46917",9350,37418,26860,8875
+"689","Georgia","2008",1833,"47353",9505,39035,28208,8994
+"690","Georgia","2009",2057,"42073",9621,40461,29217,9187
+"691","Georgia","2010",2484,"39068",9688,42452,30421,9547
+"692","Georgia","2011",NA,"36762",NA,NA,NA,NA
+"693","Georgia","2012",NA,"37591",NA,NA,NA,NA
+"694","Hawaii","1950",NA,NA,498,NA,NA,NA
+"695","Hawaii","1951",NA,NA,514,NA,NA,NA
+"696","Hawaii","1952",NA,NA,517,NA,NA,NA
+"697","Hawaii","1953",NA,NA,510,NA,NA,NA
+"698","Hawaii","1954",NA,NA,505,NA,NA,NA
+"699","Hawaii","1955",NA,NA,539,NA,NA,NA
+"700","Hawaii","1956",NA,NA,559,NA,NA,NA
+"701","Hawaii","1957",NA,NA,584,NA,NA,NA
+"702","Hawaii","1958",NA,NA,605,NA,NA,NA
+"703","Hawaii","1959",NA,NA,622,NA,NA,NA
+"704","Hawaii","1960",NA,"138",633,NA,NA,NA
+"705","Hawaii","1961",NA,"161",659,NA,NA,NA
+"706","Hawaii","1962",NA,"256",684,NA,NA,NA
+"707","Hawaii","1963",NA,"215",682,NA,NA,NA
+"708","Hawaii","1964",NA,"575",700,NA,NA,NA
+"709","Hawaii","1965",NA,"491",NA,NA,NA,NA
+"710","Hawaii","1966",NA,"598",710,NA,NA,NA
+"711","Hawaii","1967",NA,"591",723,NA,NA,NA
+"712","Hawaii","1968",NA,"662",734,NA,NA,NA
+"713","Hawaii","1969",NA,"684",750,NA,NA,NA
+"714","Hawaii","1970",NA,"938",770,NA,NA,NA
+"715","Hawaii","1971",NA,"1830",802,NA,NA,NA
+"716","Hawaii","1972",NA,"1258",828,NA,NA,NA
+"717","Hawaii","1973",NA,"1295",852,NA,NA,NA
+"718","Hawaii","1974",NA,"1762",868,NA,NA,NA
+"719","Hawaii","1975",NA,"1889",886,NA,NA,NA
+"720","Hawaii","1976",NA,"2034",904,NA,NA,NA
+"721","Hawaii","1977",NA,"2012",918,NA,NA,NA
+"722","Hawaii","1978",NA,"2423",932,NA,NA,NA
+"723","Hawaii","1979",NA,"2651",953,NA,NA,NA
+"724","Hawaii","1980",NA,"2889",965,NA,NA,NA
+"725","Hawaii","1981",NA,"2424",978,NA,NA,NA
+"726","Hawaii","1982",NA,"2542",994,NA,NA,NA
+"727","Hawaii","1983",NA,"2579",1013,NA,NA,NA
+"728","Hawaii","1984",NA,"2409",1028,NA,NA,NA
+"729","Hawaii","1985",NA,"2313",1040,NA,NA,NA
+"730","Hawaii","1986",NA,"2604",1052,NA,NA,NA
+"731","Hawaii","1987",NA,"2851",1068,NA,NA,NA
+"732","Hawaii","1988",NA,"2810",1080,NA,NA,NA
+"733","Hawaii","1989",NA,"3004",1095,NA,NA,NA
+"734","Hawaii","1990",NA,"3113",1108,NA,NA,NA
+"735","Hawaii","1991",NA,"2744",1118.6,NA,NA,NA
+"736","Hawaii","1992",NA,"2998",1129.2,NA,NA,NA
+"737","Hawaii","1993",NA,"3061",1139.8,NA,NA,NA
+"738","Hawaii","1994",NA,"3091",1150.4,NA,NA,NA
+"739","Hawaii","1995",NA,"3509",1161,NA,NA,NA
+"740","Hawaii","1996",NA,"3322",1171.6,NA,NA,NA
+"741","Hawaii","1997",NA,"3299",1182.2,NA,NA,NA
+"742","Hawaii","1998",NA,"2946",1192.8,NA,NA,NA
+"743","Hawaii","1999",NA,"2785",1203.4,NA,NA,NA
+"744","Hawaii","2000",NA,"2954",1214,NA,NA,NA
+"745","Hawaii","2001",124,"3117",1226,4896,2950,1822
+"746","Hawaii","2002",144,"3262",1240,4901,2910,1847
+"747","Hawaii","2003",125,"3400",1251,5047,3010,1912
+"748","Hawaii","2004",183,"3213",1274,5499,3314,2002
+"749","Hawaii","2005",173,"3253",1293,5300,3294,1833
+"750","Hawaii","2006",211,"3608",1310,5813,3639,1963
+"751","Hawaii","2007",209,"3544",1316,5695,3586,1900
+"752","Hawaii","2008",190,"3510",1332,5853,3698,1965
+"753","Hawaii","2009",210,"3550",1347,5797,3705,1882
+"754","Hawaii","2010",138,"3603",1360,5401,3593,1670
+"755","Hawaii","2011",NA,"3465",NA,NA,NA,NA
+"756","Hawaii","2012",NA,"3330",NA,NA,NA,NA
+"757","Idaho","1950",NA,NA,590,NA,NA,NA
+"758","Idaho","1951",NA,NA,589,NA,NA,NA
+"759","Idaho","1952",NA,NA,587,NA,NA,NA
+"760","Idaho","1953",NA,NA,596,NA,NA,NA
+"761","Idaho","1954",NA,NA,600,NA,NA,NA
+"762","Idaho","1955",NA,NA,618,NA,NA,NA
+"763","Idaho","1956",NA,NA,628,NA,NA,NA
+"764","Idaho","1957",NA,NA,642,NA,NA,NA
+"765","Idaho","1958",NA,NA,646,NA,NA,NA
+"766","Idaho","1959",NA,NA,657,NA,NA,NA
+"767","Idaho","1960",NA,"255",667,NA,NA,NA
+"768","Idaho","1961",NA,"222",684,NA,NA,NA
+"769","Idaho","1962",NA,"234",692,NA,NA,NA
+"770","Idaho","1963",NA,"362",683,NA,NA,NA
+"771","Idaho","1964",NA,"537",680,NA,NA,NA
+"772","Idaho","1965",NA,"493",NA,NA,NA,NA
+"773","Idaho","1966",NA,"461",689,NA,NA,NA
+"774","Idaho","1967",NA,"478",688,NA,NA,NA
+"775","Idaho","1968",NA,"518",695,NA,NA,NA
+"776","Idaho","1969",NA,"806",707,NA,NA,NA
+"777","Idaho","1970",NA,"879",713,NA,NA,NA
+"778","Idaho","1971",NA,"917",739,NA,NA,NA
+"779","Idaho","1972",NA,"1085",763,NA,NA,NA
+"780","Idaho","1973",NA,"1264",782,NA,NA,NA
+"781","Idaho","1974",NA,"1465",808,NA,NA,NA
+"782","Idaho","1975",NA,"1670",832,NA,NA,NA
+"783","Idaho","1976",NA,"1884",857,NA,NA,NA
+"784","Idaho","1977",NA,"2030",883,NA,NA,NA
+"785","Idaho","1978",NA,"2076",911,NA,NA,NA
+"786","Idaho","1979",NA,"2613",933,NA,NA,NA
+"787","Idaho","1980",NA,"2957",944,NA,NA,NA
+"788","Idaho","1981",NA,"2717",962,NA,NA,NA
+"789","Idaho","1982",NA,"2501",974,NA,NA,NA
+"790","Idaho","1983",NA,"2361",982,NA,NA,NA
+"791","Idaho","1984",NA,"2355",991,NA,NA,NA
+"792","Idaho","1985",NA,"2360",994,NA,NA,NA
+"793","Idaho","1986",NA,"2232",990,NA,NA,NA
+"794","Idaho","1987",NA,"2138",985,NA,NA,NA
+"795","Idaho","1988",NA,"2345",986,NA,NA,NA
+"796","Idaho","1989",NA,"2582",994,NA,NA,NA
+"797","Idaho","1990",NA,"2776",1007,NA,NA,NA
+"798","Idaho","1991",NA,"3016",1036.2,NA,NA,NA
+"799","Idaho","1992",NA,"3003",1065.4,NA,NA,NA
+"800","Idaho","1993",NA,"3097",1094.6,NA,NA,NA
+"801","Idaho","1994",NA,"3238",1123.8,NA,NA,NA
+"802","Idaho","1995",NA,"3745",1153,NA,NA,NA
+"803","Idaho","1996",NA,"3177",1182.2,NA,NA,NA
+"804","Idaho","1997",NA,"3107",1211.4,NA,NA,NA
+"805","Idaho","1998",NA,"3468",1240.6,NA,NA,NA
+"806","Idaho","1999",NA,"3066",1269.8,NA,NA,NA
+"807","Idaho","2000",NA,"3267",1299,NA,NA,NA
+"808","Idaho","2001",8,"3211",1320,4646,4267,371
+"809","Idaho","2002",1,"3419",1340,4913,4497,415
+"810","Idaho","2003",8,"3362",1363,5975,5103,864
+"811","Idaho","2004",44,"3452",1392,6042,4378,1620
+"812","Idaho","2005",98,"3670",1428,7295,4939,2258
+"813","Idaho","2006",128,"3666",1469,7781,4930,2723
+"814","Idaho","2007",139,"3841",1505,7996,5149,2708
+"815","Idaho","2008",112,"3680",1534,7912,5054,2746
+"816","Idaho","2009",129,"3805",1554,9066,5078,3859
+"817","Idaho","2010",133,"3464",1568,9466,5263,4070
+"818","Idaho","2011",NA,"3202",NA,NA,NA,NA
+"819","Idaho","2012",NA,"3318",NA,NA,NA,NA
+"820","Illinois","1950",NA,NA,8738,NA,NA,NA
+"821","Illinois","1951",NA,NA,8790,NA,NA,NA
+"822","Illinois","1952",NA,NA,8956,NA,NA,NA
+"823","Illinois","1953",NA,NA,9065,NA,NA,NA
+"824","Illinois","1954",NA,NA,9252,NA,NA,NA
+"825","Illinois","1955",NA,NA,9435,NA,NA,NA
+"826","Illinois","1956",NA,NA,9530,NA,NA,NA
+"827","Illinois","1957",NA,NA,9668,NA,NA,NA
+"828","Illinois","1958",NA,NA,9886,NA,NA,NA
+"829","Illinois","1959",NA,NA,9986,NA,NA,NA
+"830","Illinois","1960",NA,"36802",10081,NA,NA,NA
+"831","Illinois","1961",NA,"37156",10130,NA,NA,NA
+"832","Illinois","1962",NA,"38926",10280,NA,NA,NA
+"833","Illinois","1963",NA,"33627",10402,NA,NA,NA
+"834","Illinois","1964",NA,"36916",10580,NA,NA,NA
+"835","Illinois","1965",NA,"34345",NA,NA,NA,NA
+"836","Illinois","1966",NA,"39116",10836,NA,NA,NA
+"837","Illinois","1967",NA,"42956",10947,NA,NA,NA
+"838","Illinois","1968",NA,"44776",10995,NA,NA,NA
+"839","Illinois","1969",NA,"49543",11039,NA,NA,NA
+"840","Illinois","1970",NA,"52006",11114,NA,NA,NA
+"841","Illinois","1971",NA,"53436",11202,NA,NA,NA
+"842","Illinois","1972",NA,"57162",11252,NA,NA,NA
+"843","Illinois","1973",NA,"62457",11251,NA,NA,NA
+"844","Illinois","1974",NA,"69806",11262,NA,NA,NA
+"845","Illinois","1975",NA,"74699",11292,NA,NA,NA
+"846","Illinois","1976",NA,"70266",11343,NA,NA,NA
+"847","Illinois","1977",NA,"70910",11386,NA,NA,NA
+"848","Illinois","1978",NA,"76084",11413,NA,NA,NA
+"849","Illinois","1979",NA,"83540",11397,NA,NA,NA
+"850","Illinois","1980",NA,"91753",11427,NA,NA,NA
+"851","Illinois","1981",NA,"90781",11443,NA,NA,NA
+"852","Illinois","1982",NA,"88644",11423,NA,NA,NA
+"853","Illinois","1983",NA,"83629",11409,NA,NA,NA
+"854","Illinois","1984",NA,"83441",11412,NA,NA,NA
+"855","Illinois","1985",NA,"82448",11400,NA,NA,NA
+"856","Illinois","1986",NA,"93454",11387,NA,NA,NA
+"857","Illinois","1987",NA,"92216",11391,NA,NA,NA
+"858","Illinois","1988",NA,"93557",11390,NA,NA,NA
+"859","Illinois","1989",NA,"98611",11410,NA,NA,NA
+"860","Illinois","1990",NA,"110575",11431,NA,NA,NA
+"861","Illinois","1991",NA,"119955",11531.3,NA,NA,NA
+"862","Illinois","1992",NA,"113664",11631.6,NA,NA,NA
+"863","Illinois","1993",NA,"112260",11731.9,NA,NA,NA
+"864","Illinois","1994",NA,"112928",11832.2,NA,NA,NA
+"865","Illinois","1995",NA,"117836",11932.5,NA,NA,NA
+"866","Illinois","1996",NA,"105482",12032.8,NA,NA,NA
+"867","Illinois","1997",NA,"102476",12133.1,NA,NA,NA
+"868","Illinois","1998",NA,"97291",12233.4,NA,NA,NA
+"869","Illinois","1999",NA,"83621",12333.7,NA,NA,NA
+"870","Illinois","2000",NA,"81196",12434,NA,NA,NA
+"871","Illinois","2001",1584,"79270",12488,55633,30896,23153
+"872","Illinois","2002",1800,"75759",12526,57430,31821,23809
+"873","Illinois","2003",2319,"70376",12556,59569,32457,24793
+"874","Illinois","2004",2730,"69365",12590,59537,31678,25129
+"875","Illinois","2005",6855,"70496",12610,63913,31775,25283
+"876","Illinois","2006",9637,"69498",12644,68016,31812,26567
+"877","Illinois","2007",9533,"68528",12696,69946,33074,27339
+"878","Illinois","2008",7832,"67780",12747,69621,33729,28060
+"879","Illinois","2009",7170,"64185",12797,69339,33783,28386
+"880","Illinois","2010",7926,"57132",12831,70847,33935,28986
+"881","Illinois","2011",NA,"54523",NA,NA,NA,NA
+"882","Illinois","2012",NA,"53403",NA,NA,NA,NA
+"883","Indiana","1950",NA,NA,3967,NA,NA,NA
+"884","Indiana","1951",NA,NA,4096,NA,NA,NA
+"885","Indiana","1952",NA,NA,4148,NA,NA,NA
+"886","Indiana","1953",NA,NA,4182,NA,NA,NA
+"887","Indiana","1954",NA,NA,4264,NA,NA,NA
+"888","Indiana","1955",NA,NA,4363,NA,NA,NA
+"889","Indiana","1956",NA,NA,4458,NA,NA,NA
+"890","Indiana","1957",NA,NA,4529,NA,NA,NA
+"891","Indiana","1958",NA,NA,4583,NA,NA,NA
+"892","Indiana","1959",NA,NA,4613,NA,NA,NA
+"893","Indiana","1960",NA,"3945",4662,NA,NA,NA
+"894","Indiana","1961",NA,"4044",4730,NA,NA,NA
+"895","Indiana","1962",NA,"4191",4736,NA,NA,NA
+"896","Indiana","1963",NA,"4819",4799,NA,NA,NA
+"897","Indiana","1964",NA,"6564",4856,NA,NA,NA
+"898","Indiana","1965",NA,"6695",NA,NA,NA,NA
+"899","Indiana","1966",NA,"7196",4999,NA,NA,NA
+"900","Indiana","1967",NA,"8143",5053,NA,NA,NA
+"901","Indiana","1968",NA,"10229",5093,NA,NA,NA
+"902","Indiana","1969",NA,"10141",5143,NA,NA,NA
+"903","Indiana","1970",NA,"12184",5194,NA,NA,NA
+"904","Indiana","1971",NA,"13031",5253,NA,NA,NA
+"905","Indiana","1972",NA,"12968",5302,NA,NA,NA
+"906","Indiana","1973",NA,"13696",5338,NA,NA,NA
+"907","Indiana","1974",NA,"15631",5362,NA,NA,NA
+"908","Indiana","1975",NA,"17677",5366,NA,NA,NA
+"909","Indiana","1976",NA,"16721",5389,NA,NA,NA
+"910","Indiana","1977",NA,"16553",5426,NA,NA,NA
+"911","Indiana","1978",NA,"17383",5470,NA,NA,NA
+"912","Indiana","1979",NA,"18254",5501,NA,NA,NA
+"913","Indiana","1980",NA,"20633",5490,NA,NA,NA
+"914","Indiana","1981",NA,"18672",5480,NA,NA,NA
+"915","Indiana","1982",NA,"16444",5468,NA,NA,NA
+"916","Indiana","1983",NA,"15547",5450,NA,NA,NA
+"917","Indiana","1984",NA,"16781",5458,NA,NA,NA
+"918","Indiana","1985",NA,"17014",5459,NA,NA,NA
+"919","Indiana","1986",NA,"16937",5454,NA,NA,NA
+"920","Indiana","1987",NA,"18169",5473,NA,NA,NA
+"921","Indiana","1988",NA,"21187",5492,NA,NA,NA
+"922","Indiana","1989",NA,"22735",5524,NA,NA,NA
+"923","Indiana","1990",NA,"26275",5544,NA,NA,NA
+"924","Indiana","1991",NA,"28349",5598.8,NA,NA,NA
+"925","Indiana","1992",NA,"28791",5653.6,NA,NA,NA
+"926","Indiana","1993",NA,"27941",5708.4,NA,NA,NA
+"927","Indiana","1994",NA,"30205",5763.2,NA,NA,NA
+"928","Indiana","1995",NA,"30451",5818,NA,NA,NA
+"929","Indiana","1996",NA,"31366",5872.8,NA,NA,NA
+"930","Indiana","1997",NA,"30179",5927.6,NA,NA,NA
+"931","Indiana","1998",NA,"25423",5982.4,NA,NA,NA
+"932","Indiana","1999",NA,"22261",6037.2,NA,NA,NA
+"933","Indiana","2000",NA,"21230",6092,NA,NA,NA
+"934","Indiana","2001",245,"22734",6128,31881,21338,10298
+"935","Indiana","2002",196,"22001",6156,33947,22681,11070
+"936","Indiana","2003",166,"21842",6197,35284,23484,11634
+"937","Indiana","2004",177,"20294",6233,36388,24522,11689
+"938","Indiana","2005",161,"20302",6279,36655,24774,11720
+"939","Indiana","2006",259,"20303",6333,38093,25420,12414
+"940","Indiana","2007",386,"21310",6380,38533,25247,12900
+"941","Indiana","2008",384,"21525",6425,38991,24986,13621
+"942","Indiana","2009",518,"21455",6459,39583,25386,13679
+"943","Indiana","2010",803,"20983",6484,41687,26858,14026
+"944","Indiana","2011",NA,"21619",NA,NA,NA,NA
+"945","Indiana","2012",NA,"22602",NA,NA,NA,NA
+"946","Iowa","1950",NA,NA,2625,NA,NA,NA
+"947","Iowa","1951",NA,NA,2617,NA,NA,NA
+"948","Iowa","1952",NA,NA,2626,NA,NA,NA
+"949","Iowa","1953",NA,NA,2629,NA,NA,NA
+"950","Iowa","1954",NA,NA,2626,NA,NA,NA
+"951","Iowa","1955",NA,NA,2679,NA,NA,NA
+"952","Iowa","1956",NA,NA,2703,NA,NA,NA
+"953","Iowa","1957",NA,NA,2716,NA,NA,NA
+"954","Iowa","1958",NA,NA,2708,NA,NA,NA
+"955","Iowa","1959",NA,NA,2729,NA,NA,NA
+"956","Iowa","1960",NA,"656",2758,NA,NA,NA
+"957","Iowa","1961",NA,"643",2756,NA,NA,NA
+"958","Iowa","1962",NA,"559",2750,NA,NA,NA
+"959","Iowa","1963",NA,"629",2747,NA,NA,NA
+"960","Iowa","1964",NA,"1007",2746,NA,NA,NA
+"961","Iowa","1965",NA,"1067",NA,NA,NA,NA
+"962","Iowa","1966",NA,"1214",2762,NA,NA,NA
+"963","Iowa","1967",NA,"1608",2793,NA,NA,NA
+"964","Iowa","1968",NA,"1882",2803,NA,NA,NA
+"965","Iowa","1969",NA,"1918",2805,NA,NA,NA
+"966","Iowa","1970",NA,"2241",2825,NA,NA,NA
+"967","Iowa","1971",NA,"2822",2852,NA,NA,NA
+"968","Iowa","1972",NA,"2519",2860,NA,NA,NA
+"969","Iowa","1973",NA,"2970",2864,NA,NA,NA
+"970","Iowa","1974",NA,"3455",2868,NA,NA,NA
+"971","Iowa","1975",NA,"4039",2881,NA,NA,NA
+"972","Iowa","1976",NA,"3813",2903,NA,NA,NA
+"973","Iowa","1977",NA,"4145",2914,NA,NA,NA
+"974","Iowa","1978",NA,"4674",2918,NA,NA,NA
+"975","Iowa","1979",NA,"5259",2916,NA,NA,NA
+"976","Iowa","1980",NA,"5826",2914,NA,NA,NA
+"977","Iowa","1981",NA,"5915",2908,NA,NA,NA
+"978","Iowa","1982",NA,"5018",2888,NA,NA,NA
+"979","Iowa","1983",NA,"5262",2871,NA,NA,NA
+"980","Iowa","1984",NA,"5781",2859,NA,NA,NA
+"981","Iowa","1985",NA,"6106",2830,NA,NA,NA
+"982","Iowa","1986",NA,"6703",2792,NA,NA,NA
+"983","Iowa","1987",NA,"6553",2767,NA,NA,NA
+"984","Iowa","1988",NA,"7279",2768,NA,NA,NA
+"985","Iowa","1989",NA,"7563",2771,NA,NA,NA
+"986","Iowa","1990",NA,"8321",2777,NA,NA,NA
+"987","Iowa","1991",NA,"8477",2792.2,NA,NA,NA
+"988","Iowa","1992",NA,"7816",2807.4,NA,NA,NA
+"989","Iowa","1993",NA,"9159",2822.6,NA,NA,NA
+"990","Iowa","1994",NA,"8914",2837.8,NA,NA,NA
+"991","Iowa","1995",NA,"10071",2853,NA,NA,NA
+"992","Iowa","1996",NA,"7771",2868.2,NA,NA,NA
+"993","Iowa","1997",NA,"8841",2883.4,NA,NA,NA
+"994","Iowa","1998",NA,"8916",2898.6,NA,NA,NA
+"995","Iowa","1999",NA,"8034",2913.8,NA,NA,NA
+"996","Iowa","2000",NA,"7796",2929,NA,NA,NA
+"997","Iowa","2001",40,"7865",2932,18652,9992,8620
+"998","Iowa","2002",110,"8388",2934,19377,10366,8901
+"999","Iowa","2003",143,"8175",2942,20015,11159,8713
+"1000","Iowa","2004",176,"8499",2954,20062,11122,8764
+"1001","Iowa","2005",178,"8697",2964,20530,11389,8963
+"1002","Iowa","2006",224,"8521",2983,20565,11142,9199
+"1003","Iowa","2007",206,"8970",2999,20520,10747,9567
+"1004","Iowa","2008",266,"8651",3017,21233,11113,9854
+"1005","Iowa","2009",216,"8485",3033,20816,10862,9738
+"1006","Iowa","2010",346,"8191",3046,21369,11263,9760
+"1007","Iowa","2011",NA,"7883",NA,NA,NA,NA
+"1008","Iowa","2012",NA,"8112",NA,NA,NA,NA
+"1009","Kansas","1950",NA,NA,1916,NA,NA,NA
+"1010","Kansas","1951",NA,NA,1950,NA,NA,NA
+"1011","Kansas","1952",NA,NA,1977,NA,NA,NA
+"1012","Kansas","1953",NA,NA,1994,NA,NA,NA
+"1013","Kansas","1954",NA,NA,2042,NA,NA,NA
+"1014","Kansas","1955",NA,NA,2093,NA,NA,NA
+"1015","Kansas","1956",NA,NA,2119,NA,NA,NA
+"1016","Kansas","1957",NA,NA,2128,NA,NA,NA
+"1017","Kansas","1958",NA,NA,2142,NA,NA,NA
+"1018","Kansas","1959",NA,NA,2160,NA,NA,NA
+"1019","Kansas","1960",NA,"1272",2179,NA,NA,NA
+"1020","Kansas","1961",NA,"1282",2215,NA,NA,NA
+"1021","Kansas","1962",NA,"1477",2231,NA,NA,NA
+"1022","Kansas","1963",NA,"1831",2217,NA,NA,NA
+"1023","Kansas","1964",NA,"2573",2209,NA,NA,NA
+"1024","Kansas","1965",NA,"2392",NA,NA,NA,NA
+"1025","Kansas","1966",NA,"2517",2200,NA,NA,NA
+"1026","Kansas","1967",NA,"3248",2197,NA,NA,NA
+"1027","Kansas","1968",NA,"3463",2216,NA,NA,NA
+"1028","Kansas","1969",NA,"3873",2236,NA,NA,NA
+"1029","Kansas","1970",NA,"4561",2249,NA,NA,NA
+"1030","Kansas","1971",NA,"4843",2247,NA,NA,NA
+"1031","Kansas","1972",NA,"4737",2256,NA,NA,NA
+"1032","Kansas","1973",NA,"4956",2266,NA,NA,NA
+"1033","Kansas","1974",NA,"6272",2269,NA,NA,NA
+"1034","Kansas","1975",NA,"6307",2281,NA,NA,NA
+"1035","Kansas","1976",NA,"6529",2301,NA,NA,NA
+"1036","Kansas","1977",NA,"7206",2321,NA,NA,NA
+"1037","Kansas","1978",NA,"7471",2336,NA,NA,NA
+"1038","Kansas","1979",NA,"8376",2351,NA,NA,NA
+"1039","Kansas","1980",NA,"9168",2364,NA,NA,NA
+"1040","Kansas","1981",NA,"8796",2385,NA,NA,NA
+"1041","Kansas","1982",NA,"8088",2401,NA,NA,NA
+"1042","Kansas","1983",NA,"7919",2416,NA,NA,NA
+"1043","Kansas","1984",NA,"8147",2424,NA,NA,NA
+"1044","Kansas","1985",NA,"8716",2427,NA,NA,NA
+"1045","Kansas","1986",NA,"9076",2433,NA,NA,NA
+"1046","Kansas","1987",NA,"8932",2445,NA,NA,NA
+"1047","Kansas","1988",NA,"9083",2462,NA,NA,NA
+"1048","Kansas","1989",NA,"10073",2473,NA,NA,NA
+"1049","Kansas","1990",NA,"11093",2478,NA,NA,NA
+"1050","Kansas","1991",NA,"12465",2499.6,NA,NA,NA
+"1051","Kansas","1992",NA,"12888",2521.2,NA,NA,NA
+"1052","Kansas","1993",NA,"12564",2542.8,NA,NA,NA
+"1053","Kansas","1994",NA,"11314",2564.4,NA,NA,NA
+"1054","Kansas","1995",NA,"10792",2586,NA,NA,NA
+"1055","Kansas","1996",NA,"10642",2607.6,NA,NA,NA
+"1056","Kansas","1997",NA,"11151",2629.2,NA,NA,NA
+"1057","Kansas","1998",NA,"10972",2650.8,NA,NA,NA
+"1058","Kansas","1999",NA,"10159",2672.4,NA,NA,NA
+"1059","Kansas","2000",NA,"10470",2694,NA,NA,NA
+"1060","Kansas","2001",0,"10909",2702,14662,11554,3108
+"1061","Kansas","2002",0,"10229",2714,14787,11602,3185
+"1062","Kansas","2003",0,"10831",2723,15744,12362,3382
+"1063","Kansas","2004",0,"10330",2734,16022,12624,3398
+"1064","Kansas","2005",3,"10701",2745,16221,12856,3362
+"1065","Kansas","2006",24,"11960",2763,16677,13464,3189
+"1066","Kansas","2007",45,"12730",2784,17065,13624,3396
+"1067","Kansas","2008",41,"11554",2808,17048,13414,3593
+"1068","Kansas","2009",52,"11460",2833,17521,13693,3776
+"1069","Kansas","2010",34,"10602",2853,17835,14005,3796
+"1070","Kansas","2011",NA,"10209",NA,NA,NA,NA
+"1071","Kansas","2012",NA,"10232",NA,NA,NA,NA
+"1072","Kentucky","1950",NA,NA,2936,NA,NA,NA
+"1073","Kentucky","1951",NA,NA,2941,NA,NA,NA
+"1074","Kentucky","1952",NA,NA,2920,NA,NA,NA
+"1075","Kentucky","1953",NA,NA,2903,NA,NA,NA
+"1076","Kentucky","1954",NA,NA,2902,NA,NA,NA
+"1077","Kentucky","1955",NA,NA,2910,NA,NA,NA
+"1078","Kentucky","1956",NA,NA,2898,NA,NA,NA
+"1079","Kentucky","1957",NA,NA,2928,NA,NA,NA
+"1080","Kentucky","1958",NA,NA,2961,NA,NA,NA
+"1081","Kentucky","1959",NA,NA,2999,NA,NA,NA
+"1082","Kentucky","1960",NA,"2957",3038,NA,NA,NA
+"1083","Kentucky","1961",NA,"2907",3054,NA,NA,NA
+"1084","Kentucky","1962",NA,"2963",3079,NA,NA,NA
+"1085","Kentucky","1963",NA,"2849",3096,NA,NA,NA
+"1086","Kentucky","1964",NA,"3486",3129,NA,NA,NA
+"1087","Kentucky","1965",NA,"3463",NA,NA,NA,NA
+"1088","Kentucky","1966",NA,"4191",3147,NA,NA,NA
+"1089","Kentucky","1967",NA,"4484",3172,NA,NA,NA
+"1090","Kentucky","1968",NA,"5317",3195,NA,NA,NA
+"1091","Kentucky","1969",NA,"5745",3198,NA,NA,NA
+"1092","Kentucky","1970",NA,"7157",3219,NA,NA,NA
+"1093","Kentucky","1971",NA,"7717",3298,NA,NA,NA
+"1094","Kentucky","1972",NA,"7446",3336,NA,NA,NA
+"1095","Kentucky","1973",NA,"7356",3371,NA,NA,NA
+"1096","Kentucky","1974",NA,"7857",3416,NA,NA,NA
+"1097","Kentucky","1975",NA,"8967",3468,NA,NA,NA
+"1098","Kentucky","1976",NA,"8987",3529,NA,NA,NA
+"1099","Kentucky","1977",NA,"8077",3574,NA,NA,NA
+"1100","Kentucky","1978",NA,"7807",3610,NA,NA,NA
+"1101","Kentucky","1979",NA,"8748",3642,NA,NA,NA
+"1102","Kentucky","1980",NA,"9711",3661,NA,NA,NA
+"1103","Kentucky","1981",NA,"10599",3670,NA,NA,NA
+"1104","Kentucky","1982",NA,"11550",3683,NA,NA,NA
+"1105","Kentucky","1983",NA,"11967",3694,NA,NA,NA
+"1106","Kentucky","1984",NA,"10342",3695,NA,NA,NA
+"1107","Kentucky","1985",NA,"11384",3695,NA,NA,NA
+"1108","Kentucky","1986",NA,"12467",3688,NA,NA,NA
+"1109","Kentucky","1987",NA,"12589",3683,NA,NA,NA
+"1110","Kentucky","1988",NA,"12284",3680,NA,NA,NA
+"1111","Kentucky","1989",NA,"13302",3677,NA,NA,NA
+"1112","Kentucky","1990",NA,"14386",3685,NA,NA,NA
+"1113","Kentucky","1991",NA,"16262",3721.4,NA,NA,NA
+"1114","Kentucky","1992",NA,"20107",3757.8,NA,NA,NA
+"1115","Kentucky","1993",NA,"17530",3794.2,NA,NA,NA
+"1116","Kentucky","1994",NA,"16991",3830.6,NA,NA,NA
+"1117","Kentucky","1995",NA,"14079",3867,NA,NA,NA
+"1118","Kentucky","1996",NA,"12448",3903.4,NA,NA,NA
+"1119","Kentucky","1997",NA,"12386",3939.8,NA,NA,NA
+"1120","Kentucky","1998",NA,"12909",3976.2,NA,NA,NA
+"1121","Kentucky","1999",NA,"12212",4012.6,NA,NA,NA
+"1122","Kentucky","2000",NA,"11903",4049,NA,NA,NA
+"1123","Kentucky","2001",192,"10510",4068,15434,11944,3298
+"1124","Kentucky","2002",310,"11101",4090,16401,12469,3622
+"1125","Kentucky","2003",201,"10232",4117,16254,12466,3587
+"1126","Kentucky","2004",315,"10152",4146,17243,13123,3805
+"1127","Kentucky","2005",362,"11134",4183,17862,13549,3951
+"1128","Kentucky","2006",366,"11361",4219,18646,14423,3857
+"1129","Kentucky","2007",383,"12329",4257,19079,14741,3955
+"1130","Kentucky","2008",325,"12690",4290,19639,15036,4278
+"1131","Kentucky","2009",570,"11000",4317,19996,15134,4292
+"1132","Kentucky","2010",613,"10604",4339,20389,15535,4241
+"1133","Kentucky","2011",NA,"10465",NA,NA,NA,NA
+"1134","Kentucky","2012",NA,"9752",NA,NA,NA,NA
+"1135","Louisiana","1950",NA,NA,2697,NA,NA,NA
+"1136","Louisiana","1951",NA,NA,2769,NA,NA,NA
+"1137","Louisiana","1952",NA,NA,2842,NA,NA,NA
+"1138","Louisiana","1953",NA,NA,2866,NA,NA,NA
+"1139","Louisiana","1954",NA,NA,2883,NA,NA,NA
+"1140","Louisiana","1955",NA,NA,2946,NA,NA,NA
+"1141","Louisiana","1956",NA,NA,3032,NA,NA,NA
+"1142","Louisiana","1957",NA,NA,3115,NA,NA,NA
+"1143","Louisiana","1958",NA,NA,3155,NA,NA,NA
+"1144","Louisiana","1959",NA,NA,3208,NA,NA,NA
+"1145","Louisiana","1960",NA,"4990",3257,NA,NA,NA
+"1146","Louisiana","1961",NA,"4508",3287,NA,NA,NA
+"1147","Louisiana","1962",NA,"4570",3345,NA,NA,NA
+"1148","Louisiana","1963",NA,"5798",3377,NA,NA,NA
+"1149","Louisiana","1964",NA,"7140",3446,NA,NA,NA
+"1150","Louisiana","1965",NA,"7178",NA,NA,NA,NA
+"1151","Louisiana","1966",NA,"8689",3550,NA,NA,NA
+"1152","Louisiana","1967",NA,"10071",3581,NA,NA,NA
+"1153","Louisiana","1968",NA,"11742",3603,NA,NA,NA
+"1154","Louisiana","1969",NA,"13492",3619,NA,NA,NA
+"1155","Louisiana","1970",NA,"15063",3643,NA,NA,NA
+"1156","Louisiana","1971",NA,"15208",3710,NA,NA,NA
+"1157","Louisiana","1972",NA,"15712",3762,NA,NA,NA
+"1158","Louisiana","1973",NA,"16020",3788,NA,NA,NA
+"1159","Louisiana","1974",NA,"17794",3820,NA,NA,NA
+"1160","Louisiana","1975",NA,"18137",3886,NA,NA,NA
+"1161","Louisiana","1976",NA,"18161",3951,NA,NA,NA
+"1162","Louisiana","1977",NA,"20577",4014,NA,NA,NA
+"1163","Louisiana","1978",NA,"23197",4069,NA,NA,NA
+"1164","Louisiana","1979",NA,"27229",4138,NA,NA,NA
+"1165","Louisiana","1980",NA,"27926",4206,NA,NA,NA
+"1166","Louisiana","1981",NA,"27478",4283,NA,NA,NA
+"1167","Louisiana","1982",NA,"29185",4353,NA,NA,NA
+"1168","Louisiana","1983",NA,"28444",4395,NA,NA,NA
+"1169","Louisiana","1984",NA,"30251",4400,NA,NA,NA
+"1170","Louisiana","1985",NA,"31108",4408,NA,NA,NA
+"1171","Louisiana","1986",NA,"34128",4407,NA,NA,NA
+"1172","Louisiana","1987",NA,"30916",4344,NA,NA,NA
+"1173","Louisiana","1988",NA,"31711",4289,NA,NA,NA
+"1174","Louisiana","1989",NA,"34257",4253,NA,NA,NA
+"1175","Louisiana","1990",NA,"37914",4220,NA,NA,NA
+"1176","Louisiana","1991",NA,"40438",4245.2,NA,NA,NA
+"1177","Louisiana","1992",NA,"42209",4270.4,NA,NA,NA
+"1178","Louisiana","1993",NA,"45600",4295.6,NA,NA,NA
+"1179","Louisiana","1994",NA,"42369",4320.8,NA,NA,NA
+"1180","Louisiana","1995",NA,"43741",4346,NA,NA,NA
+"1181","Louisiana","1996",NA,"40426",4371.2,NA,NA,NA
+"1182","Louisiana","1997",NA,"37248",4396.4,NA,NA,NA
+"1183","Louisiana","1998",NA,"34057",4421.6,NA,NA,NA
+"1184","Louisiana","1999",NA,"32033",4446.8,NA,NA,NA
+"1185","Louisiana","2000",NA,"30440",4472,NA,NA,NA
+"1186","Louisiana","2001",189,"30678",4478,19990,16659,3142
+"1187","Louisiana","2002",168,"29690",4497,20312,16767,3377
+"1188","Louisiana","2003",188,"28622",4521,21182,17329,3665
+"1189","Louisiana","2004",268,"28844",4552,21336,17450,3618
+"1190","Louisiana","2005",255,"26889",4577,21494,17537,3702
+"1191","Louisiana","2006",239,"30923",4303,19936,16955,2742
+"1192","Louisiana","2007",297,"31789",4376,21671,17400,3974
+"1193","Louisiana","2008",320,"29613",4436,21163,17631,3212
+"1194","Louisiana","2009",364,"28878",4492,21425,17982,3079
+"1195","Louisiana","2010",362,"25241",4533,20893,17939,2592
+"1196","Louisiana","2011",NA,"25373",NA,NA,NA,NA
+"1197","Louisiana","2012",NA,"22868",NA,NA,NA,NA
+"1198","Maine","1950",NA,NA,917,NA,NA,NA
+"1199","Maine","1951",NA,NA,916,NA,NA,NA
+"1200","Maine","1952",NA,NA,915,NA,NA,NA
+"1201","Maine","1953",NA,NA,913,NA,NA,NA
+"1202","Maine","1954",NA,NA,927,NA,NA,NA
+"1203","Maine","1955",NA,NA,934,NA,NA,NA
+"1204","Maine","1956",NA,NA,938,NA,NA,NA
+"1205","Maine","1957",NA,NA,943,NA,NA,NA
+"1206","Maine","1958",NA,NA,944,NA,NA,NA
+"1207","Maine","1959",NA,NA,957,NA,NA,NA
+"1208","Maine","1960",NA,"289",969,NA,NA,NA
+"1209","Maine","1961",NA,"334",995,NA,NA,NA
+"1210","Maine","1962",NA,"277",994,NA,NA,NA
+"1211","Maine","1963",NA,"306",993,NA,NA,NA
+"1212","Maine","1964",NA,"506",993,NA,NA,NA
+"1213","Maine","1965",NA,"437",NA,NA,NA,NA
+"1214","Maine","1966",NA,"486",999,NA,NA,NA
+"1215","Maine","1967",NA,"621",1004,NA,NA,NA
+"1216","Maine","1968",NA,"633",994,NA,NA,NA
+"1217","Maine","1969",NA,"733",992,NA,NA,NA
+"1218","Maine","1970",NA,"887",994,NA,NA,NA
+"1219","Maine","1971",NA,"903",1015,NA,NA,NA
+"1220","Maine","1972",NA,"1143",1034,NA,NA,NA
+"1221","Maine","1973",NA,"1258",1046,NA,NA,NA
+"1222","Maine","1974",NA,"1440",1059,NA,NA,NA
+"1223","Maine","1975",NA,"2324",1072,NA,NA,NA
+"1224","Maine","1976",NA,"2354",1088,NA,NA,NA
+"1225","Maine","1977",NA,"2438",1104,NA,NA,NA
+"1226","Maine","1978",NA,"2266",1114,NA,NA,NA
+"1227","Maine","1979",NA,"2221",1123,NA,NA,NA
+"1228","Maine","1980",NA,"2173",1125,NA,NA,NA
+"1229","Maine","1981",NA,"2214",1133,NA,NA,NA
+"1230","Maine","1982",NA,"1847",1137,NA,NA,NA
+"1231","Maine","1983",NA,"1829",1145,NA,NA,NA
+"1232","Maine","1984",NA,"1832",1156,NA,NA,NA
+"1233","Maine","1985",NA,"1950",1163,NA,NA,NA
+"1234","Maine","1986",NA,"1726",1170,NA,NA,NA
+"1235","Maine","1987",NA,"1806",1185,NA,NA,NA
+"1236","Maine","1988",NA,"1898",1204,NA,NA,NA
+"1237","Maine","1989",NA,"1676",1220,NA,NA,NA
+"1238","Maine","1990",NA,"1759",1228,NA,NA,NA
+"1239","Maine","1991",NA,"1631",1232.9,NA,NA,NA
+"1240","Maine","1992",NA,"1616",1237.8,NA,NA,NA
+"1241","Maine","1993",NA,"1558",1242.7,NA,NA,NA
+"1242","Maine","1994",NA,"1611",1247.6,NA,NA,NA
+"1243","Maine","1995",NA,"1631",1252.5,NA,NA,NA
+"1244","Maine","1996",NA,"1553",1257.4,NA,NA,NA
+"1245","Maine","1997",NA,"1500",1262.3,NA,NA,NA
+"1246","Maine","1998",NA,"1566",1267.2,NA,NA,NA
+"1247","Maine","1999",NA,"1404",1272.1,NA,NA,NA
+"1248","Maine","2000",NA,"1397",1277,NA,NA,NA
+"1249","Maine","2001",0,"1435",1286,5429,3360,2069
+"1250","Maine","2002",0,"1396",1296,5793,3450,2343
+"1251","Maine","2003",0,"1422",1307,6158,3646,2512
+"1252","Maine","2004",0,"1364",1314,6059,3600,2459
+"1253","Maine","2005",0,"1483",1319,6500,3908,2592
+"1254","Maine","2006",0,"1533",1324,6544,4193,2351
+"1255","Maine","2007",0,"1565",1327,6900,4334,2566
+"1256","Maine","2008",0,"1572",1331,7109,4338,2771
+"1257","Maine","2009",0,"1580",1330,6909,4131,2778
+"1258","Maine","2010",0,"1621",1328,7088,4280,2808
+"1259","Maine","2011",NA,"1638",NA,NA,NA,NA
+"1260","Maine","2012",NA,"1631",NA,NA,NA,NA
+"1261","Maryland","1950",NA,NA,2355,NA,NA,NA
+"1262","Maryland","1951",NA,NA,2441,NA,NA,NA
+"1263","Maryland","1952",NA,NA,2500,NA,NA,NA
+"1264","Maryland","1953",NA,NA,2567,NA,NA,NA
+"1265","Maryland","1954",NA,NA,2685,NA,NA,NA
+"1266","Maryland","1955",NA,NA,2742,NA,NA,NA
+"1267","Maryland","1956",NA,NA,2811,NA,NA,NA
+"1268","Maryland","1957",NA,NA,2873,NA,NA,NA
+"1269","Maryland","1958",NA,NA,2982,NA,NA,NA
+"1270","Maryland","1959",NA,NA,3066,NA,NA,NA
+"1271","Maryland","1960",NA,"4691",3101,NA,NA,NA
+"1272","Maryland","1961",NA,"4959",3176,NA,NA,NA
+"1273","Maryland","1962",NA,"4915",3263,NA,NA,NA
+"1274","Maryland","1963",NA,"5283",3386,NA,NA,NA
+"1275","Maryland","1964",NA,"7446",3492,NA,NA,NA
+"1276","Maryland","1965",NA,"10032",NA,NA,NA,NA
+"1277","Maryland","1966",NA,"11236",3695,NA,NA,NA
+"1278","Maryland","1967",NA,"17458",3757,NA,NA,NA
+"1279","Maryland","1968",NA,"23405",3815,NA,NA,NA
+"1280","Maryland","1969",NA,"24295",3868,NA,NA,NA
+"1281","Maryland","1970",NA,"24512",3922,NA,NA,NA
+"1282","Maryland","1971",NA,"24857",4018,NA,NA,NA
+"1283","Maryland","1972",NA,"26412",4073,NA,NA,NA
+"1284","Maryland","1973",NA,"26093",4098,NA,NA,NA
+"1285","Maryland","1974",NA,"29439",4119,NA,NA,NA
+"1286","Maryland","1975",NA,"29087",4139,NA,NA,NA
+"1287","Maryland","1976",NA,"26249",4151,NA,NA,NA
+"1288","Maryland","1977",NA,"28716",4170,NA,NA,NA
+"1289","Maryland","1978",NA,"30328",4184,NA,NA,NA
+"1290","Maryland","1979",NA,"33007",4191,NA,NA,NA
+"1291","Maryland","1980",NA,"35735",4217,NA,NA,NA
+"1292","Maryland","1981",NA,"37800",4262,NA,NA,NA
+"1293","Maryland","1982",NA,"36254",4283,NA,NA,NA
+"1294","Maryland","1983",NA,"34736",4313,NA,NA,NA
+"1295","Maryland","1984",NA,"34455",4365,NA,NA,NA
+"1296","Maryland","1985",NA,"36655",4413,NA,NA,NA
+"1297","Maryland","1986",NA,"37177",4487,NA,NA,NA
+"1298","Maryland","1987",NA,"34820",4566,NA,NA,NA
+"1299","Maryland","1988",NA,"37466",4658,NA,NA,NA
+"1300","Maryland","1989",NA,"40152",4727,NA,NA,NA
+"1301","Maryland","1990",NA,"43940",4781,NA,NA,NA
+"1302","Maryland","1991",NA,"46469",4834,NA,NA,NA
+"1303","Maryland","1992",NA,"49085",4887,NA,NA,NA
+"1304","Maryland","1993",NA,"49540",4940,NA,NA,NA
+"1305","Maryland","1994",NA,"47457",4993,NA,NA,NA
+"1306","Maryland","1995",NA,"49757",5046,NA,NA,NA
+"1307","Maryland","1996",NA,"47230",5099,NA,NA,NA
+"1308","Maryland","1997",NA,"43127",5152,NA,NA,NA
+"1309","Maryland","1998",NA,"40903",5205,NA,NA,NA
+"1310","Maryland","1999",NA,"38447",5258,NA,NA,NA
+"1311","Maryland","2000",NA,"41663",5311,NA,NA,NA
+"1312","Maryland","2001",6,"42088",5375,23001,17896,5099
+"1313","Maryland","2002",63,"42015",5440,23316,18122,5131
+"1314","Maryland","2003",113,"38778",5496,24537,18860,5564
+"1315","Maryland","2004",141,"38961",5547,25008,19304,5563
+"1316","Maryland","2005",208,"39369",5592,25990,20377,5405
+"1317","Maryland","2006",223,"38111",5627,26685,20625,5837
+"1318","Maryland","2007",200,"36063",5653,26721,20767,5754
+"1319","Maryland","2008",128,"35393",5685,27136,21005,6003
+"1320","Maryland","2009",275,"33625",5730,27909,21603,6031
+"1321","Maryland","2010",684,"31607",5774,29065,22216,6165
+"1322","Maryland","2011",NA,"28817",NA,NA,NA,NA
+"1323","Maryland","2012",NA,"28055",NA,NA,NA,NA
+"1324","Massachusetts","1950",NA,NA,4686,NA,NA,NA
+"1325","Massachusetts","1951",NA,NA,4654,NA,NA,NA
+"1326","Massachusetts","1952",NA,NA,4650,NA,NA,NA
+"1327","Massachusetts","1953",NA,NA,4806,NA,NA,NA
+"1328","Massachusetts","1954",NA,NA,4910,NA,NA,NA
+"1329","Massachusetts","1955",NA,NA,4882,NA,NA,NA
+"1330","Massachusetts","1956",NA,NA,4891,NA,NA,NA
+"1331","Massachusetts","1957",NA,NA,4929,NA,NA,NA
+"1332","Massachusetts","1958",NA,NA,5010,NA,NA,NA
+"1333","Massachusetts","1959",NA,NA,5117,NA,NA,NA
+"1334","Massachusetts","1960",NA,"2512",5149,NA,NA,NA
+"1335","Massachusetts","1961",NA,"2777",5219,NA,NA,NA
+"1336","Massachusetts","1962",NA,"3207",5263,NA,NA,NA
+"1337","Massachusetts","1963",NA,"3454",5344,NA,NA,NA
+"1338","Massachusetts","1964",NA,"4559",5448,NA,NA,NA
+"1339","Massachusetts","1965",NA,"5270",NA,NA,NA,NA
+"1340","Massachusetts","1966",NA,"6201",5535,NA,NA,NA
+"1341","Massachusetts","1967",NA,"6919",5594,NA,NA,NA
+"1342","Massachusetts","1968",NA,"8916",5618,NA,NA,NA
+"1343","Massachusetts","1969",NA,"10272",5650,NA,NA,NA
+"1344","Massachusetts","1970",NA,"11542",5689,NA,NA,NA
+"1345","Massachusetts","1971",NA,"15317",5738,NA,NA,NA
+"1346","Massachusetts","1972",NA,"17086",5760,NA,NA,NA
+"1347","Massachusetts","1973",NA,"20475",5781,NA,NA,NA
+"1348","Massachusetts","1974",NA,"22545",5774,NA,NA,NA
+"1349","Massachusetts","1975",NA,"25793",5758,NA,NA,NA
+"1350","Massachusetts","1976",NA,"23190",5744,NA,NA,NA
+"1351","Massachusetts","1977",NA,"24593",5738,NA,NA,NA
+"1352","Massachusetts","1978",NA,"26673",5736,NA,NA,NA
+"1353","Massachusetts","1979",NA,"30650",5738,NA,NA,NA
+"1354","Massachusetts","1980",NA,"34444",5737,NA,NA,NA
+"1355","Massachusetts","1981",NA,"36273",5769,NA,NA,NA
+"1356","Massachusetts","1982",NA,"33031",5771,NA,NA,NA
+"1357","Massachusetts","1983",NA,"33264",5799,NA,NA,NA
+"1358","Massachusetts","1984",NA,"30362",5841,NA,NA,NA
+"1359","Massachusetts","1985",NA,"31334",5881,NA,NA,NA
+"1360","Massachusetts","1986",NA,"32476",5903,NA,NA,NA
+"1361","Massachusetts","1987",NA,"33060",5935,NA,NA,NA
+"1362","Massachusetts","1988",NA,"36376",5980,NA,NA,NA
+"1363","Massachusetts","1989",NA,"39912",6015,NA,NA,NA
+"1364","Massachusetts","1990",NA,"44300",6016,NA,NA,NA
+"1365","Massachusetts","1991",NA,"44138",6050.5,NA,NA,NA
+"1366","Massachusetts","1992",NA,"46727",6085,NA,NA,NA
+"1367","Massachusetts","1993",NA,"48393",6119.5,NA,NA,NA
+"1368","Massachusetts","1994",NA,"42749",6154,NA,NA,NA
+"1369","Massachusetts","1995",NA,"41739",6188.5,NA,NA,NA
+"1370","Massachusetts","1996",NA,"39122",6223,NA,NA,NA
+"1371","Massachusetts","1997",NA,"39411",6257.5,NA,NA,NA
+"1372","Massachusetts","1998",NA,"38192",6292,NA,NA,NA
+"1373","Massachusetts","1999",NA,"34023",6326.5,NA,NA,NA
+"1374","Massachusetts","2000",NA,"30230",6361,NA,NA,NA
+"1375","Massachusetts","2001",0,"30585",6398,42731,12691,30040
+"1376","Massachusetts","2002",0,"31137",6417,43097,12645,30452
+"1377","Massachusetts","2003",1,"30377",6423,44726,13205,31520
+"1378","Massachusetts","2004",17,"29489",6412,45583,13299,32267
+"1379","Massachusetts","2005",69,"29644",6403,45714,13754,31891
+"1380","Massachusetts","2006",151,"32217",6410,47024,13950,32923
+"1381","Massachusetts","2007",231,"28487",6432,47885,14401,33253
+"1382","Massachusetts","2008",333,"30137",6469,49526,14763,34430
+"1383","Massachusetts","2009",338,"30503",6518,50106,15385,34382
+"1384","Massachusetts","2010",379,"30737",6548,52223,16251,35593
+"1385","Massachusetts","2011",NA,"28232",NA,NA,NA,NA
+"1386","Massachusetts","2012",NA,"26953",NA,NA,NA,NA
+"1387","Michigan","1950",NA,NA,6407,NA,NA,NA
+"1388","Michigan","1951",NA,NA,6497,NA,NA,NA
+"1389","Michigan","1952",NA,NA,6650,NA,NA,NA
+"1390","Michigan","1953",NA,NA,6822,NA,NA,NA
+"1391","Michigan","1954",NA,NA,7066,NA,NA,NA
+"1392","Michigan","1955",NA,NA,7285,NA,NA,NA
+"1393","Michigan","1956",NA,NA,7467,NA,NA,NA
+"1394","Michigan","1957",NA,NA,7569,NA,NA,NA
+"1395","Michigan","1958",NA,NA,7667,NA,NA,NA
+"1396","Michigan","1959",NA,NA,7767,NA,NA,NA
+"1397","Michigan","1960",NA,"17034",7823,NA,NA,NA
+"1398","Michigan","1961",NA,"16499",7893,NA,NA,NA
+"1399","Michigan","1962",NA,"18106",7933,NA,NA,NA
+"1400","Michigan","1963",NA,"18478",8058,NA,NA,NA
+"1401","Michigan","1964",NA,"21153",8187,NA,NA,NA
+"1402","Michigan","1965",NA,"24459",NA,NA,NA,NA
+"1403","Michigan","1966",NA,"27806",8512,NA,NA,NA
+"1404","Michigan","1967",NA,"33390",8630,NA,NA,NA
+"1405","Michigan","1968",NA,"37292",8696,NA,NA,NA
+"1406","Michigan","1969",NA,"44048",8781,NA,NA,NA
+"1407","Michigan","1970",NA,"51090",8875,NA,NA,NA
+"1408","Michigan","1971",NA,"51697",8974,NA,NA,NA
+"1409","Michigan","1972",NA,"50425",9029,NA,NA,NA
+"1410","Michigan","1973",NA,"52921",9078,NA,NA,NA
+"1411","Michigan","1974",NA,"59993",9118,NA,NA,NA
+"1412","Michigan","1975",NA,"62792",9118,NA,NA,NA
+"1413","Michigan","1976",NA,"58814",9129,NA,NA,NA
+"1414","Michigan","1977",NA,"53381",9171,NA,NA,NA
+"1415","Michigan","1978",NA,"53040",9218,NA,NA,NA
+"1416","Michigan","1979",NA,"56558",9266,NA,NA,NA
+"1417","Michigan","1980",NA,"59014",9262,NA,NA,NA
+"1418","Michigan","1981",NA,"59058",9209,NA,NA,NA
+"1419","Michigan","1982",NA,"59806",9115,NA,NA,NA
+"1420","Michigan","1983",NA,"64993",9048,NA,NA,NA
+"1421","Michigan","1984",NA,"68979",9049,NA,NA,NA
+"1422","Michigan","1985",NA,"66714",9076,NA,NA,NA
+"1423","Michigan","1986",NA,"73517",9128,NA,NA,NA
+"1424","Michigan","1987",NA,"71772",9187,NA,NA,NA
+"1425","Michigan","1988",NA,"68980",9218,NA,NA,NA
+"1426","Michigan","1989",NA,"65760",9253,NA,NA,NA
+"1427","Michigan","1990",NA,"73468",9295,NA,NA,NA
+"1428","Michigan","1991",NA,"75232",9360.7,NA,NA,NA
+"1429","Michigan","1992",NA,"72672",9426.4,NA,NA,NA
+"1430","Michigan","1993",NA,"75021",9492.1,NA,NA,NA
+"1431","Michigan","1994",NA,"72751",9557.8,NA,NA,NA
+"1432","Michigan","1995",NA,"65680",9623.5,NA,NA,NA
+"1433","Michigan","1996",NA,"60951",9689.2,NA,NA,NA
+"1434","Michigan","1997",NA,"57663",9754.9,NA,NA,NA
+"1435","Michigan","1998",NA,"60947",9820.6,NA,NA,NA
+"1436","Michigan","1999",NA,"56709",9886.3,NA,NA,NA
+"1437","Michigan","2000",NA,"55159",9952,NA,NA,NA
+"1438","Michigan","2001",321,"55424",9991,46115,34390,11404
+"1439","Michigan","2002",373,"54306",10016,47929,35784,11772
+"1440","Michigan","2003",387,"51550",10041,50178,37607,12184
+"1441","Michigan","2004",568,"49737",10055,51166,38615,11983
+"1442","Michigan","2005",589,"55936",10051,51207,38901,11717
+"1443","Michigan","2006",520,"56981",10036,51756,39190,12046
+"1444","Michigan","2007",619,"53765",10001,53280,40478,12183
+"1445","Michigan","2008",507,"51512",9947,54010,41260,12243
+"1446","Michigan","2009",718,"49825",9902,54641,41171,12752
+"1447","Michigan","2010",711,"48693",9884,56061,42037,13313
+"1448","Michigan","2011",NA,"43731",NA,NA,NA,NA
+"1449","Michigan","2012",NA,"44922",NA,NA,NA,NA
+"1450","Minnesota","1950",NA,NA,2997,NA,NA,NA
+"1451","Minnesota","1951",NA,NA,3010,NA,NA,NA
+"1452","Minnesota","1952",NA,NA,3030,NA,NA,NA
+"1453","Minnesota","1953",NA,NA,3050,NA,NA,NA
+"1454","Minnesota","1954",NA,NA,3113,NA,NA,NA
+"1455","Minnesota","1955",NA,NA,3172,NA,NA,NA
+"1456","Minnesota","1956",NA,NA,3240,NA,NA,NA
+"1457","Minnesota","1957",NA,NA,3274,NA,NA,NA
+"1458","Minnesota","1958",NA,NA,3313,NA,NA,NA
+"1459","Minnesota","1959",NA,NA,3366,NA,NA,NA
+"1460","Minnesota","1960",NA,"1435",3414,NA,NA,NA
+"1461","Minnesota","1961",NA,"1505",3470,NA,NA,NA
+"1462","Minnesota","1962",NA,"1674",3513,NA,NA,NA
+"1463","Minnesota","1963",NA,"1983",3531,NA,NA,NA
+"1464","Minnesota","1964",NA,"2601",3558,NA,NA,NA
+"1465","Minnesota","1965",NA,"3074",NA,NA,NA,NA
+"1466","Minnesota","1966",NA,"3691",3617,NA,NA,NA
+"1467","Minnesota","1967",NA,"4727",3659,NA,NA,NA
+"1468","Minnesota","1968",NA,"5111",3703,NA,NA,NA
+"1469","Minnesota","1969",NA,"5253",3758,NA,NA,NA
+"1470","Minnesota","1970",NA,"5782",3805,NA,NA,NA
+"1471","Minnesota","1971",NA,"5993",3853,NA,NA,NA
+"1472","Minnesota","1972",NA,"6798",3870,NA,NA,NA
+"1473","Minnesota","1973",NA,"6926",3889,NA,NA,NA
+"1474","Minnesota","1974",NA,"8119",3904,NA,NA,NA
+"1475","Minnesota","1975",NA,"8125",3933,NA,NA,NA
+"1476","Minnesota","1976",NA,"7492",3965,NA,NA,NA
+"1477","Minnesota","1977",NA,"7705",3989,NA,NA,NA
+"1478","Minnesota","1978",NA,"7601",4015,NA,NA,NA
+"1479","Minnesota","1979",NA,"8973",4050,NA,NA,NA
+"1480","Minnesota","1980",NA,"9250",4076,NA,NA,NA
+"1481","Minnesota","1981",NA,"9344",4112,NA,NA,NA
+"1482","Minnesota","1982",NA,"9062",4131,NA,NA,NA
+"1483","Minnesota","1983",NA,"7909",4141,NA,NA,NA
+"1484","Minnesota","1984",NA,"8802",4158,NA,NA,NA
+"1485","Minnesota","1985",NA,"10751",4184,NA,NA,NA
+"1486","Minnesota","1986",NA,"11991",4205,NA,NA,NA
+"1487","Minnesota","1987",NA,"12118",4235,NA,NA,NA
+"1488","Minnesota","1988",NA,"12490",4296,NA,NA,NA
+"1489","Minnesota","1989",NA,"12549",4338,NA,NA,NA
+"1490","Minnesota","1990",NA,"13392",4375,NA,NA,NA
+"1491","Minnesota","1991",NA,"14006",4430.9,NA,NA,NA
+"1492","Minnesota","1992",NA,"15144",4486.8,NA,NA,NA
+"1493","Minnesota","1993",NA,"15986",4542.7,NA,NA,NA
+"1494","Minnesota","1994",NA,"16397",4598.6,NA,NA,NA
+"1495","Minnesota","1995",NA,"16416",4654.5,NA,NA,NA
+"1496","Minnesota","1996",NA,"15782",4710.4,NA,NA,NA
+"1497","Minnesota","1997",NA,"15827",4766.3,NA,NA,NA
+"1498","Minnesota","1998",NA,"14656",4822.2,NA,NA,NA
+"1499","Minnesota","1999",NA,"13085",4878.1,NA,NA,NA
+"1500","Minnesota","2000",NA,"13813",4934,NA,NA,NA
+"1501","Minnesota","2001",60,"13145",4983,23355,14147,9148
+"1502","Minnesota","2002",82,"13428",5019,24706,15250,9374
+"1503","Minnesota","2003",218,"13316",5054,25783,16263,9302
+"1504","Minnesota","2004",380,"13751",5088,27324,17330,9614
+"1505","Minnesota","2005",629,"15243",5120,28275,17648,9998
+"1506","Minnesota","2006",838,"16042",5164,28911,18175,9898
+"1507","Minnesota","2007",1057,"15054",5207,29618,18420,10141
+"1508","Minnesota","2008",1339,"13853",5247,30378,18697,10342
+"1509","Minnesota","2009",1709,"12874",5281,31275,19012,10554
+"1510","Minnesota","2010",2123,"12515",5304,31952,19215,10614
+"1511","Minnesota","2011",NA,"12323",NA,NA,NA,NA
+"1512","Minnesota","2012",NA,"12419",NA,NA,NA,NA
+"1513","Mississippi","1950",NA,NA,2176,NA,NA,NA
+"1514","Mississippi","1951",NA,NA,2163,NA,NA,NA
+"1515","Mississippi","1952",NA,NA,2152,NA,NA,NA
+"1516","Mississippi","1953",NA,NA,2105,NA,NA,NA
+"1517","Mississippi","1954",NA,NA,2064,NA,NA,NA
+"1518","Mississippi","1955",NA,NA,2060,NA,NA,NA
+"1519","Mississippi","1956",NA,NA,2086,NA,NA,NA
+"1520","Mississippi","1957",NA,NA,2088,NA,NA,NA
+"1521","Mississippi","1958",NA,NA,2086,NA,NA,NA
+"1522","Mississippi","1959",NA,NA,2138,NA,NA,NA
+"1523","Mississippi","1960",NA,"2236",2178,NA,NA,NA
+"1524","Mississippi","1961",NA,"2274",2206,NA,NA,NA
+"1525","Mississippi","1962",NA,"2079",2243,NA,NA,NA
+"1526","Mississippi","1963",NA,"1779",2244,NA,NA,NA
+"1527","Mississippi","1964",NA,"4118",2241,NA,NA,NA
+"1528","Mississippi","1965",NA,"3949",NA,NA,NA,NA
+"1529","Mississippi","1966",NA,"3504",2245,NA,NA,NA
+"1530","Mississippi","1967",NA,"2672",2228,NA,NA,NA
+"1531","Mississippi","1968",NA,"3397",2219,NA,NA,NA
+"1532","Mississippi","1969",NA,"3354",2220,NA,NA,NA
+"1533","Mississippi","1970",NA,"3974",2217,NA,NA,NA
+"1534","Mississippi","1971",NA,"6151",2265,NA,NA,NA
+"1535","Mississippi","1972",NA,"7076",2307,NA,NA,NA
+"1536","Mississippi","1973",NA,"7734",2350,NA,NA,NA
+"1537","Mississippi","1974",NA,"7782",2378,NA,NA,NA
+"1538","Mississippi","1975",NA,"7411",2399,NA,NA,NA
+"1539","Mississippi","1976",NA,"6954",2430,NA,NA,NA
+"1540","Mississippi","1977",NA,"6896",2459,NA,NA,NA
+"1541","Mississippi","1978",NA,"7721",2488,NA,NA,NA
+"1542","Mississippi","1979",NA,"7786",2507,NA,NA,NA
+"1543","Mississippi","1980",NA,"8588",2521,NA,NA,NA
+"1544","Mississippi","1981",NA,"7706",2539,NA,NA,NA
+"1545","Mississippi","1982",NA,"7515",2557,NA,NA,NA
+"1546","Mississippi","1983",NA,"7255",2568,NA,NA,NA
+"1547","Mississippi","1984",NA,"7326",2578,NA,NA,NA
+"1548","Mississippi","1985",NA,"7079",2588,NA,NA,NA
+"1549","Mississippi","1986",NA,"7196",2594,NA,NA,NA
+"1550","Mississippi","1987",NA,"7081",2589,NA,NA,NA
+"1551","Mississippi","1988",NA,"8544",2580,NA,NA,NA
+"1552","Mississippi","1989",NA,"8156",2574,NA,NA,NA
+"1553","Mississippi","1990",NA,"8758",2573,NA,NA,NA
+"1554","Mississippi","1991",NA,"10085",2600.5,NA,NA,NA
+"1555","Mississippi","1992",NA,"10763",2628,NA,NA,NA
+"1556","Mississippi","1993",NA,"11467",2655.5,NA,NA,NA
+"1557","Mississippi","1994",NA,"13177",2683,NA,NA,NA
+"1558","Mississippi","1995",NA,"13560",2710.5,NA,NA,NA
+"1559","Mississippi","1996",NA,"13261",2738,NA,NA,NA
+"1560","Mississippi","1997",NA,"12808",2765.5,NA,NA,NA
+"1561","Mississippi","1998",NA,"11302",2793,NA,NA,NA
+"1562","Mississippi","1999",NA,"9671",2820.5,NA,NA,NA
+"1563","Mississippi","2000",NA,"10267",2848,NA,NA,NA
+"1564","Mississippi","2001",0,"10006",2853,11232,9349,1883
+"1565","Mississippi","2002",0,"9858",2859,11899,10021,1878
+"1566","Mississippi","2003",0,"9336",2868,11797,9808,1989
+"1567","Mississippi","2004",0,"8568",2889,11663,9774,1889
+"1568","Mississippi","2005",0,"8131",2906,11681,9767,1914
+"1569","Mississippi","2006",0,"9076",2905,11803,9926,1877
+"1570","Mississippi","2007",0,"8502",2928,12052,10032,2020
+"1571","Mississippi","2008",0,"8942",2948,12186,10190,1996
+"1572","Mississippi","2009",0,"8451",2959,12430,10403,2027
+"1573","Mississippi","2010",0,"7999",2967,12953,10764,2189
+"1574","Mississippi","2011",NA,"8009",NA,NA,NA,NA
+"1575","Mississippi","2012",NA,"7786",NA,NA,NA,NA
+"1576","Missouri","1950",NA,NA,3964,NA,NA,NA
+"1577","Missouri","1951",NA,NA,4015,NA,NA,NA
+"1578","Missouri","1952",NA,NA,3972,NA,NA,NA
+"1579","Missouri","1953",NA,NA,4020,NA,NA,NA
+"1580","Missouri","1954",NA,NA,4066,NA,NA,NA
+"1581","Missouri","1955",NA,NA,4134,NA,NA,NA
+"1582","Missouri","1956",NA,NA,4163,NA,NA,NA
+"1583","Missouri","1957",NA,NA,4189,NA,NA,NA
+"1584","Missouri","1958",NA,NA,4186,NA,NA,NA
+"1585","Missouri","1959",NA,NA,4258,NA,NA,NA
+"1586","Missouri","1960",NA,"7468",4320,NA,NA,NA
+"1587","Missouri","1961",NA,"7266",4349,NA,NA,NA
+"1588","Missouri","1962",NA,"8059",4357,NA,NA,NA
+"1589","Missouri","1963",NA,"8629",4392,NA,NA,NA
+"1590","Missouri","1964",NA,"9553",4442,NA,NA,NA
+"1591","Missouri","1965",NA,"10588",NA,NA,NA,NA
+"1592","Missouri","1966",NA,"11149",4523,NA,NA,NA
+"1593","Missouri","1967",NA,"12746",4539,NA,NA,NA
+"1594","Missouri","1968",NA,"15216",4568,NA,NA,NA
+"1595","Missouri","1969",NA,"18260",4640,NA,NA,NA
+"1596","Missouri","1970",NA,"18986",4677,NA,NA,NA
+"1597","Missouri","1971",NA,"18357",4726,NA,NA,NA
+"1598","Missouri","1972",NA,"18223",4759,NA,NA,NA
+"1599","Missouri","1973",NA,"19441",4783,NA,NA,NA
+"1600","Missouri","1974",NA,"21612",4796,NA,NA,NA
+"1601","Missouri","1975",NA,"23521",4808,NA,NA,NA
+"1602","Missouri","1976",NA,"21470",4839,NA,NA,NA
+"1603","Missouri","1977",NA,"22105",4863,NA,NA,NA
+"1604","Missouri","1978",NA,"22738",4889,NA,NA,NA
+"1605","Missouri","1979",NA,"25662",4912,NA,NA,NA
+"1606","Missouri","1980",NA,"27177",4917,NA,NA,NA
+"1607","Missouri","1981",NA,"26675",4932,NA,NA,NA
+"1608","Missouri","1982",NA,"25078",4929,NA,NA,NA
+"1609","Missouri","1983",NA,"23718",4944,NA,NA,NA
+"1610","Missouri","1984",NA,"23071",4975,NA,NA,NA
+"1611","Missouri","1985",NA,"25321",5000,NA,NA,NA
+"1612","Missouri","1986",NA,"29310",5023,NA,NA,NA
+"1613","Missouri","1987",NA,"27792",5057,NA,NA,NA
+"1614","Missouri","1988",NA,"28393",5082,NA,NA,NA
+"1615","Missouri","1989",NA,"32634",5096,NA,NA,NA
+"1616","Missouri","1990",NA,"36602",5117,NA,NA,NA
+"1617","Missouri","1991",NA,"39358",5166,NA,NA,NA
+"1618","Missouri","1992",NA,"38448",5215,NA,NA,NA
+"1619","Missouri","1993",NA,"38963",5264,NA,NA,NA
+"1620","Missouri","1994",NA,"39240",5313,NA,NA,NA
+"1621","Missouri","1995",NA,"35339",5362,NA,NA,NA
+"1622","Missouri","1996",NA,"31669",5411,NA,NA,NA
+"1623","Missouri","1997",NA,"31192",5460,NA,NA,NA
+"1624","Missouri","1998",NA,"30222",5509,NA,NA,NA
+"1625","Missouri","1999",NA,"27353",5558,NA,NA,NA
+"1626","Missouri","2000",NA,"27419",5607,NA,NA,NA
+"1627","Missouri","2001",557,"30472",5641,30174,16124,13493
+"1628","Missouri","2002",590,"30557",5675,32082,16965,14527
+"1629","Missouri","2003",878,"28067",5709,33291,17248,15165
+"1630","Missouri","2004",967,"28226",5748,34006,17647,15392
+"1631","Missouri","2005",795,"30477",5790,34352,17998,15559
+"1632","Missouri","2006",757,"31897",5843,35231,18147,16327
+"1633","Missouri","2007",762,"32962",5888,35755,18382,16611
+"1634","Missouri","2008",1074,"29701",5924,35736,17637,17025
+"1635","Missouri","2009",1733,"29513",5961,38370,19399,17238
+"1636","Missouri","2010",2391,"27440",5989,39670,19683,17596
+"1637","Missouri","2011",NA,"26888",NA,NA,NA,NA
+"1638","Missouri","2012",NA,"27155",NA,NA,NA,NA
+"1639","Montana","1950",NA,NA,593,NA,NA,NA
+"1640","Montana","1951",NA,NA,596,NA,NA,NA
+"1641","Montana","1952",NA,NA,602,NA,NA,NA
+"1642","Montana","1953",NA,NA,616,NA,NA,NA
+"1643","Montana","1954",NA,NA,624,NA,NA,NA
+"1644","Montana","1955",NA,NA,636,NA,NA,NA
+"1645","Montana","1956",NA,NA,656,NA,NA,NA
+"1646","Montana","1957",NA,NA,667,NA,NA,NA
+"1647","Montana","1958",NA,NA,666,NA,NA,NA
+"1648","Montana","1959",NA,NA,669,NA,NA,NA
+"1649","Montana","1960",NA,"453",675,NA,NA,NA
+"1650","Montana","1961",NA,"457",696,NA,NA,NA
+"1651","Montana","1962",NA,"390",698,NA,NA,NA
+"1652","Montana","1963",NA,"414",703,NA,NA,NA
+"1653","Montana","1964",NA,"564",706,NA,NA,NA
+"1654","Montana","1965",NA,"514",NA,NA,NA,NA
+"1655","Montana","1966",NA,"507",707,NA,NA,NA
+"1656","Montana","1967",NA,"588",701,NA,NA,NA
+"1657","Montana","1968",NA,"610",700,NA,NA,NA
+"1658","Montana","1969",NA,"682",694,NA,NA,NA
+"1659","Montana","1970",NA,"774",694,NA,NA,NA
+"1660","Montana","1971",NA,"971",711,NA,NA,NA
+"1661","Montana","1972",NA,"1079",719,NA,NA,NA
+"1662","Montana","1973",NA,"1207",727,NA,NA,NA
+"1663","Montana","1974",NA,"1194",736,NA,NA,NA
+"1664","Montana","1975",NA,"1418",748,NA,NA,NA
+"1665","Montana","1976",NA,"1358",757,NA,NA,NA
+"1666","Montana","1977",NA,"1659",770,NA,NA,NA
+"1667","Montana","1978",NA,"1865",782,NA,NA,NA
+"1668","Montana","1979",NA,"1762",787,NA,NA,NA
+"1669","Montana","1980",NA,"1740",787,NA,NA,NA
+"1670","Montana","1981",NA,"2004",795,NA,NA,NA
+"1671","Montana","1982",NA,"1801",804,NA,NA,NA
+"1672","Montana","1983",NA,"1737",814,NA,NA,NA
+"1673","Montana","1984",NA,"1958",821,NA,NA,NA
+"1674","Montana","1985",NA,"1722",822,NA,NA,NA
+"1675","Montana","1986",NA,"1289",814,NA,NA,NA
+"1676","Montana","1987",NA,"1223",805,NA,NA,NA
+"1677","Montana","1988",NA,"989",800,NA,NA,NA
+"1678","Montana","1989",NA,"935",800,NA,NA,NA
+"1679","Montana","1990",NA,"1273",799,NA,NA,NA
+"1680","Montana","1991",NA,"1130",809.5,NA,NA,NA
+"1681","Montana","1992",NA,"1400",820,NA,NA,NA
+"1682","Montana","1993",NA,"1489",830.5,NA,NA,NA
+"1683","Montana","1994",NA,"1516",841,NA,NA,NA
+"1684","Montana","1995",NA,"1491",851.5,NA,NA,NA
+"1685","Montana","1996",NA,"1415",862,NA,NA,NA
+"1686","Montana","1997",NA,"1161",872.5,NA,NA,NA
+"1687","Montana","1998",NA,"1797",883,NA,NA,NA
+"1688","Montana","1999",NA,"2090",893.5,NA,NA,NA
+"1689","Montana","2000",NA,"2807",904,NA,NA,NA
+"1690","Montana","2001",0,"3187",907,5183,4443,740
+"1691","Montana","2002",0,"3197",912,5277,4700,577
+"1692","Montana","2003",0,"3351",920,5238,4649,589
+"1693","Montana","2004",0,"2723",930,5369,4772,597
+"1694","Montana","2005",0,"2634",940,5177,4607,570
+"1695","Montana","2006",0,"3564",953,5118,4498,620
+"1696","Montana","2007",0,"3638",965,5217,4634,583
+"1697","Montana","2008",0,"3013",976,5198,4604,594
+"1698","Montana","2009",0,"2798",984,5252,4677,575
+"1699","Montana","2010",0,"2733",989,5232,4670,562
+"1700","Montana","2011",NA,"2755",NA,NA,NA,NA
+"1701","Montana","2012",NA,"2736",NA,NA,NA,NA
+"1702","Nebraska","1950",NA,NA,1327,NA,NA,NA
+"1703","Nebraska","1951",NA,NA,1316,NA,NA,NA
+"1704","Nebraska","1952",NA,NA,1311,NA,NA,NA
+"1705","Nebraska","1953",NA,NA,1318,NA,NA,NA
+"1706","Nebraska","1954",NA,NA,1340,NA,NA,NA
+"1707","Nebraska","1955",NA,NA,1374,NA,NA,NA
+"1708","Nebraska","1956",NA,NA,1397,NA,NA,NA
+"1709","Nebraska","1957",NA,NA,1394,NA,NA,NA
+"1710","Nebraska","1958",NA,NA,1383,NA,NA,NA
+"1711","Nebraska","1959",NA,NA,1397,NA,NA,NA
+"1712","Nebraska","1960",NA,"590",1411,NA,NA,NA
+"1713","Nebraska","1961",NA,"586",1446,NA,NA,NA
+"1714","Nebraska","1962",NA,"637",1464,NA,NA,NA
+"1715","Nebraska","1963",NA,"591",1476,NA,NA,NA
+"1716","Nebraska","1964",NA,"776",1482,NA,NA,NA
+"1717","Nebraska","1965",NA,"852",NA,NA,NA,NA
+"1718","Nebraska","1966",NA,"941",1456,NA,NA,NA
+"1719","Nebraska","1967",NA,"1624",1457,NA,NA,NA
+"1720","Nebraska","1968",NA,"2103",1467,NA,NA,NA
+"1721","Nebraska","1969",NA,"2302",1474,NA,NA,NA
+"1722","Nebraska","1970",NA,"2731",1484,NA,NA,NA
+"1723","Nebraska","1971",NA,"2355",1505,NA,NA,NA
+"1724","Nebraska","1972",NA,"2638",1519,NA,NA,NA
+"1725","Nebraska","1973",NA,"2859",1530,NA,NA,NA
+"1726","Nebraska","1974",NA,"3697",1539,NA,NA,NA
+"1727","Nebraska","1975",NA,"3986",1543,NA,NA,NA
+"1728","Nebraska","1976",NA,"3269",1551,NA,NA,NA
+"1729","Nebraska","1977",NA,"3113",1557,NA,NA,NA
+"1730","Nebraska","1978",NA,"2982",1564,NA,NA,NA
+"1731","Nebraska","1979",NA,"3556",1567,NA,NA,NA
+"1732","Nebraska","1980",NA,"3512",1570,NA,NA,NA
+"1733","Nebraska","1981",NA,"2861",1579,NA,NA,NA
+"1734","Nebraska","1982",NA,"3641",1582,NA,NA,NA
+"1735","Nebraska","1983",NA,"3477",1584,NA,NA,NA
+"1736","Nebraska","1984",NA,"3627",1589,NA,NA,NA
+"1737","Nebraska","1985",NA,"3821",1585,NA,NA,NA
+"1738","Nebraska","1986",NA,"4196",1574,NA,NA,NA
+"1739","Nebraska","1987",NA,"4004",1567,NA,NA,NA
+"1740","Nebraska","1988",NA,"4374",1571,NA,NA,NA
+"1741","Nebraska","1989",NA,"4503",1575,NA,NA,NA
+"1742","Nebraska","1990",NA,"5209",1578,NA,NA,NA
+"1743","Nebraska","1991",NA,"5330",1591.6,NA,NA,NA
+"1744","Nebraska","1992",NA,"5598",1605.2,NA,NA,NA
+"1745","Nebraska","1993",NA,"6071",1618.8,NA,NA,NA
+"1746","Nebraska","1994",NA,"6322",1632.4,NA,NA,NA
+"1747","Nebraska","1995",NA,"6253",1646,NA,NA,NA
+"1748","Nebraska","1996",NA,"7182",1659.6,NA,NA,NA
+"1749","Nebraska","1997",NA,"7265",1673.2,NA,NA,NA
+"1750","Nebraska","1998",NA,"7507",1686.8,NA,NA,NA
+"1751","Nebraska","1999",NA,"7167",1700.4,NA,NA,NA
+"1752","Nebraska","2000",NA,"5606",1714,NA,NA,NA
+"1753","Nebraska","2001",0,"5214",1720,10782,6969,3813
+"1754","Nebraska","2002",0,"5428",1728,10639,6714,3925
+"1755","Nebraska","2003",0,"5105",1739,11025,6939,4086
+"1756","Nebraska","2004",0,"5393",1749,11439,7145,4294
+"1757","Nebraska","2005",11,"5052",1761,11999,7352,4636
+"1758","Nebraska","2006",14,"5197",1773,12150,7379,4757
+"1759","Nebraska","2007",45,"5524",1783,12332,7440,4847
+"1760","Nebraska","2008",53,"5570",1796,12360,7401,4906
+"1761","Nebraska","2009",71,"5199",1813,12575,7408,5096
+"1762","Nebraska","2010",86,"5093",1826,12596,7483,5027
+"1763","Nebraska","2011",NA,"4672",NA,NA,NA,NA
+"1764","Nebraska","2012",NA,"4814",NA,NA,NA,NA
+"1765","Nevada","1950",NA,NA,162,NA,NA,NA
+"1766","Nevada","1951",NA,NA,168,NA,NA,NA
+"1767","Nevada","1952",NA,NA,181,NA,NA,NA
+"1768","Nevada","1953",NA,NA,195,NA,NA,NA
+"1769","Nevada","1954",NA,NA,213,NA,NA,NA
+"1770","Nevada","1955",NA,NA,237,NA,NA,NA
+"1771","Nevada","1956",NA,NA,250,NA,NA,NA
+"1772","Nevada","1957",NA,NA,260,NA,NA,NA
+"1773","Nevada","1958",NA,NA,269,NA,NA,NA
+"1774","Nevada","1959",NA,NA,279,NA,NA,NA
+"1775","Nevada","1960",NA,"416",285,NA,NA,NA
+"1776","Nevada","1961",NA,"549",315,NA,NA,NA
+"1777","Nevada","1962",NA,"711",352,NA,NA,NA
+"1778","Nevada","1963",NA,"755",397,NA,NA,NA
+"1779","Nevada","1964",NA,"983",426,NA,NA,NA
+"1780","Nevada","1965",NA,"953",NA,NA,NA,NA
+"1781","Nevada","1966",NA,"987",446,NA,NA,NA
+"1782","Nevada","1967",NA,"1100",449,NA,NA,NA
+"1783","Nevada","1968",NA,"1261",464,NA,NA,NA
+"1784","Nevada","1969",NA,"1642",480,NA,NA,NA
+"1785","Nevada","1970",NA,"1948",489,NA,NA,NA
+"1786","Nevada","1971",NA,"1887",520,NA,NA,NA
+"1787","Nevada","1972",NA,"2264",547,NA,NA,NA
+"1788","Nevada","1973",NA,"3135",569,NA,NA,NA
+"1789","Nevada","1974",NA,"3910",597,NA,NA,NA
+"1790","Nevada","1975",NA,"4018",620,NA,NA,NA
+"1791","Nevada","1976",NA,"4215",647,NA,NA,NA
+"1792","Nevada","1977",NA,"4703",678,NA,NA,NA
+"1793","Nevada","1978",NA,"5153",719,NA,NA,NA
+"1794","Nevada","1979",NA,"5866",765,NA,NA,NA
+"1795","Nevada","1980",NA,"7304",800,NA,NA,NA
+"1796","Nevada","1981",NA,"7575",848,NA,NA,NA
+"1797","Nevada","1982",NA,"7096",882,NA,NA,NA
+"1798","Nevada","1983",NA,"5838",902,NA,NA,NA
+"1799","Nevada","1984",NA,"5726",925,NA,NA,NA
+"1800","Nevada","1985",NA,"6244",951,NA,NA,NA
+"1801","Nevada","1986",NA,"6923",981,NA,NA,NA
+"1802","Nevada","1987",NA,"7006",1023,NA,NA,NA
+"1803","Nevada","1988",NA,"8275",1075,NA,NA,NA
+"1804","Nevada","1989",NA,"6947",1137,NA,NA,NA
+"1805","Nevada","1990",NA,"7222",1202,NA,NA,NA
+"1806","Nevada","1991",NA,"8693",1283.7,NA,NA,NA
+"1807","Nevada","1992",NA,"9247",1365.4,NA,NA,NA
+"1808","Nevada","1993",NA,"12157",1447.1,NA,NA,NA
+"1809","Nevada","1994",NA,"14597",1528.8,NA,NA,NA
+"1810","Nevada","1995",NA,"14461",1610.5,NA,NA,NA
+"1811","Nevada","1996",NA,"13005",1692.2,NA,NA,NA
+"1812","Nevada","1997",NA,"13395",1773.9,NA,NA,NA
+"1813","Nevada","1998",NA,"11244",1855.6,NA,NA,NA
+"1814","Nevada","1999",NA,"10311",1937.3,NA,NA,NA
+"1815","Nevada","2000",NA,"10474",2019,NA,NA,NA
+"1816","Nevada","2001",271,"12359",2098,4358,4042,45
+"1817","Nevada","2002",255,"13856",2174,4489,4175,59
+"1818","Nevada","2003",266,"13813",2249,4877,4549,62
+"1819","Nevada","2004",379,"14379",2346,5136,4714,43
+"1820","Nevada","2005",538,"14654",2432,5608,5010,60
+"1821","Nevada","2006",617,"18687",2523,6595,5924,54
+"1822","Nevada","2007",662,"19365",2601,6390,5673,55
+"1823","Nevada","2008",702,"18973",2654,6860,6058,100
+"1824","Nevada","2009",786,"18639",2685,7119,6231,102
+"1825","Nevada","2010",897,"17929",2701,7345,6262,186
+"1826","Nevada","2011",NA,"15452",NA,NA,NA,NA
+"1827","Nevada","2012",NA,"16763",NA,NA,NA,NA
+"1828","New Hampshire","1950",NA,NA,532,NA,NA,NA
+"1829","New Hampshire","1951",NA,NA,529,NA,NA,NA
+"1830","New Hampshire","1952",NA,NA,535,NA,NA,NA
+"1831","New Hampshire","1953",NA,NA,547,NA,NA,NA
+"1832","New Hampshire","1954",NA,NA,554,NA,NA,NA
+"1833","New Hampshire","1955",NA,NA,557,NA,NA,NA
+"1834","New Hampshire","1956",NA,NA,566,NA,NA,NA
+"1835","New Hampshire","1957",NA,NA,572,NA,NA,NA
+"1836","New Hampshire","1958",NA,NA,581,NA,NA,NA
+"1837","New Hampshire","1959",NA,NA,596,NA,NA,NA
+"1838","New Hampshire","1960",NA,"81",607,NA,NA,NA
+"1839","New Hampshire","1961",NA,"89",618,NA,NA,NA
+"1840","New Hampshire","1962",NA,"178",632,NA,NA,NA
+"1841","New Hampshire","1963",NA,"164",649,NA,NA,NA
+"1842","New Hampshire","1964",NA,"149",663,NA,NA,NA
+"1843","New Hampshire","1965",NA,"156",NA,NA,NA,NA
+"1844","New Hampshire","1966",NA,"259",681,NA,NA,NA
+"1845","New Hampshire","1967",NA,"218",697,NA,NA,NA
+"1846","New Hampshire","1968",NA,"279",709,NA,NA,NA
+"1847","New Hampshire","1969",NA,"325",724,NA,NA,NA
+"1848","New Hampshire","1970",NA,"413",738,NA,NA,NA
+"1849","New Hampshire","1971",NA,"580",762,NA,NA,NA
+"1850","New Hampshire","1972",NA,"491",781,NA,NA,NA
+"1851","New Hampshire","1973",NA,"649",801,NA,NA,NA
+"1852","New Hampshire","1974",NA,"739",816,NA,NA,NA
+"1853","New Hampshire","1975",NA,"816",829,NA,NA,NA
+"1854","New Hampshire","1976",NA,"709",845,NA,NA,NA
+"1855","New Hampshire","1977",NA,"960",870,NA,NA,NA
+"1856","New Hampshire","1978",NA,"1035",892,NA,NA,NA
+"1857","New Hampshire","1979",NA,"1241",909,NA,NA,NA
+"1858","New Hampshire","1980",NA,"1653",921,NA,NA,NA
+"1859","New Hampshire","1981",NA,"1375",937,NA,NA,NA
+"1860","New Hampshire","1982",NA,"1187",948,NA,NA,NA
+"1861","New Hampshire","1983",NA,"1200",958,NA,NA,NA
+"1862","New Hampshire","1984",NA,"1308",977,NA,NA,NA
+"1863","New Hampshire","1985",NA,"1405",997,NA,NA,NA
+"1864","New Hampshire","1986",NA,"1433",1025,NA,NA,NA
+"1865","New Hampshire","1987",NA,"1581",1054,NA,NA,NA
+"1866","New Hampshire","1988",NA,"1622",1083,NA,NA,NA
+"1867","New Hampshire","1989",NA,"1865",1105,NA,NA,NA
+"1868","New Hampshire","1990",NA,"1459",1109,NA,NA,NA
+"1869","New Hampshire","1991",NA,"1318",1122.1,NA,NA,NA
+"1870","New Hampshire","1992",NA,"1397",1135.2,NA,NA,NA
+"1871","New Hampshire","1993",NA,"1550",1148.3,NA,NA,NA
+"1872","New Hampshire","1994",NA,"1328",1161.4,NA,NA,NA
+"1873","New Hampshire","1995",NA,"1314",1174.5,NA,NA,NA
+"1874","New Hampshire","1996",NA,"1373",1187.6,NA,NA,NA
+"1875","New Hampshire","1997",NA,"1328",1200.7,NA,NA,NA
+"1876","New Hampshire","1998",NA,"1270",1213.8,NA,NA,NA
+"1877","New Hampshire","1999",NA,"1159",1226.9,NA,NA,NA
+"1878","New Hampshire","2000",NA,"2167",1240,NA,NA,NA
+"1879","New Hampshire","2001",97,"2144",1256,7254,3710,3447
+"1880","New Hampshire","2002",86,"2056",1269,7249,3698,3465
+"1881","New Hampshire","2003",85,"1937",1280,7563,4006,3472
+"1882","New Hampshire","2004",135,"2202",1290,7908,4125,3648
+"1883","New Hampshire","2005",150,"1761",1298,8107,4263,3694
+"1884","New Hampshire","2006",110,"1785",1308,8030,4177,3743
+"1885","New Hampshire","2007",161,"1896",1313,8306,4379,3766
+"1886","New Hampshire","2008",164,"2054",1316,8460,4555,3741
+"1887","New Hampshire","2009",352,"2125",1316,8879,4809,3718
+"1888","New Hampshire","2010",424,"2204",1316,9396,5116,3856
+"1889","New Hampshire","2011",NA,"2864",NA,NA,NA,NA
+"1890","New Hampshire","2012",NA,"2481",NA,NA,NA,NA
+"1891","New Jersey","1950",NA,NA,4872,NA,NA,NA
+"1892","New Jersey","1951",NA,NA,5006,NA,NA,NA
+"1893","New Jersey","1952",NA,NA,5125,NA,NA,NA
+"1894","New Jersey","1953",NA,NA,5229,NA,NA,NA
+"1895","New Jersey","1954",NA,NA,5360,NA,NA,NA
+"1896","New Jersey","1955",NA,NA,5502,NA,NA,NA
+"1897","New Jersey","1956",NA,NA,5615,NA,NA,NA
+"1898","New Jersey","1957",NA,NA,5737,NA,NA,NA
+"1899","New Jersey","1958",NA,NA,5890,NA,NA,NA
+"1900","New Jersey","1959",NA,NA,6015,NA,NA,NA
+"1901","New Jersey","1960",NA,"6932",6067,NA,NA,NA
+"1902","New Jersey","1961",NA,"6682",6265,NA,NA,NA
+"1903","New Jersey","1962",NA,"7874",6376,NA,NA,NA
+"1904","New Jersey","1963",NA,"8849",6531,NA,NA,NA
+"1905","New Jersey","1964",NA,"10456",6660,NA,NA,NA
+"1906","New Jersey","1965",NA,"10422",NA,NA,NA,NA
+"1907","New Jersey","1966",NA,"11168",6851,NA,NA,NA
+"1908","New Jersey","1967",NA,"13204",6928,NA,NA,NA
+"1909","New Jersey","1968",NA,"16711",7005,NA,NA,NA
+"1910","New Jersey","1969",NA,"17226",7095,NA,NA,NA
+"1911","New Jersey","1970",NA,"20583",7168,NA,NA,NA
+"1912","New Jersey","1971",NA,"26441",7281,NA,NA,NA
+"1913","New Jersey","1972",NA,"27577",7335,NA,NA,NA
+"1914","New Jersey","1973",NA,"28845",7333,NA,NA,NA
+"1915","New Jersey","1974",NA,"29568",7332,NA,NA,NA
+"1916","New Jersey","1975",NA,"30215",7338,NA,NA,NA
+"1917","New Jersey","1976",NA,"29107",7340,NA,NA,NA
+"1918","New Jersey","1977",NA,"28732",7337,NA,NA,NA
+"1919","New Jersey","1978",NA,"31027",7351,NA,NA,NA
+"1920","New Jersey","1979",NA,"36747",7367,NA,NA,NA
+"1921","New Jersey","1980",NA,"44373",7365,NA,NA,NA
+"1922","New Jersey","1981",NA,"46674",7407,NA,NA,NA
+"1923","New Jersey","1982",NA,"45175",7431,NA,NA,NA
+"1924","New Jersey","1983",NA,"41304",7468,NA,NA,NA
+"1925","New Jersey","1984",NA,"39659",7515,NA,NA,NA
+"1926","New Jersey","1985",NA,"41172",7566,NA,NA,NA
+"1927","New Jersey","1986",NA,"43623",7622,NA,NA,NA
+"1928","New Jersey","1987",NA,"41507",7671,NA,NA,NA
+"1929","New Jersey","1988",NA,"44993",7712,NA,NA,NA
+"1930","New Jersey","1989",NA,"47111",7726,NA,NA,NA
+"1931","New Jersey","1990",NA,"50057",7730,NA,NA,NA
+"1932","New Jersey","1991",NA,"49257",7800.1,NA,NA,NA
+"1933","New Jersey","1992",NA,"48745",7870.2,NA,NA,NA
+"1934","New Jersey","1993",NA,"49390",7940.3,NA,NA,NA
+"1935","New Jersey","1994",NA,"48544",8010.4,NA,NA,NA
+"1936","New Jersey","1995",NA,"47652",8080.5,NA,NA,NA
+"1937","New Jersey","1996",NA,"42459",8150.6,NA,NA,NA
+"1938","New Jersey","1997",NA,"39673",8220.7,NA,NA,NA
+"1939","New Jersey","1998",NA,"35720",8290.8,NA,NA,NA
+"1940","New Jersey","1999",NA,"33540",8360.9,NA,NA,NA
+"1941","New Jersey","2000",NA,"32298",8431,NA,NA,NA
+"1942","New Jersey","2001",86,"33094",8493,26948,19776,7086
+"1943","New Jersey","2002",107,"32252",8553,28376,20884,7385
+"1944","New Jersey","2003",330,"31488",8601,29604,21619,7655
+"1945","New Jersey","2004",565,"30943",8635,30564,22185,7814
+"1946","New Jersey","2005",462,"30919",8652,31987,23110,8415
+"1947","New Jersey","2006",487,"30550",8662,32251,23606,8158
+"1948","New Jersey","2007",461,"28544",8678,32727,23830,8436
+"1949","New Jersey","2008",527,"28351",8711,33645,24267,8851
+"1950","New Jersey","2009",553,"27113",8756,34625,24843,9229
+"1951","New Jersey","2010",636,"27055",8792,36025,25869,9520
+"1952","New Jersey","2011",NA,"27203",NA,NA,NA,NA
+"1953","New Jersey","2012",NA,"25727",NA,NA,NA,NA
+"1954","New Mexico","1950",NA,NA,689,NA,NA,NA
+"1955","New Mexico","1951",NA,NA,717,NA,NA,NA
+"1956","New Mexico","1952",NA,NA,735,NA,NA,NA
+"1957","New Mexico","1953",NA,NA,756,NA,NA,NA
+"1958","New Mexico","1954",NA,NA,763,NA,NA,NA
+"1959","New Mexico","1955",NA,NA,785,NA,NA,NA
+"1960","New Mexico","1956",NA,NA,806,NA,NA,NA
+"1961","New Mexico","1957",NA,NA,847,NA,NA,NA
+"1962","New Mexico","1958",NA,NA,886,NA,NA,NA
+"1963","New Mexico","1959",NA,NA,919,NA,NA,NA
+"1964","New Mexico","1960",NA,"1360",951,NA,NA,NA
+"1965","New Mexico","1961",NA,"1278",965,NA,NA,NA
+"1966","New Mexico","1962",NA,"1338",979,NA,NA,NA
+"1967","New Mexico","1963",NA,"1376",989,NA,NA,NA
+"1968","New Mexico","1964",NA,"1613",1006,NA,NA,NA
+"1969","New Mexico","1965",NA,"2047",NA,NA,NA,NA
+"1970","New Mexico","1966",NA,"2221",1007,NA,NA,NA
+"1971","New Mexico","1967",NA,"2325",1000,NA,NA,NA
+"1972","New Mexico","1968",NA,"2543",994,NA,NA,NA
+"1973","New Mexico","1969",NA,"2881",1011,NA,NA,NA
+"1974","New Mexico","1970",NA,"3093",1016,NA,NA,NA
+"1975","New Mexico","1971",NA,"3994",1054,NA,NA,NA
+"1976","New Mexico","1972",NA,"4598",1079,NA,NA,NA
+"1977","New Mexico","1973",NA,"5219",1106,NA,NA,NA
+"1978","New Mexico","1974",NA,"5053",1131,NA,NA,NA
+"1979","New Mexico","1975",NA,"6134",1160,NA,NA,NA
+"1980","New Mexico","1976",NA,"6475",1189,NA,NA,NA
+"1981","New Mexico","1977",NA,"5961",1216,NA,NA,NA
+"1982","New Mexico","1978",NA,"6402",1238,NA,NA,NA
+"1983","New Mexico","1979",NA,"7272",1285,NA,NA,NA
+"1984","New Mexico","1980",NA,"7967",1303,NA,NA,NA
+"1985","New Mexico","1981",NA,"8913",1333,NA,NA,NA
+"1986","New Mexico","1982",NA,"9982",1364,NA,NA,NA
+"1987","New Mexico","1983",NA,"9608",1394,NA,NA,NA
+"1988","New Mexico","1984",NA,"9798",1417,NA,NA,NA
+"1989","New Mexico","1985",NA,"10207",1438,NA,NA,NA
+"1990","New Mexico","1986",NA,"10731",1463,NA,NA,NA
+"1991","New Mexico","1987",NA,"9427",1479,NA,NA,NA
+"1992","New Mexico","1988",NA,"9938",1490,NA,NA,NA
+"1993","New Mexico","1989",NA,"10755",1504,NA,NA,NA
+"1994","New Mexico","1990",NA,"11821",1515,NA,NA,NA
+"1995","New Mexico","1991",NA,"12922",1545.6,NA,NA,NA
+"1996","New Mexico","1992",NA,"14781",1576.2,NA,NA,NA
+"1997","New Mexico","1993",NA,"15024",1606.8,NA,NA,NA
+"1998","New Mexico","1994",NA,"14708",1637.4,NA,NA,NA
+"1999","New Mexico","1995",NA,"13804",1668,NA,NA,NA
+"2000","New Mexico","1996",NA,"14399",1698.6,NA,NA,NA
+"2001","New Mexico","1997",NA,"14762",1729.2,NA,NA,NA
+"2002","New Mexico","1998",NA,"16700",1759.8,NA,NA,NA
+"2003","New Mexico","1999",NA,"14520",1790.4,NA,NA,NA
+"2004","New Mexico","2000",NA,"13786",1821,NA,NA,NA
+"2005","New Mexico","2001",611,"14288",1832,6551,5400,540
+"2006","New Mexico","2002",641,"13719",1855,6432,5333,458
+"2007","New Mexico","2003",701,"12535",1878,7027,5810,516
+"2008","New Mexico","2004",751,"13081",1904,7217,5948,518
+"2009","New Mexico","2005",789,"12448",1932,7342,6052,501
+"2010","New Mexico","2006",826,"12797",1962,7491,6186,479
+"2011","New Mexico","2007",900,"13311",1990,7839,6462,477
+"2012","New Mexico","2008",785,"12967",2011,7791,6538,468
+"2013","New Mexico","2009",1045,"12709",2037,7875,6625,205
+"2014","New Mexico","2010",968,"12147",2059,7774,6639,167
+"2015","New Mexico","2011",NA,"11904",NA,NA,NA,NA
+"2016","New Mexico","2012",NA,"11660",NA,NA,NA,NA
+"2017","New York","1950",NA,NA,14865,NA,NA,NA
+"2018","New York","1951",NA,NA,14890,NA,NA,NA
+"2019","New York","1952",NA,NA,15192,NA,NA,NA
+"2020","New York","1953",NA,NA,15527,NA,NA,NA
+"2021","New York","1954",NA,NA,15814,NA,NA,NA
+"2022","New York","1955",NA,NA,15966,NA,NA,NA
+"2023","New York","1956",NA,NA,16112,NA,NA,NA
+"2024","New York","1957",NA,NA,16374,NA,NA,NA
+"2025","New York","1958",NA,NA,16601,NA,NA,NA
+"2026","New York","1959",NA,NA,16685,NA,NA,NA
+"2027","New York","1960",NA,"58797",16782,NA,NA,NA
+"2028","New York","1961",NA,"58798",17061,NA,NA,NA
+"2029","New York","1962",NA,"58799",17301,NA,NA,NA
+"2030","New York","1963",NA,"58800",17461,NA,NA,NA
+"2031","New York","1964",NA,"58801",17589,NA,NA,NA
+"2032","New York","1965",NA,"58802",NA,NA,NA,NA
+"2033","New York","1966",NA,"62561",17843,NA,NA,NA
+"2034","New York","1967",NA,"75124",17935,NA,NA,NA
+"2035","New York","1968",NA,"98515",18051,NA,NA,NA
+"2036","New York","1969",NA,"105870",18105,NA,NA,NA
+"2037","New York","1970",NA,"124613",18191,NA,NA,NA
+"2038","New York","1971",NA,"145048",18358,NA,NA,NA
+"2039","New York","1972",NA,"138542",18339,NA,NA,NA
+"2040","New York","1973",NA,"135468",18177,NA,NA,NA
+"2041","New York","1974",NA,"145427",18050,NA,NA,NA
+"2042","New York","1975",NA,"155187",18003,NA,NA,NA
+"2043","New York","1976",NA,"156988",17941,NA,NA,NA
+"2044","New York","1977",NA,"149087",17813,NA,NA,NA
+"2045","New York","1978",NA,"149257",17681,NA,NA,NA
+"2046","New York","1979",NA,"161906",17584,NA,NA,NA
+"2047","New York","1980",NA,"180235",17558,NA,NA,NA
+"2048","New York","1981",NA,"188178",17568,NA,NA,NA
+"2049","New York","1982",NA,"174833",17590,NA,NA,NA
+"2050","New York","1983",NA,"161489",17687,NA,NA,NA
+"2051","New York","1984",NA,"162157",17746,NA,NA,NA
+"2052","New York","1985",NA,"165365",17792,NA,NA,NA
+"2053","New York","1986",NA,"175210",17833,NA,NA,NA
+"2054","New York","1987",NA,"179691",17869,NA,NA,NA
+"2055","New York","1988",NA,"196396",17941,NA,NA,NA
+"2056","New York","1989",NA,"203042",17983,NA,NA,NA
+"2057","New York","1990",NA,"212458",17990,NA,NA,NA
+"2058","New York","1991",NA,"210184",18091.2,NA,NA,NA
+"2059","New York","1992",NA,"203311",18192.4,NA,NA,NA
+"2060","New York","1993",NA,"195352",18293.6,NA,NA,NA
+"2061","New York","1994",NA,"175433",18394.8,NA,NA,NA
+"2062","New York","1995",NA,"152683",18496,NA,NA,NA
+"2063","New York","1996",NA,"132206",18597.2,NA,NA,NA
+"2064","New York","1997",NA,"124890",18698.4,NA,NA,NA
+"2065","New York","1998",NA,"115915",18799.6,NA,NA,NA
+"2066","New York","1999",NA,"107147",18900.8,NA,NA,NA
+"2067","New York","2000",NA,"105111",19002,NA,NA,NA
+"2068","New York","2001",1304,"98022",19083,97415,43505,52606
+"2069","New York","2002",1717,"95030",19138,99488,42675,55096
+"2070","New York","2003",2273,"89486",19176,106188,45031,58884
+"2071","New York","2004",2446,"84914",19172,108135,45022,60667
+"2072","New York","2005",2730,"85839",19133,111201,47712,60759
+"2073","New York","2006",2849,"84016",19105,113094,48591,61654
+"2074","New York","2007",2871,"79962",19132,115290,50028,62391
+"2075","New York","2008",3199,"77546",19212,119777,51265,65313
+"2076","New York","2009",3210,"75110",19307,122186,52864,66112
+"2077","New York","2010",3217,"76492",19378,124920,54901,66802
+"2078","New York","2011",NA,"77463",NA,NA,NA,NA
+"2079","New York","2012",NA,"79610",NA,NA,NA,NA
+"2080","North Carolina","1950",NA,NA,4068,NA,NA,NA
+"2081","North Carolina","1951",NA,NA,4120,NA,NA,NA
+"2082","North Carolina","1952",NA,NA,4109,NA,NA,NA
+"2083","North Carolina","1953",NA,NA,4120,NA,NA,NA
+"2084","North Carolina","1954",NA,NA,4131,NA,NA,NA
+"2085","North Carolina","1955",NA,NA,4242,NA,NA,NA
+"2086","North Carolina","1956",NA,NA,4309,NA,NA,NA
+"2087","North Carolina","1957",NA,NA,4368,NA,NA,NA
+"2088","North Carolina","1958",NA,NA,4376,NA,NA,NA
+"2089","North Carolina","1959",NA,NA,4458,NA,NA,NA
+"2090","North Carolina","1960",NA,"10182",4556,NA,NA,NA
+"2091","North Carolina","1961",NA,"9275",4663,NA,NA,NA
+"2092","North Carolina","1962",NA,"9533",4707,NA,NA,NA
+"2093","North Carolina","1963",NA,"10038",4742,NA,NA,NA
+"2094","North Carolina","1964",NA,"12345",4802,NA,NA,NA
+"2095","North Carolina","1965",NA,"12755",NA,NA,NA,NA
+"2096","North Carolina","1966",NA,"14775",4896,NA,NA,NA
+"2097","North Carolina","1967",NA,"15995",4952,NA,NA,NA
+"2098","North Carolina","1968",NA,"18025",5004,NA,NA,NA
+"2099","North Carolina","1969",NA,"18117",5031,NA,NA,NA
+"2100","North Carolina","1970",NA,"18814",5082,NA,NA,NA
+"2101","North Carolina","1971",NA,"19952",5204,NA,NA,NA
+"2102","North Carolina","1972",NA,"22087",5301,NA,NA,NA
+"2103","North Carolina","1973",NA,"23086",5390,NA,NA,NA
+"2104","North Carolina","1974",NA,"26220",5471,NA,NA,NA
+"2105","North Carolina","1975",NA,"23791",5547,NA,NA,NA
+"2106","North Carolina","1976",NA,"22061",5608,NA,NA,NA
+"2107","North Carolina","1977",NA,"22492",5686,NA,NA,NA
+"2108","North Carolina","1978",NA,"23054",5759,NA,NA,NA
+"2109","North Carolina","1979",NA,"25009",5823,NA,NA,NA
+"2110","North Carolina","1980",NA,"26589",5882,NA,NA,NA
+"2111","North Carolina","1981",NA,"25986",5957,NA,NA,NA
+"2112","North Carolina","1982",NA,"26865",6019,NA,NA,NA
+"2113","North Carolina","1983",NA,"24911",6077,NA,NA,NA
+"2114","North Carolina","1984",NA,"24885",6164,NA,NA,NA
+"2115","North Carolina","1985",NA,"26327",6254,NA,NA,NA
+"2116","North Carolina","1986",NA,"30128",6322,NA,NA,NA
+"2117","North Carolina","1987",NA,"31039",6404,NA,NA,NA
+"2118","North Carolina","1988",NA,"32753",6481,NA,NA,NA
+"2119","North Carolina","1989",NA,"35902",6565,NA,NA,NA
+"2120","North Carolina","1990",NA,"41332",6629,NA,NA,NA
+"2121","North Carolina","1991",NA,"44355",6774.3,NA,NA,NA
+"2122","North Carolina","1992",NA,"46600",6919.6,NA,NA,NA
+"2123","North Carolina","1993",NA,"47178",7064.9,NA,NA,NA
+"2124","North Carolina","1994",NA,"46308",7210.2,NA,NA,NA
+"2125","North Carolina","1995",NA,"46508",7355.5,NA,NA,NA
+"2126","North Carolina","1996",NA,"43068",7500.8,NA,NA,NA
+"2127","North Carolina","1997",NA,"45071",7646.1,NA,NA,NA
+"2128","North Carolina","1998",NA,"43723",7791.4,NA,NA,NA
+"2129","North Carolina","1999",NA,"41474",7936.7,NA,NA,NA
+"2130","North Carolina","2000",NA,"40051",8082,NA,NA,NA
+"2131","North Carolina","2001",0,"40465",8210,34767,23321,11446
+"2132","North Carolina","2002",0,"39118",8326,36071,23972,12099
+"2133","North Carolina","2003",0,"38243",8423,37272,25262,12010
+"2134","North Carolina","2004",2,"38244",8553,38774,26441,12331
+"2135","North Carolina","2005",8,"40650",8705,39303,27000,12295
+"2136","North Carolina","2006",48,"42088",8917,39969,27418,12503
+"2137","North Carolina","2007",150,"42231",9118,41263,28312,12801
+"2138","North Carolina","2008",274,"43125",9309,43452,30084,13094
+"2139","North Carolina","2009",371,"37946",9450,44834,31055,13408
+"2140","North Carolina","2010",727,"34679",9535,46826,32706,13393
+"2141","North Carolina","2011",NA,"33421",NA,NA,NA,NA
+"2142","North Carolina","2012",NA,"34464",NA,NA,NA,NA
+"2143","North Dakota","1950",NA,NA,619,NA,NA,NA
+"2144","North Dakota","1951",NA,NA,604,NA,NA,NA
+"2145","North Dakota","1952",NA,NA,608,NA,NA,NA
+"2146","North Dakota","1953",NA,NA,609,NA,NA,NA
+"2147","North Dakota","1954",NA,NA,611,NA,NA,NA
+"2148","North Dakota","1955",NA,NA,615,NA,NA,NA
+"2149","North Dakota","1956",NA,NA,613,NA,NA,NA
+"2150","North Dakota","1957",NA,NA,612,NA,NA,NA
+"2151","North Dakota","1958",NA,NA,606,NA,NA,NA
+"2152","North Dakota","1959",NA,NA,618,NA,NA,NA
+"2153","North Dakota","1960",NA,"90",632,NA,NA,NA
+"2154","North Dakota","1961",NA,"160",641,NA,NA,NA
+"2155","North Dakota","1962",NA,"128",637,NA,NA,NA
+"2156","North Dakota","1963",NA,"182",644,NA,NA,NA
+"2157","North Dakota","1964",NA,"229",649,NA,NA,NA
+"2158","North Dakota","1965",NA,"223",NA,NA,NA,NA
+"2159","North Dakota","1966",NA,"231",647,NA,NA,NA
+"2160","North Dakota","1967",NA,"185",626,NA,NA,NA
+"2161","North Dakota","1968",NA,"173",621,NA,NA,NA
+"2162","North Dakota","1969",NA,"220",621,NA,NA,NA
+"2163","North Dakota","1970",NA,"211",618,NA,NA,NA
+"2164","North Dakota","1971",NA,"238",627,NA,NA,NA
+"2165","North Dakota","1972",NA,"290",631,NA,NA,NA
+"2166","North Dakota","1973",NA,"389",633,NA,NA,NA
+"2167","North Dakota","1974",NA,"319",635,NA,NA,NA
+"2168","North Dakota","1975",NA,"337",639,NA,NA,NA
+"2169","North Dakota","1976",NA,"462",646,NA,NA,NA
+"2170","North Dakota","1977",NA,"438",650,NA,NA,NA
+"2171","North Dakota","1978",NA,"437",651,NA,NA,NA
+"2172","North Dakota","1979",NA,"403",653,NA,NA,NA
+"2173","North Dakota","1980",NA,"352",653,NA,NA,NA
+"2174","North Dakota","1981",NA,"444",660,NA,NA,NA
+"2175","North Dakota","1982",NA,"414",669,NA,NA,NA
+"2176","North Dakota","1983",NA,"365",677,NA,NA,NA
+"2177","North Dakota","1984",NA,"368",680,NA,NA,NA
+"2178","North Dakota","1985",NA,"322",677,NA,NA,NA
+"2179","North Dakota","1986",NA,"348",670,NA,NA,NA
+"2180","North Dakota","1987",NA,"382",661,NA,NA,NA
+"2181","North Dakota","1988",NA,"392",655,NA,NA,NA
+"2182","North Dakota","1989",NA,"417",646,NA,NA,NA
+"2183","North Dakota","1990",NA,"472",639,NA,NA,NA
+"2184","North Dakota","1991",NA,"415",639.3,NA,NA,NA
+"2185","North Dakota","1992",NA,"530",639.6,NA,NA,NA
+"2186","North Dakota","1993",NA,"522",639.9,NA,NA,NA
+"2187","North Dakota","1994",NA,"522",640.2,NA,NA,NA
+"2188","North Dakota","1995",NA,"556",640.5,NA,NA,NA
+"2189","North Dakota","1996",NA,"541",640.8,NA,NA,NA
+"2190","North Dakota","1997",NA,"559",641.1,NA,NA,NA
+"2191","North Dakota","1998",NA,"570",641.4,NA,NA,NA
+"2192","North Dakota","1999",NA,"424",641.7,NA,NA,NA
+"2193","North Dakota","2000",NA,"523",642,NA,NA,NA
+"2194","North Dakota","2001",0,"505",639,4688,3943,745
+"2195","North Dakota","2002",0,"496",638,4810,4045,765
+"2196","North Dakota","2003",0,"508",639,4882,4131,751
+"2197","North Dakota","2004",0,"558",645,5033,4226,807
+"2198","North Dakota","2005",0,"706",646,5161,4382,779
+"2199","North Dakota","2006",0,"1255",649,5487,4689,798
+"2200","North Dakota","2007",0,"1343",653,5543,4763,780
+"2201","North Dakota","2008",3,"1441",658,5531,4740,788
+"2202","North Dakota","2009",26,"1723",665,5604,4851,727
+"2203","North Dakota","2010",81,"1548",673,5727,4860,786
+"2204","North Dakota","2011",NA,"1699",NA,NA,NA,NA
+"2205","North Dakota","2012",NA,"1712",NA,NA,NA,NA
+"2206","Ohio","1950",NA,NA,7980,NA,NA,NA
+"2207","Ohio","1951",NA,NA,8061,NA,NA,NA
+"2208","Ohio","1952",NA,NA,8275,NA,NA,NA
+"2209","Ohio","1953",NA,NA,8591,NA,NA,NA
+"2210","Ohio","1954",NA,NA,8873,NA,NA,NA
+"2211","Ohio","1955",NA,NA,9017,NA,NA,NA
+"2212","Ohio","1956",NA,NA,9207,NA,NA,NA
+"2213","Ohio","1957",NA,NA,9410,NA,NA,NA
+"2214","Ohio","1958",NA,NA,9599,NA,NA,NA
+"2215","Ohio","1959",NA,NA,9671,NA,NA,NA
+"2216","Ohio","1960",NA,"8120",9706,NA,NA,NA
+"2217","Ohio","1961",NA,"7986",9854,NA,NA,NA
+"2218","Ohio","1962",NA,"8366",9929,NA,NA,NA
+"2219","Ohio","1963",NA,"9086",9986,NA,NA,NA
+"2220","Ohio","1964",NA,"11582",10080,NA,NA,NA
+"2221","Ohio","1965",NA,"12788",NA,NA,NA,NA
+"2222","Ohio","1966",NA,"15626",10330,NA,NA,NA
+"2223","Ohio","1967",NA,"19344",10414,NA,NA,NA
+"2224","Ohio","1968",NA,"21228",10516,NA,NA,NA
+"2225","Ohio","1969",NA,"26648",10563,NA,NA,NA
+"2226","Ohio","1970",NA,"30279",10652,NA,NA,NA
+"2227","Ohio","1971",NA,"32159",10735,NA,NA,NA
+"2228","Ohio","1972",NA,"32286",10747,NA,NA,NA
+"2229","Ohio","1973",NA,"31304",10767,NA,NA,NA
+"2230","Ohio","1974",NA,"39094",10766,NA,NA,NA
+"2231","Ohio","1975",NA,"43901",10770,NA,NA,NA
+"2232","Ohio","1976",NA,"41553",10753,NA,NA,NA
+"2233","Ohio","1977",NA,"43521",10771,NA,NA,NA
+"2234","Ohio","1978",NA,"44357",10796,NA,NA,NA
+"2235","Ohio","1979",NA,"49092",10798,NA,NA,NA
+"2236","Ohio","1980",NA,"53646",10798,NA,NA,NA
+"2237","Ohio","1981",NA,"53509",10788,NA,NA,NA
+"2238","Ohio","1982",NA,"47126",10757,NA,NA,NA
+"2239","Ohio","1983",NA,"42759",10738,NA,NA,NA
+"2240","Ohio","1984",NA,"41430",10738,NA,NA,NA
+"2241","Ohio","1985",NA,"41000",10735,NA,NA,NA
+"2242","Ohio","1986",NA,"45260",10730,NA,NA,NA
+"2243","Ohio","1987",NA,"45436",10760,NA,NA,NA
+"2244","Ohio","1988",NA,"49144",10799,NA,NA,NA
+"2245","Ohio","1989",NA,"51109",10829,NA,NA,NA
+"2246","Ohio","1990",NA,"54904",10847,NA,NA,NA
+"2247","Ohio","1991",NA,"61460",10898.7,NA,NA,NA
+"2248","Ohio","1992",NA,"57935",10950.4,NA,NA,NA
+"2249","Ohio","1993",NA,"55915",11002.1,NA,NA,NA
+"2250","Ohio","1994",NA,"53930",11053.8,NA,NA,NA
+"2251","Ohio","1995",NA,"53799",11105.5,NA,NA,NA
+"2252","Ohio","1996",NA,"47896",11157.2,NA,NA,NA
+"2253","Ohio","1997",NA,"48706",11208.9,NA,NA,NA
+"2254","Ohio","1998",NA,"40628",11260.6,NA,NA,NA
+"2255","Ohio","1999",NA,"35616",11312.3,NA,NA,NA
+"2256","Ohio","2000",NA,"37935",11364,NA,NA,NA
+"2257","Ohio","2001",486,"40023",11387,50856,32192,18178
+"2258","Ohio","2002",561,"40128",11408,52748,33545,18642
+"2259","Ohio","2003",508,"38185",11435,54852,34660,19684
+"2260","Ohio","2004",690,"38787",11452,56256,35860,19706
+"2261","Ohio","2005",704,"40162",11463,56969,36749,19516
+"2262","Ohio","2006",739,"41491",11481,58522,37413,20370
+"2263","Ohio","2007",762,"40759",11500,59025,37666,20597
+"2264","Ohio","2008",833,"40436",11515,59385,38126,20426
+"2265","Ohio","2009",929,"38305",11529,60048,38448,20671
+"2266","Ohio","2010",962,"36306",11537,61085,39196,20927
+"2267","Ohio","2011",NA,"35218",NA,NA,NA,NA
+"2268","Ohio","2012",NA,"34595",NA,NA,NA,NA
+"2269","Oklahoma","1950",NA,NA,2229,NA,NA,NA
+"2270","Oklahoma","1951",NA,NA,2210,NA,NA,NA
+"2271","Oklahoma","1952",NA,NA,2219,NA,NA,NA
+"2272","Oklahoma","1953",NA,NA,2182,NA,NA,NA
+"2273","Oklahoma","1954",NA,NA,2209,NA,NA,NA
+"2274","Oklahoma","1955",NA,NA,2250,NA,NA,NA
+"2275","Oklahoma","1956",NA,NA,2273,NA,NA,NA
+"2276","Oklahoma","1957",NA,NA,2282,NA,NA,NA
+"2277","Oklahoma","1958",NA,NA,2267,NA,NA,NA
+"2278","Oklahoma","1959",NA,NA,2289,NA,NA,NA
+"2279","Oklahoma","1960",NA,"2258",2328,NA,NA,NA
+"2280","Oklahoma","1961",NA,"2437",2380,NA,NA,NA
+"2281","Oklahoma","1962",NA,"2478",2427,NA,NA,NA
+"2282","Oklahoma","1963",NA,"2808",2439,NA,NA,NA
+"2283","Oklahoma","1964",NA,"3609",2446,NA,NA,NA
+"2284","Oklahoma","1965",NA,"3339",NA,NA,NA,NA
+"2285","Oklahoma","1966",NA,"3552",2454,NA,NA,NA
+"2286","Oklahoma","1967",NA,"3703",2489,NA,NA,NA
+"2287","Oklahoma","1968",NA,"4473",2503,NA,NA,NA
+"2288","Oklahoma","1969",NA,"4775",2535,NA,NA,NA
+"2289","Oklahoma","1970",NA,"5194",2559,NA,NA,NA
+"2290","Oklahoma","1971",NA,"6719",2619,NA,NA,NA
+"2291","Oklahoma","1972",NA,"6289",2659,NA,NA,NA
+"2292","Oklahoma","1973",NA,"6556",2696,NA,NA,NA
+"2293","Oklahoma","1974",NA,"7588",2735,NA,NA,NA
+"2294","Oklahoma","1975",NA,"8225",2775,NA,NA,NA
+"2295","Oklahoma","1976",NA,"7926",2827,NA,NA,NA
+"2296","Oklahoma","1977",NA,"8899",2870,NA,NA,NA
+"2297","Oklahoma","1978",NA,"10165",2917,NA,NA,NA
+"2298","Oklahoma","1979",NA,"11719",2975,NA,NA,NA
+"2299","Oklahoma","1980",NA,"12589",3025,NA,NA,NA
+"2300","Oklahoma","1981",NA,"13223",3096,NA,NA,NA
+"2301","Oklahoma","1982",NA,"14103",3206,NA,NA,NA
+"2302","Oklahoma","1983",NA,"13964",3290,NA,NA,NA
+"2303","Oklahoma","1984",NA,"13438",3286,NA,NA,NA
+"2304","Oklahoma","1985",NA,"13930",3271,NA,NA,NA
+"2305","Oklahoma","1986",NA,"14423",3253,NA,NA,NA
+"2306","Oklahoma","1987",NA,"13664",3210,NA,NA,NA
+"2307","Oklahoma","1988",NA,"14179",3167,NA,NA,NA
+"2308","Oklahoma","1989",NA,"15847",3150,NA,NA,NA
+"2309","Oklahoma","1990",NA,"17222",3146,NA,NA,NA
+"2310","Oklahoma","1991",NA,"18533",3176.8,NA,NA,NA
+"2311","Oklahoma","1992",NA,"20005",3207.6,NA,NA,NA
+"2312","Oklahoma","1993",NA,"20512",3238.4,NA,NA,NA
+"2313","Oklahoma","1994",NA,"21225",3269.2,NA,NA,NA
+"2314","Oklahoma","1995",NA,"21770",3300,NA,NA,NA
+"2315","Oklahoma","1996",NA,"19710",3330.8,NA,NA,NA
+"2316","Oklahoma","1997",NA,"18560",3361.6,NA,NA,NA
+"2317","Oklahoma","1998",NA,"18053",3392.4,NA,NA,NA
+"2318","Oklahoma","1999",NA,"17066",3423.2,NA,NA,NA
+"2319","Oklahoma","2000",NA,"17177",3454,NA,NA,NA
+"2320","Oklahoma","2001",145,"17726",3467,15932,12510,3277
+"2321","Oklahoma","2002",235,"17587",3489,16232,12783,3214
+"2322","Oklahoma","2003",280,"17758",3505,16348,12834,3234
+"2323","Oklahoma","2004",315,"17635",3525,17424,13767,3342
+"2324","Oklahoma","2005",338,"18044",3549,18266,14649,3279
+"2325","Oklahoma","2006",348,"17905",3594,18909,15257,3304
+"2326","Oklahoma","2007",360,"18234",3634,18892,15394,3138
+"2327","Oklahoma","2008",321,"19359",3669,19218,15576,3321
+"2328","Oklahoma","2009",346,"18560",3718,19634,15976,3312
+"2329","Oklahoma","2010",339,"18100",3751,19535,15736,3460
+"2330","Oklahoma","2011",NA,"17311",NA,NA,NA,NA
+"2331","Oklahoma","2012",NA,"17902",NA,NA,NA,NA
+"2332","Oregon","1950",NA,NA,1532,NA,NA,NA
+"2333","Oregon","1951",NA,NA,1556,NA,NA,NA
+"2334","Oregon","1952",NA,NA,1582,NA,NA,NA
+"2335","Oregon","1953",NA,NA,1601,NA,NA,NA
+"2336","Oregon","1954",NA,NA,1626,NA,NA,NA
+"2337","Oregon","1955",NA,NA,1659,NA,NA,NA
+"2338","Oregon","1956",NA,NA,1698,NA,NA,NA
+"2339","Oregon","1957",NA,NA,1712,NA,NA,NA
+"2340","Oregon","1958",NA,NA,1718,NA,NA,NA
+"2341","Oregon","1959",NA,NA,1746,NA,NA,NA
+"2342","Oregon","1960",NA,"1232",1769,NA,NA,NA
+"2343","Oregon","1961",NA,"1242",1787,NA,NA,NA
+"2344","Oregon","1962",NA,"1461",1818,NA,NA,NA
+"2345","Oregon","1963",NA,"1393",1853,NA,NA,NA
+"2346","Oregon","1964",NA,"2009",1888,NA,NA,NA
+"2347","Oregon","1965",NA,"2290",NA,NA,NA,NA
+"2348","Oregon","1966",NA,"2470",1969,NA,NA,NA
+"2349","Oregon","1967",NA,"3147",1979,NA,NA,NA
+"2350","Oregon","1968",NA,"3955",2004,NA,NA,NA
+"2351","Oregon","1969",NA,"4527",2062,NA,NA,NA
+"2352","Oregon","1970",NA,"5373",2091,NA,NA,NA
+"2353","Oregon","1971",NA,"6335",2151,NA,NA,NA
+"2354","Oregon","1972",NA,"6494",2197,NA,NA,NA
+"2355","Oregon","1973",NA,"6512",2242,NA,NA,NA
+"2356","Oregon","1974",NA,"8326",2285,NA,NA,NA
+"2357","Oregon","1975",NA,"10034",2330,NA,NA,NA
+"2358","Oregon","1976",NA,"10654",2378,NA,NA,NA
+"2359","Oregon","1977",NA,"10830",2447,NA,NA,NA
+"2360","Oregon","1978",NA,"12278",2518,NA,NA,NA
+"2361","Oregon","1979",NA,"13781",2588,NA,NA,NA
+"2362","Oregon","1980",NA,"12802",2633,NA,NA,NA
+"2363","Oregon","1981",NA,"12671",2668,NA,NA,NA
+"2364","Oregon","1982",NA,"12529",2665,NA,NA,NA
+"2365","Oregon","1983",NA,"12986",2653,NA,NA,NA
+"2366","Oregon","1984",NA,"13533",2667,NA,NA,NA
+"2367","Oregon","1985",NA,"14807",2673,NA,NA,NA
+"2368","Oregon","1986",NA,"14830",2684,NA,NA,NA
+"2369","Oregon","1987",NA,"14697",2701,NA,NA,NA
+"2370","Oregon","1988",NA,"14959",2741,NA,NA,NA
+"2371","Oregon","1989",NA,"14625",2791,NA,NA,NA
+"2372","Oregon","1990",NA,"14405",2842,NA,NA,NA
+"2373","Oregon","1991",NA,"14795",2900.8,NA,NA,NA
+"2374","Oregon","1992",NA,"15189",2959.6,NA,NA,NA
+"2375","Oregon","1993",NA,"15254",3018.4,NA,NA,NA
+"2376","Oregon","1994",NA,"16067",3077.2,NA,NA,NA
+"2377","Oregon","1995",NA,"16408",3136,NA,NA,NA
+"2378","Oregon","1996",NA,"14837",3194.8,NA,NA,NA
+"2379","Oregon","1997",NA,"14412",3253.6,NA,NA,NA
+"2380","Oregon","1998",NA,"13778",3312.4,NA,NA,NA
+"2381","Oregon","1999",NA,"12432",3371.2,NA,NA,NA
+"2382","Oregon","2000",NA,"12000",3430,NA,NA,NA
+"2383","Oregon","2001",210,"10650",3468,13887,9861,3816
+"2384","Oregon","2002",250,"10298",3513,14450,10207,3993
+"2385","Oregon","2003",395,"10506",3547,15601,11342,3864
+"2386","Oregon","2004",401,"10724",3569,16664,12114,4149
+"2387","Oregon","2005",434,"10444",3613,16867,12426,4007
+"2388","Oregon","2006",512,"10534",3671,17631,12952,4167
+"2389","Oregon","2007",523,"11015",3722,17906,12921,4462
+"2390","Oregon","2008",546,"9909",3769,17920,12860,4514
+"2391","Oregon","2009",666,"9968",3809,17918,12796,4456
+"2392","Oregon","2010",573,"9648",3831,18873,13614,4686
+"2393","Oregon","2011",NA,"9643",NA,NA,NA,NA
+"2394","Oregon","2012",NA,"9653",NA,NA,NA,NA
+"2395","Pennsylvania","1950",NA,NA,10507,NA,NA,NA
+"2396","Pennsylvania","1951",NA,NA,10461,NA,NA,NA
+"2397","Pennsylvania","1952",NA,NA,10503,NA,NA,NA
+"2398","Pennsylvania","1953",NA,NA,10662,NA,NA,NA
+"2399","Pennsylvania","1954",NA,NA,10817,NA,NA,NA
+"2400","Pennsylvania","1955",NA,NA,10939,NA,NA,NA
+"2401","Pennsylvania","1956",NA,NA,10972,NA,NA,NA
+"2402","Pennsylvania","1957",NA,NA,10954,NA,NA,NA
+"2403","Pennsylvania","1958",NA,NA,11058,NA,NA,NA
+"2404","Pennsylvania","1959",NA,NA,11234,NA,NA,NA
+"2405","Pennsylvania","1960",NA,"11203",11319,NA,NA,NA
+"2406","Pennsylvania","1961",NA,"11223",11392,NA,NA,NA
+"2407","Pennsylvania","1962",NA,"11856",11355,NA,NA,NA
+"2408","Pennsylvania","1963",NA,"12678",11424,NA,NA,NA
+"2409","Pennsylvania","1964",NA,"14162",11519,NA,NA,NA
+"2410","Pennsylvania","1965",NA,"16384",NA,NA,NA,NA
+"2411","Pennsylvania","1966",NA,"15169",11664,NA,NA,NA
+"2412","Pennsylvania","1967",NA,"16119",11681,NA,NA,NA
+"2413","Pennsylvania","1968",NA,"20710",11741,NA,NA,NA
+"2414","Pennsylvania","1969",NA,"22887",11741,NA,NA,NA
+"2415","Pennsylvania","1970",NA,"25970",11794,NA,NA,NA
+"2416","Pennsylvania","1971",NA,"31917",11886,NA,NA,NA
+"2417","Pennsylvania","1972",NA,"33052",11908,NA,NA,NA
+"2418","Pennsylvania","1973",NA,"32397",11891,NA,NA,NA
+"2419","Pennsylvania","1974",NA,"37281",11871,NA,NA,NA
+"2420","Pennsylvania","1975",NA,"38933",11906,NA,NA,NA
+"2421","Pennsylvania","1976",NA,"34985",11897,NA,NA,NA
+"2422","Pennsylvania","1977",NA,"33328",11894,NA,NA,NA
+"2423","Pennsylvania","1978",NA,"35381",11879,NA,NA,NA
+"2424","Pennsylvania","1979",NA,"39133",11888,NA,NA,NA
+"2425","Pennsylvania","1980",NA,"43032",11864,NA,NA,NA
+"2426","Pennsylvania","1981",NA,"44104",11859,NA,NA,NA
+"2427","Pennsylvania","1982",NA,"42767",11845,NA,NA,NA
+"2428","Pennsylvania","1983",NA,"40782",11838,NA,NA,NA
+"2429","Pennsylvania","1984",NA,"38154",11815,NA,NA,NA
+"2430","Pennsylvania","1985",NA,"39240",11771,NA,NA,NA
+"2431","Pennsylvania","1986",NA,"42629",11783,NA,NA,NA
+"2432","Pennsylvania","1987",NA,"44087",11811,NA,NA,NA
+"2433","Pennsylvania","1988",NA,"43534",11846,NA,NA,NA
+"2434","Pennsylvania","1989",NA,"45586",11866,NA,NA,NA
+"2435","Pennsylvania","1990",NA,"51213",11882,NA,NA,NA
+"2436","Pennsylvania","1991",NA,"53824",11922.2,NA,NA,NA
+"2437","Pennsylvania","1992",NA,"51276",11962.4,NA,NA,NA
+"2438","Pennsylvania","1993",NA,"50295",12002.6,NA,NA,NA
+"2439","Pennsylvania","1994",NA,"51425",12042.8,NA,NA,NA
+"2440","Pennsylvania","1995",NA,"51586",12083,NA,NA,NA
+"2441","Pennsylvania","1996",NA,"57905",12123.2,NA,NA,NA
+"2442","Pennsylvania","1997",NA,"53140",12163.4,NA,NA,NA
+"2443","Pennsylvania","1998",NA,"50470",12203.6,NA,NA,NA
+"2444","Pennsylvania","1999",NA,"50431",12243.8,NA,NA,NA
+"2445","Pennsylvania","2000",NA,"51584",12284,NA,NA,NA
+"2446","Pennsylvania","2001",28,"50432",12299,66514,33044,33442
+"2447","Pennsylvania","2002",162,"49578",12331,68999,34136,34701
+"2448","Pennsylvania","2003",412,"49210",12375,72351,35647,36292
+"2449","Pennsylvania","2004",737,"50998",12411,75343,37569,37037
+"2450","Pennsylvania","2005",867,"52761",12450,77765,39219,37679
+"2451","Pennsylvania","2006",1262,"55028",12511,79791,40052,38477
+"2452","Pennsylvania","2007",1417,"51806",12564,81042,40467,39158
+"2453","Pennsylvania","2008",1623,"51044",12612,82132,40505,40004
+"2454","Pennsylvania","2009",1701,"48188",12667,84692,41846,41145
+"2455","Pennsylvania","2010",1904,"46612",12702,87162,43911,41347
+"2456","Pennsylvania","2011",NA,"46189",NA,NA,NA,NA
+"2457","Pennsylvania","2012",NA,"44503",NA,NA,NA,NA
+"2458","Rhode Island","1950",NA,NA,786,NA,NA,NA
+"2459","Rhode Island","1951",NA,NA,784,NA,NA,NA
+"2460","Rhode Island","1952",NA,NA,802,NA,NA,NA
+"2461","Rhode Island","1953",NA,NA,815,NA,NA,NA
+"2462","Rhode Island","1954",NA,NA,816,NA,NA,NA
+"2463","Rhode Island","1955",NA,NA,823,NA,NA,NA
+"2464","Rhode Island","1956",NA,NA,840,NA,NA,NA
+"2465","Rhode Island","1957",NA,NA,851,NA,NA,NA
+"2466","Rhode Island","1958",NA,NA,858,NA,NA,NA
+"2467","Rhode Island","1959",NA,NA,857,NA,NA,NA
+"2468","Rhode Island","1960",NA,"316",859,NA,NA,NA
+"2469","Rhode Island","1961",NA,"372",858,NA,NA,NA
+"2470","Rhode Island","1962",NA,"402",871,NA,NA,NA
+"2471","Rhode Island","1963",NA,"500",876,NA,NA,NA
+"2472","Rhode Island","1964",NA,"578",885,NA,NA,NA
+"2473","Rhode Island","1965",NA,"722",NA,NA,NA,NA
+"2474","Rhode Island","1966",NA,"849",899,NA,NA,NA
+"2475","Rhode Island","1967",NA,"1156",909,NA,NA,NA
+"2476","Rhode Island","1968",NA,"1254",922,NA,NA,NA
+"2477","Rhode Island","1969",NA,"1594",932,NA,NA,NA
+"2478","Rhode Island","1970",NA,"1944",950,NA,NA,NA
+"2479","Rhode Island","1971",NA,"2129",963,NA,NA,NA
+"2480","Rhode Island","1972",NA,"2424",975,NA,NA,NA
+"2481","Rhode Island","1973",NA,"2749",976,NA,NA,NA
+"2482","Rhode Island","1974",NA,"2651",951,NA,NA,NA
+"2483","Rhode Island","1975",NA,"2802",943,NA,NA,NA
+"2484","Rhode Island","1976",NA,"2779",946,NA,NA,NA
+"2485","Rhode Island","1977",NA,"2820",950,NA,NA,NA
+"2486","Rhode Island","1978",NA,"3255",952,NA,NA,NA
+"2487","Rhode Island","1979",NA,"3485",950,NA,NA,NA
+"2488","Rhode Island","1980",NA,"3864",947,NA,NA,NA
+"2489","Rhode Island","1981",NA,"4205",953,NA,NA,NA
+"2490","Rhode Island","1982",NA,"3849",954,NA,NA,NA
+"2491","Rhode Island","1983",NA,"3392",956,NA,NA,NA
+"2492","Rhode Island","1984",NA,"3220",962,NA,NA,NA
+"2493","Rhode Island","1985",NA,"3355",969,NA,NA,NA
+"2494","Rhode Island","1986",NA,"3271",977,NA,NA,NA
+"2495","Rhode Island","1987",NA,"3547",990,NA,NA,NA
+"2496","Rhode Island","1988",NA,"3947",996,NA,NA,NA
+"2497","Rhode Island","1989",NA,"3772",1001,NA,NA,NA
+"2498","Rhode Island","1990",NA,"4334",1003,NA,NA,NA
+"2499","Rhode Island","1991",NA,"4638",1007.7,NA,NA,NA
+"2500","Rhode Island","1992",NA,"3965",1012.4,NA,NA,NA
+"2501","Rhode Island","1993",NA,"4017",1017.1,NA,NA,NA
+"2502","Rhode Island","1994",NA,"3744",1021.8,NA,NA,NA
+"2503","Rhode Island","1995",NA,"3643",1026.5,NA,NA,NA
+"2504","Rhode Island","1996",NA,"3437",1031.2,NA,NA,NA
+"2505","Rhode Island","1997",NA,"3292",1035.9,NA,NA,NA
+"2506","Rhode Island","1998",NA,"3084",1040.6,NA,NA,NA
+"2507","Rhode Island","1999",NA,"2840",1045.3,NA,NA,NA
+"2508","Rhode Island","2000",NA,"3121",1050,NA,NA,NA
+"2509","Rhode Island","2001",0,"3278",1057,8283,2802,5481
+"2510","Rhode Island","2002",0,"3051",1066,8845,2971,5874
+"2511","Rhode Island","2003",0,"3074",1071,9108,3016,6092
+"2512","Rhode Island","2004",0,"2673",1075,9251,3137,6114
+"2513","Rhode Island","2005",0,"2710",1068,9472,3031,6441
+"2514","Rhode Island","2006",0,"2460",1063,9686,3249,6437
+"2515","Rhode Island","2007",0,"2424",1057,9982,3191,6791
+"2516","Rhode Island","2008",0,"2656",1055,10265,3447,6818
+"2517","Rhode Island","2009",0,"2678",1054,10291,3504,6787
+"2518","Rhode Island","2010",0,"2709",1053,10647,3782,6865
+"2519","Rhode Island","2011",NA,"2586",NA,NA,NA,NA
+"2520","Rhode Island","2012",NA,"2651",NA,NA,NA,NA
+"2521","South Carolina","1950",NA,NA,2113,NA,NA,NA
+"2522","South Carolina","1951",NA,NA,2167,NA,NA,NA
+"2523","South Carolina","1952",NA,NA,2178,NA,NA,NA
+"2524","South Carolina","1953",NA,NA,2181,NA,NA,NA
+"2525","South Carolina","1954",NA,NA,2176,NA,NA,NA
+"2526","South Carolina","1955",NA,NA,2200,NA,NA,NA
+"2527","South Carolina","1956",NA,NA,2229,NA,NA,NA
+"2528","South Carolina","1957",NA,NA,2274,NA,NA,NA
+"2529","South Carolina","1958",NA,NA,2304,NA,NA,NA
+"2530","South Carolina","1959",NA,NA,2348,NA,NA,NA
+"2531","South Carolina","1960",NA,"3424",2383,NA,NA,NA
+"2532","South Carolina","1961",NA,"3318",2409,NA,NA,NA
+"2533","South Carolina","1962",NA,"3012",2423,NA,NA,NA
+"2534","South Carolina","1963",NA,"4075",2460,NA,NA,NA
+"2535","South Carolina","1964",NA,"4240",2475,NA,NA,NA
+"2536","South Carolina","1965",NA,"4504",NA,NA,NA,NA
+"2537","South Carolina","1966",NA,"5844",2520,NA,NA,NA
+"2538","South Carolina","1967",NA,"6015",2533,NA,NA,NA
+"2539","South Carolina","1968",NA,"5853",2559,NA,NA,NA
+"2540","South Carolina","1969",NA,"6449",2570,NA,NA,NA
+"2541","South Carolina","1970",NA,"7412",2591,NA,NA,NA
+"2542","South Carolina","1971",NA,"8188",2662,NA,NA,NA
+"2543","South Carolina","1972",NA,"10312",2719,NA,NA,NA
+"2544","South Carolina","1973",NA,"10757",2777,NA,NA,NA
+"2545","South Carolina","1974",NA,"12688",2845,NA,NA,NA
+"2546","South Carolina","1975",NA,"14412",2902,NA,NA,NA
+"2547","South Carolina","1976",NA,"17065",2944,NA,NA,NA
+"2548","South Carolina","1977",NA,"18297",2992,NA,NA,NA
+"2549","South Carolina","1978",NA,"18604",3044,NA,NA,NA
+"2550","South Carolina","1979",NA,"19889",3090,NA,NA,NA
+"2551","South Carolina","1980",NA,"20225",3122,NA,NA,NA
+"2552","South Carolina","1981",NA,"20275",3179,NA,NA,NA
+"2553","South Carolina","1982",NA,"23061",3208,NA,NA,NA
+"2554","South Carolina","1983",NA,"20133",3234,NA,NA,NA
+"2555","South Carolina","1984",NA,"20607",3272,NA,NA,NA
+"2556","South Carolina","1985",NA,"21121",3303,NA,NA,NA
+"2557","South Carolina","1986",NA,"22789",3343,NA,NA,NA
+"2558","South Carolina","1987",NA,"22773",3381,NA,NA,NA
+"2559","South Carolina","1988",NA,"25889",3412,NA,NA,NA
+"2560","South Carolina","1989",NA,"28576",3457,NA,NA,NA
+"2561","South Carolina","1990",NA,"34050",3487,NA,NA,NA
+"2562","South Carolina","1991",NA,"34621",3540.7,NA,NA,NA
+"2563","South Carolina","1992",NA,"34029",3594.4,NA,NA,NA
+"2564","South Carolina","1993",NA,"37281",3648.1,NA,NA,NA
+"2565","South Carolina","1994",NA,"37756",3701.8,NA,NA,NA
+"2566","South Carolina","1995",NA,"36067",3755.5,NA,NA,NA
+"2567","South Carolina","1996",NA,"36875",3809.2,NA,NA,NA
+"2568","South Carolina","1997",NA,"37235",3862.9,NA,NA,NA
+"2569","South Carolina","1998",NA,"34647",3916.6,NA,NA,NA
+"2570","South Carolina","1999",NA,"32920",3970.3,NA,NA,NA
+"2571","South Carolina","2000",NA,"33225",4024,NA,NA,NA
+"2572","South Carolina","2001",0,"33114",4065,16316,12059,4257
+"2573","South Carolina","2002",0,"33761",4108,16886,12391,4495
+"2574","South Carolina","2003",0,"33455",4150,17817,13033,4784
+"2575","South Carolina","2004",0,"33160",4211,17891,12972,4919
+"2576","South Carolina","2005",24,"32590",4270,18795,13614,5157
+"2577","South Carolina","2006",33,"33322",4358,19313,13988,5292
+"2578","South Carolina","2007",46,"34630",4444,19484,14345,5093
+"2579","South Carolina","2008",50,"32746",4529,20257,14719,5488
+"2580","South Carolina","2009",111,"30799",4590,21058,15167,5780
+"2581","South Carolina","2010",975,"27923",4625,21905,15880,5050
+"2582","South Carolina","2011",NA,"27894",NA,NA,NA,NA
+"2583","South Carolina","2012",NA,"26397",NA,NA,NA,NA
+"2584","South Dakota","1950",NA,NA,655,NA,NA,NA
+"2585","South Dakota","1951",NA,NA,655,NA,NA,NA
+"2586","South Dakota","1952",NA,NA,651,NA,NA,NA
+"2587","South Dakota","1953",NA,NA,648,NA,NA,NA
+"2588","South Dakota","1954",NA,NA,655,NA,NA,NA
+"2589","South Dakota","1955",NA,NA,663,NA,NA,NA
+"2590","South Dakota","1956",NA,NA,670,NA,NA,NA
+"2591","South Dakota","1957",NA,NA,666,NA,NA,NA
+"2592","South Dakota","1958",NA,NA,656,NA,NA,NA
+"2593","South Dakota","1959",NA,NA,667,NA,NA,NA
+"2594","South Dakota","1960",NA,"282",681,NA,NA,NA
+"2595","South Dakota","1961",NA,"245",693,NA,NA,NA
+"2596","South Dakota","1962",NA,"279",705,NA,NA,NA
+"2597","South Dakota","1963",NA,"278",708,NA,NA,NA
+"2598","South Dakota","1964",NA,"408",701,NA,NA,NA
+"2599","South Dakota","1965",NA,"415",NA,NA,NA,NA
+"2600","South Dakota","1966",NA,"568",683,NA,NA,NA
+"2601","South Dakota","1967",NA,"586",671,NA,NA,NA
+"2602","South Dakota","1968",NA,"563",669,NA,NA,NA
+"2603","South Dakota","1969",NA,"510",668,NA,NA,NA
+"2604","South Dakota","1970",NA,"616",666,NA,NA,NA
+"2605","South Dakota","1971",NA,"644",671,NA,NA,NA
+"2606","South Dakota","1972",NA,"756",677,NA,NA,NA
+"2607","South Dakota","1973",NA,"869",679,NA,NA,NA
+"2608","South Dakota","1974",NA,"1234",680,NA,NA,NA
+"2609","South Dakota","1975",NA,"1402",681,NA,NA,NA
+"2610","South Dakota","1976",NA,"1277",686,NA,NA,NA
+"2611","South Dakota","1977",NA,"1303",688,NA,NA,NA
+"2612","South Dakota","1978",NA,"1128",689,NA,NA,NA
+"2613","South Dakota","1979",NA,"1096",688,NA,NA,NA
+"2614","South Dakota","1980",NA,"873",691,NA,NA,NA
+"2615","South Dakota","1981",NA,"718",690,NA,NA,NA
+"2616","South Dakota","1982",NA,"684",691,NA,NA,NA
+"2617","South Dakota","1983",NA,"840",693,NA,NA,NA
+"2618","South Dakota","1984",NA,"1041",697,NA,NA,NA
+"2619","South Dakota","1985",NA,"967",698,NA,NA,NA
+"2620","South Dakota","1986",NA,"883",696,NA,NA,NA
+"2621","South Dakota","1987",NA,"849",696,NA,NA,NA
+"2622","South Dakota","1988",NA,"813",698,NA,NA,NA
+"2623","South Dakota","1989",NA,"969",697,NA,NA,NA
+"2624","South Dakota","1990",NA,"1133",696,NA,NA,NA
+"2625","South Dakota","1991",NA,"1281",702,NA,NA,NA
+"2626","South Dakota","1992",NA,"1383",708,NA,NA,NA
+"2627","South Dakota","1993",NA,"1490",714,NA,NA,NA
+"2628","South Dakota","1994",NA,"1641",720,NA,NA,NA
+"2629","South Dakota","1995",NA,"1513",726,NA,NA,NA
+"2630","South Dakota","1996",NA,"1297",732,NA,NA,NA
+"2631","South Dakota","1997",NA,"1457",738,NA,NA,NA
+"2632","South Dakota","1998",NA,"1139",744,NA,NA,NA
+"2633","South Dakota","1999",NA,"1227",750,NA,NA,NA
+"2634","South Dakota","2000",NA,"1259",756,NA,NA,NA
+"2635","South Dakota","2001",206,"1171",758,4223,3271,746
+"2636","South Dakota","2002",242,"1350",760,4365,3215,908
+"2637","South Dakota","2003",362,"1329",764,4344,3141,841
+"2638","South Dakota","2004",504,"1319",770,4752,3349,899
+"2639","South Dakota","2005",573,"1387",775,4771,3265,933
+"2640","South Dakota","2006",579,"2071",783,4850,3340,931
+"2641","South Dakota","2007",461,"1926",792,4965,3520,984
+"2642","South Dakota","2008",331,"2227",799,4992,3636,1025
+"2643","South Dakota","2009",334,"1777",807,5031,3704,993
+"2644","South Dakota","2010",320,"2196",814,4976,3690,966
+"2645","South Dakota","2011",NA,"2105",NA,NA,NA,NA
+"2646","South Dakota","2012",NA,"2682",NA,NA,NA,NA
+"2647","Tennessee","1950",NA,NA,3315,NA,NA,NA
+"2648","Tennessee","1951",NA,NA,3372,NA,NA,NA
+"2649","Tennessee","1952",NA,NA,3352,NA,NA,NA
+"2650","Tennessee","1953",NA,NA,3319,NA,NA,NA
+"2651","Tennessee","1954",NA,NA,3359,NA,NA,NA
+"2652","Tennessee","1955",NA,NA,3415,NA,NA,NA
+"2653","Tennessee","1956",NA,NA,3415,NA,NA,NA
+"2654","Tennessee","1957",NA,NA,3434,NA,NA,NA
+"2655","Tennessee","1958",NA,NA,3471,NA,NA,NA
+"2656","Tennessee","1959",NA,NA,3522,NA,NA,NA
+"2657","Tennessee","1960",NA,"3250",3567,NA,NA,NA
+"2658","Tennessee","1961",NA,"3910",3622,NA,NA,NA
+"2659","Tennessee","1962",NA,"3767",3673,NA,NA,NA
+"2660","Tennessee","1963",NA,"3777",3718,NA,NA,NA
+"2661","Tennessee","1964",NA,"4505",3771,NA,NA,NA
+"2662","Tennessee","1965",NA,"5333",NA,NA,NA,NA
+"2663","Tennessee","1966",NA,"6145",3822,NA,NA,NA
+"2664","Tennessee","1967",NA,"8111",3859,NA,NA,NA
+"2665","Tennessee","1968",NA,"8766",3878,NA,NA,NA
+"2666","Tennessee","1969",NA,"9235",3897,NA,NA,NA
+"2667","Tennessee","1970",NA,"10787",3924,NA,NA,NA
+"2668","Tennessee","1971",NA,"12520",4014,NA,NA,NA
+"2669","Tennessee","1972",NA,"12858",4095,NA,NA,NA
+"2670","Tennessee","1973",NA,"14771",4147,NA,NA,NA
+"2671","Tennessee","1974",NA,"15969",4214,NA,NA,NA
+"2672","Tennessee","1975",NA,"16627",4276,NA,NA,NA
+"2673","Tennessee","1976",NA,"16574",4347,NA,NA,NA
+"2674","Tennessee","1977",NA,"16743",4423,NA,NA,NA
+"2675","Tennessee","1978",NA,"16671",4486,NA,NA,NA
+"2676","Tennessee","1979",NA,"18135",4560,NA,NA,NA
+"2677","Tennessee","1980",NA,"20824",4591,NA,NA,NA
+"2678","Tennessee","1981",NA,"19019",4628,NA,NA,NA
+"2679","Tennessee","1982",NA,"19586",4646,NA,NA,NA
+"2680","Tennessee","1983",NA,"18836",4660,NA,NA,NA
+"2681","Tennessee","1984",NA,"21010",4687,NA,NA,NA
+"2682","Tennessee","1985",NA,"22592",4715,NA,NA,NA
+"2683","Tennessee","1986",NA,"25919",4739,NA,NA,NA
+"2684","Tennessee","1987",NA,"25900",4783,NA,NA,NA
+"2685","Tennessee","1988",NA,"26205",4822,NA,NA,NA
+"2686","Tennessee","1989",NA,"27118",4854,NA,NA,NA
+"2687","Tennessee","1990",NA,"32698",4877,NA,NA,NA
+"2688","Tennessee","1991",NA,"35955",4959.7,NA,NA,NA
+"2689","Tennessee","1992",NA,"37487",5042.4,NA,NA,NA
+"2690","Tennessee","1993",NA,"39047",5125.1,NA,NA,NA
+"2691","Tennessee","1994",NA,"38705",5207.8,NA,NA,NA
+"2692","Tennessee","1995",NA,"40549",5290.5,NA,NA,NA
+"2693","Tennessee","1996",NA,"41175",5373.2,NA,NA,NA
+"2694","Tennessee","1997",NA,"42389",5455.9,NA,NA,NA
+"2695","Tennessee","1998",NA,"38832",5538.6,NA,NA,NA
+"2696","Tennessee","1999",NA,"38111",5621.3,NA,NA,NA
+"2697","Tennessee","2000",NA,"40233",5704,NA,NA,NA
+"2698","Tennessee","2001",74,"42776",5751,22823,14633,8116
+"2699","Tennessee","2002",61,"41562",5796,23480,14983,8436
+"2700","Tennessee","2003",98,"40409",5848,24369,15357,8914
+"2701","Tennessee","2004",107,"41113",5911,24983,15756,9120
+"2702","Tennessee","2005",179,"45104",5991,26032,16441,9412
+"2703","Tennessee","2006",203,"46043",6089,26330,16581,9546
+"2704","Tennessee","2007",265,"46482",6176,27272,16936,10071
+"2705","Tennessee","2008",349,"44913",6247,27649,17135,10165
+"2706","Tennessee","2009",538,"41933",6306,29388,18390,10460
+"2707","Tennessee","2010",934,"38909",6346,29857,18249,10674
+"2708","Tennessee","2011",NA,"38895",NA,NA,NA,NA
+"2709","Tennessee","2012",NA,"41550",NA,NA,NA,NA
+"2710","Texas","1950",NA,NA,7776,NA,NA,NA
+"2711","Texas","1951",NA,NA,8111,NA,NA,NA
+"2712","Texas","1952",NA,NA,8314,NA,NA,NA
+"2713","Texas","1953",NA,NA,8336,NA,NA,NA
+"2714","Texas","1954",NA,NA,8382,NA,NA,NA
+"2715","Texas","1955",NA,NA,8660,NA,NA,NA
+"2716","Texas","1956",NA,NA,8830,NA,NA,NA
+"2717","Texas","1957",NA,NA,9070,NA,NA,NA
+"2718","Texas","1958",NA,NA,9252,NA,NA,NA
+"2719","Texas","1959",NA,NA,9405,NA,NA,NA
+"2720","Texas","1960",NA,"15428",9580,NA,NA,NA
+"2721","Texas","1961",NA,"15441",9820,NA,NA,NA
+"2722","Texas","1962",NA,"15516",10053,NA,NA,NA
+"2723","Texas","1963",NA,"17511",10159,NA,NA,NA
+"2724","Texas","1964",NA,"19769",10270,NA,NA,NA
+"2725","Texas","1965",NA,"21029",NA,NA,NA,NA
+"2726","Texas","1966",NA,"24382",10492,NA,NA,NA
+"2727","Texas","1967",NA,"26749",10599,NA,NA,NA
+"2728","Texas","1968",NA,"29646",10819,NA,NA,NA
+"2729","Texas","1969",NA,"36707",11045,NA,NA,NA
+"2730","Texas","1970",NA,"40897",11197,NA,NA,NA
+"2731","Texas","1971",NA,"43089",11510,NA,NA,NA
+"2732","Texas","1972",NA,"41285",11759,NA,NA,NA
+"2733","Texas","1973",NA,"45458",12020,NA,NA,NA
+"2734","Texas","1974",NA,"47008",12269,NA,NA,NA
+"2735","Texas","1975",NA,"47803",12569,NA,NA,NA
+"2736","Texas","1976",NA,"44422",12904,NA,NA,NA
+"2737","Texas","1977",NA,"52309",13193,NA,NA,NA
+"2738","Texas","1978",NA,"56650",13500,NA,NA,NA
+"2739","Texas","1979",NA,"67988",13888,NA,NA,NA
+"2740","Texas","1980",NA,"77978",14229,NA,NA,NA
+"2741","Texas","1981",NA,"78560",14746,NA,NA,NA
+"2742","Texas","1982",NA,"88178",15331,NA,NA,NA
+"2743","Texas","1983",NA,"80546",15752,NA,NA,NA
+"2744","Texas","1984",NA,"80737",16007,NA,NA,NA
+"2745","Texas","1985",NA,"90030",16273,NA,NA,NA
+"2746","Texas","1986",NA,"109925",16561,NA,NA,NA
+"2747","Texas","1987",NA,"105961",16622,NA,NA,NA
+"2748","Texas","1988",NA,"109499",16667,NA,NA,NA
+"2749","Texas","1989",NA,"111889",16807,NA,NA,NA
+"2750","Texas","1990",NA,"129343",16987,NA,NA,NA
+"2751","Texas","1991",NA,"145743",17382.7,NA,NA,NA
+"2752","Texas","1992",NA,"142369",17778.4,NA,NA,NA
+"2753","Texas","1993",NA,"137419",18174.1,NA,NA,NA
+"2754","Texas","1994",NA,"129838",18569.8,NA,NA,NA
+"2755","Texas","1995",NA,"124303",18965.5,NA,NA,NA
+"2756","Texas","1996",NA,"123270",19361.2,NA,NA,NA
+"2757","Texas","1997",NA,"117126",19756.9,NA,NA,NA
+"2758","Texas","1998",NA,"111566",20152.6,NA,NA,NA
+"2759","Texas","1999",NA,"112306",20548.3,NA,NA,NA
+"2760","Texas","2000",NA,"113653",20944,NA,NA,NA
+"2761","Texas","2001",404,"122155",21320,76074,58838,16832
+"2762","Texas","2002",527,"126018",21690,79595,61210,17858
+"2763","Texas","2003",509,"122246",22031,82649,63712,18428
+"2764","Texas","2004",801,"121554",22394,85539,66182,18556
+"2765","Texas","2005",1146,"121091",22778,88757,69172,18439
+"2766","Texas","2006",1500,"121602",23360,92027,72112,18415
+"2767","Texas","2007",1591,"122014",23832,95747,75624,18532
+"2768","Texas","2008",1793,"123585",24309,98205,77475,18937
+"2769","Texas","2009",2016,"121684",24802,102157,80756,19385
+"2770","Texas","2010",2023,"113231",25146,104657,82789,19845
+"2771","Texas","2011",NA,"104734",NA,NA,NA,NA
+"2772","Texas","2012",NA,"106476",NA,NA,NA,NA
+"2773","United States","1950",NA,NA,151868,NA,NA,NA
+"2774","United States","1951",NA,NA,153982,NA,NA,NA
+"2775","United States","1952",NA,NA,156393,NA,NA,NA
+"2776","United States","1953",NA,NA,158956,NA,NA,NA
+"2777","United States","1954",NA,NA,161884,NA,NA,NA
+"2778","United States","1955",NA,NA,165069,NA,NA,NA
+"2779","United States","1956",NA,NA,168088,NA,NA,NA
+"2780","United States","1957",NA,NA,171187,NA,NA,NA
+"2781","United States","1958",NA,NA,174149,NA,NA,NA
+"2782","United States","1959",NA,NA,177135,NA,NA,NA
+"2783","United States","1960",NA,"297123",179323,NA,NA,NA
+"2784","United States","1961",NA,"297094",182973,NA,NA,NA
+"2785","United States","1962",NA,"306274",185738,NA,NA,NA
+"2786","United States","1963",NA,"318914",188438,NA,NA,NA
+"2787","United States","1964",NA,"370256",191085,NA,NA,NA
+"2788","United States","1965",NA,"388288",NA,NA,NA,NA
+"2789","United States","1966",NA,"430593",195501,NA,NA,NA
+"2790","United States","1967",NA,"500024",197374,NA,NA,NA
+"2791","United States","1968",NA,"595338",199312,NA,NA,NA
+"2792","United States","1969",NA,"662285",201306,NA,NA,NA
+"2793","United States","1970",NA,"739242",203185,NA,NA,NA
+"2794","United States","1971",NA,"816627",206827,NA,NA,NA
+"2795","United States","1972",NA,"835150",209284,NA,NA,NA
+"2796","United States","1973",NA,"875714",211357,NA,NA,NA
+"2797","United States","1974",NA,"974304",213342,NA,NA,NA
+"2798","United States","1975",NA,"1038822",215465,NA,NA,NA
+"2799","United States","1976",NA,"1003828",217563,NA,NA,NA
+"2800","United States","1977",NA,"1029291",219760,NA,NA,NA
+"2801","United States","1978",NA,"1085163",222095,NA,NA,NA
+"2802","United States","1979",NA,"1207653",224567,NA,NA,NA
+"2803","United States","1980",NA,"1344053",226546,NA,NA,NA
+"2804","United States","1981",NA,"1361239",229466,NA,NA,NA
+"2805","United States","1982",NA,"1321896",231664,NA,NA,NA
+"2806","United States","1983",NA,"1257651",233792,NA,NA,NA
+"2807","United States","1984",NA,"1272794",235825,NA,NA,NA
+"2808","United States","1985",NA,"1328757",237924,NA,NA,NA
+"2809","United States","1986",NA,"1489169",240133,NA,NA,NA
+"2810","United States","1987",NA,"1483999",242289,NA,NA,NA
+"2811","United States","1988",NA,"1566221",244499,NA,NA,NA
+"2812","United States","1989",NA,"1646037",246819,NA,NA,NA
+"2813","United States","1990",NA,"1820127",248710,NA,NA,NA
+"2814","United States","1991",NA,"1911767",252055.2,NA,NA,NA
+"2815","United States","1992",NA,"1932274",255400.4,NA,NA,NA
+"2816","United States","1993",NA,"1926017",258745.6,NA,NA,NA
+"2817","United States","1994",NA,"1857670",262090.8,NA,NA,NA
+"2818","United States","1995",NA,"1798792",265436,NA,NA,NA
+"2819","United States","1996",NA,"1688540",268781.2,NA,NA,NA
+"2820","United States","1997",NA,"1636096",272126.4,NA,NA,NA
+"2821","United States","1998",NA,"1533887",275471.6,NA,NA,NA
+"2822","United States","1999",NA,"1426044",278816.8,NA,NA,NA
+"2823","United States","2000",NA,"1425486",282162,NA,NA,NA
+"2824","United States","2001",23032,"1439480",284969,1244171,812438,408701
+"2825","United States","2002",26398,"1423677",287625,1291900,841180,424322
+"2826","United States","2003",31155,"1383676",290108,1348503,875420,441928
+"2827","United States","2004",42306,"1360088",292805,1399542,905718,451518
+"2828","United States","2005",48858,"1390745",295517,1439264,932441,457963
+"2829","United States","2006",62037,"1435123",298380,1485242,955369,467836
+"2830","United States","2007",70765,"1422970",301231,1524092,975511,477805
+"2831","United States","2008",75949,"1394461",304094,1563069,996429,490685
+"2832","United States","2009",84672,"1325896",306772,1601368,1020435,496260
+"2833","United States","2010",97788,"1251248",308746,1650014,1049057,503164
+"2834","United States","2011",NA,"1206031",NA,NA,NA,NA
+"2835","United States","2012",NA,"1214464",NA,NA,NA,NA
+"2836","Utah","1950",NA,NA,696,NA,NA,NA
+"2837","Utah","1951",NA,NA,706,NA,NA,NA
+"2838","Utah","1952",NA,NA,724,NA,NA,NA
+"2839","Utah","1953",NA,NA,739,NA,NA,NA
+"2840","Utah","1954",NA,NA,750,NA,NA,NA
+"2841","Utah","1955",NA,NA,783,NA,NA,NA
+"2842","Utah","1956",NA,NA,809,NA,NA,NA
+"2843","Utah","1957",NA,NA,826,NA,NA,NA
+"2844","Utah","1958",NA,NA,845,NA,NA,NA
+"2845","Utah","1959",NA,NA,870,NA,NA,NA
+"2846","Utah","1960",NA,"484",891,NA,NA,NA
+"2847","Utah","1961",NA,"451",936,NA,NA,NA
+"2848","Utah","1962",NA,"554",958,NA,NA,NA
+"2849","Utah","1963",NA,"598",974,NA,NA,NA
+"2850","Utah","1964",NA,"888",978,NA,NA,NA
+"2851","Utah","1965",NA,"886",NA,NA,NA,NA
+"2852","Utah","1966",NA,"1148",1009,NA,NA,NA
+"2853","Utah","1967",NA,"1194",1019,NA,NA,NA
+"2854","Utah","1968",NA,"1201",1029,NA,NA,NA
+"2855","Utah","1969",NA,"1460",1047,NA,NA,NA
+"2856","Utah","1970",NA,"1459",1059,NA,NA,NA
+"2857","Utah","1971",NA,"1689",1101,NA,NA,NA
+"2858","Utah","1972",NA,"2063",1135,NA,NA,NA
+"2859","Utah","1973",NA,"2412",1170,NA,NA,NA
+"2860","Utah","1974",NA,"2517",1200,NA,NA,NA
+"2861","Utah","1975",NA,"2795",1236,NA,NA,NA
+"2862","Utah","1976",NA,"2709",1275,NA,NA,NA
+"2863","Utah","1977",NA,"3043",1320,NA,NA,NA
+"2864","Utah","1978",NA,"3552",1368,NA,NA,NA
+"2865","Utah","1979",NA,"4158",1420,NA,NA,NA
+"2866","Utah","1980",NA,"4425",1461,NA,NA,NA
+"2867","Utah","1981",NA,"4527",1515,NA,NA,NA
+"2868","Utah","1982",NA,"4440",1558,NA,NA,NA
+"2869","Utah","1983",NA,"4144",1595,NA,NA,NA
+"2870","Utah","1984",NA,"4035",1622,NA,NA,NA
+"2871","Utah","1985",NA,"4398",1643,NA,NA,NA
+"2872","Utah","1986",NA,"4441",1663,NA,NA,NA
+"2873","Utah","1987",NA,"3861",1678,NA,NA,NA
+"2874","Utah","1988",NA,"4110",1689,NA,NA,NA
+"2875","Utah","1989",NA,"4417",1706,NA,NA,NA
+"2876","Utah","1990",NA,"4892",1723,NA,NA,NA
+"2877","Utah","1991",NA,"5077",1775.2,NA,NA,NA
+"2878","Utah","1992",NA,"5267",1827.4,NA,NA,NA
+"2879","Utah","1993",NA,"5599",1879.6,NA,NA,NA
+"2880","Utah","1994",NA,"5810",1931.8,NA,NA,NA
+"2881","Utah","1995",NA,"6415",1984,NA,NA,NA
+"2882","Utah","1996",NA,"6638",2036.2,NA,NA,NA
+"2883","Utah","1997",NA,"6878",2088.4,NA,NA,NA
+"2884","Utah","1998",NA,"6599",2140.6,NA,NA,NA
+"2885","Utah","1999",NA,"5869",2192.8,NA,NA,NA
+"2886","Utah","2000",NA,"5711",2245,NA,NA,NA
+"2887","Utah","2001",375,"5314",2284,17091,8995,7721
+"2888","Utah","2002",391,"5488",2325,18188,10277,7520
+"2889","Utah","2003",500,"5889",2360,19086,11168,7418
+"2890","Utah","2004",578,"5647",2402,19909,12008,7323
+"2891","Utah","2005",746,"5612",2458,20799,12502,7551
+"2892","Utah","2006",746,"5771",2526,20677,12273,7658
+"2893","Utah","2007",875,"6347",2598,20922,12103,7944
+"2894","Utah","2008",890,"6165",2663,20959,12159,7910
+"2895","Utah","2009",1076,"5998",2723,21504,12303,8125
+"2896","Utah","2010",931,"5925",2764,21931,12571,8429
+"2897","Utah","2011",NA,"5547",NA,NA,NA,NA
+"2898","Utah","2012",NA,"5876",NA,NA,NA,NA
+"2899","Vermont","1950",NA,NA,379,NA,NA,NA
+"2900","Vermont","1951",NA,NA,378,NA,NA,NA
+"2901","Vermont","1952",NA,NA,375,NA,NA,NA
+"2902","Vermont","1953",NA,NA,379,NA,NA,NA
+"2903","Vermont","1954",NA,NA,377,NA,NA,NA
+"2904","Vermont","1955",NA,NA,375,NA,NA,NA
+"2905","Vermont","1956",NA,NA,377,NA,NA,NA
+"2906","Vermont","1957",NA,NA,376,NA,NA,NA
+"2907","Vermont","1958",NA,NA,380,NA,NA,NA
+"2908","Vermont","1959",NA,NA,387,NA,NA,NA
+"2909","Vermont","1960",NA,"37",390,NA,NA,NA
+"2910","Vermont","1961",NA,"79",390,NA,NA,NA
+"2911","Vermont","1962",NA,"57",393,NA,NA,NA
+"2912","Vermont","1963",NA,"92",397,NA,NA,NA
+"2913","Vermont","1964",NA,"89",399,NA,NA,NA
+"2914","Vermont","1965",NA,"89",NA,NA,NA,NA
+"2915","Vermont","1966",NA,"80",413,NA,NA,NA
+"2916","Vermont","1967",NA,"86",423,NA,NA,NA
+"2917","Vermont","1968",NA,"157",430,NA,NA,NA
+"2918","Vermont","1969",NA,"234",437,NA,NA,NA
+"2919","Vermont","1970",NA,"329",445,NA,NA,NA
+"2920","Vermont","1971",NA,"333",454,NA,NA,NA
+"2921","Vermont","1972",NA,"445",463,NA,NA,NA
+"2922","Vermont","1973",NA,"327",468,NA,NA,NA
+"2923","Vermont","1974",NA,"353",473,NA,NA,NA
+"2924","Vermont","1975",NA,"448",480,NA,NA,NA
+"2925","Vermont","1976",NA,"563",485,NA,NA,NA
+"2926","Vermont","1977",NA,"722",492,NA,NA,NA
+"2927","Vermont","1978",NA,"810",498,NA,NA,NA
+"2928","Vermont","1979",NA,"908",505,NA,NA,NA
+"2929","Vermont","1980",NA,"914",511,NA,NA,NA
+"2930","Vermont","1981",NA,"659",516,NA,NA,NA
+"2931","Vermont","1982",NA,"655",519,NA,NA,NA
+"2932","Vermont","1983",NA,"696",523,NA,NA,NA
+"2933","Vermont","1984",NA,"769",527,NA,NA,NA
+"2934","Vermont","1985",NA,"790",530,NA,NA,NA
+"2935","Vermont","1986",NA,"807",534,NA,NA,NA
+"2936","Vermont","1987",NA,"748",540,NA,NA,NA
+"2937","Vermont","1988",NA,"791",550,NA,NA,NA
+"2938","Vermont","1989",NA,"753",558,NA,NA,NA
+"2939","Vermont","1990",NA,"716",563,NA,NA,NA
+"2940","Vermont","1991",NA,"662",567.7,NA,NA,NA
+"2941","Vermont","1992",NA,"624",572.4,NA,NA,NA
+"2942","Vermont","1993",NA,"658",577.1,NA,NA,NA
+"2943","Vermont","1994",NA,"562",581.8,NA,NA,NA
+"2944","Vermont","1995",NA,"692",586.5,NA,NA,NA
+"2945","Vermont","1996",NA,"714",591.2,NA,NA,NA
+"2946","Vermont","1997",NA,"705",595.9,NA,NA,NA
+"2947","Vermont","1998",NA,"628",600.6,NA,NA,NA
+"2948","Vermont","1999",NA,"676",605.3,NA,NA,NA
+"2949","Vermont","2000",NA,"691",610,NA,NA,NA
+"2950","Vermont","2001",26,"644",612,4697,2471,2200
+"2951","Vermont","2002",25,"658",615,4673,2319,2329
+"2952","Vermont","2003",27,"707",618,4545,2296,2222
+"2953","Vermont","2004",26,"713",620,4648,2328,2294
+"2954","Vermont","2005",26,"782",621,4892,2560,2306
+"2955","Vermont","2006",16,"905",623,4981,2587,2378
+"2956","Vermont","2007",13,"802",623,5101,2702,2386
+"2957","Vermont","2008",37,"854",624,5315,2796,2482
+"2958","Vermont","2009",40,"837",625,5788,3109,2639
+"2959","Vermont","2010",49,"820",626,5888,3251,2588
+"2960","Vermont","2011",NA,"925",NA,NA,NA,NA
+"2961","Vermont","2012",NA,"893",NA,NA,NA,NA
+"2962","Virginia","1950",NA,NA,3315,NA,NA,NA
+"2963","Virginia","1951",NA,NA,3434,NA,NA,NA
+"2964","Virginia","1952",NA,NA,3504,NA,NA,NA
+"2965","Virginia","1953",NA,NA,3557,NA,NA,NA
+"2966","Virginia","1954",NA,NA,3555,NA,NA,NA
+"2967","Virginia","1955",NA,NA,3588,NA,NA,NA
+"2968","Virginia","1956",NA,NA,3722,NA,NA,NA
+"2969","Virginia","1957",NA,NA,3844,NA,NA,NA
+"2970","Virginia","1958",NA,NA,3914,NA,NA,NA
+"2971","Virginia","1959",NA,NA,3951,NA,NA,NA
+"2972","Virginia","1960",NA,"7286",3967,NA,NA,NA
+"2973","Virginia","1961",NA,"7555",4095,NA,NA,NA
+"2974","Virginia","1962",NA,"7720",4180,NA,NA,NA
+"2975","Virginia","1963",NA,"8259",4276,NA,NA,NA
+"2976","Virginia","1964",NA,"10561",4357,NA,NA,NA
+"2977","Virginia","1965",NA,"10145",NA,NA,NA,NA
+"2978","Virginia","1966",NA,"10399",4456,NA,NA,NA
+"2979","Virginia","1967",NA,"10328",4508,NA,NA,NA
+"2980","Virginia","1968",NA,"12821",4558,NA,NA,NA
+"2981","Virginia","1969",NA,"12433",4614,NA,NA,NA
+"2982","Virginia","1970",NA,"14040",4648,NA,NA,NA
+"2983","Virginia","1971",NA,"15384",4751,NA,NA,NA
+"2984","Virginia","1972",NA,"16483",4824,NA,NA,NA
+"2985","Virginia","1973",NA,"16007",4901,NA,NA,NA
+"2986","Virginia","1974",NA,"17514",4971,NA,NA,NA
+"2987","Virginia","1975",NA,"18917",5047,NA,NA,NA
+"2988","Virginia","1976",NA,"15485",5122,NA,NA,NA
+"2989","Virginia","1977",NA,"14893",5193,NA,NA,NA
+"2990","Virginia","1978",NA,"14743",5270,NA,NA,NA
+"2991","Virginia","1979",NA,"15642",5308,NA,NA,NA
+"2992","Virginia","1980",NA,"16355",5347,NA,NA,NA
+"2993","Virginia","1981",NA,"17456",5444,NA,NA,NA
+"2994","Virginia","1982",NA,"16970",5493,NA,NA,NA
+"2995","Virginia","1983",NA,"16236",5565,NA,NA,NA
+"2996","Virginia","1984",NA,"16660",5644,NA,NA,NA
+"2997","Virginia","1985",NA,"16813",5715,NA,NA,NA
+"2998","Virginia","1986",NA,"17708",5812,NA,NA,NA
+"2999","Virginia","1987",NA,"17414",5932,NA,NA,NA
+"3000","Virginia","1988",NA,"17940",6037,NA,NA,NA
+"3001","Virginia","1989",NA,"19057",6120,NA,NA,NA
+"3002","Virginia","1990",NA,"21694",6187,NA,NA,NA
+"3003","Virginia","1991",NA,"23459",6278.9,NA,NA,NA
+"3004","Virginia","1992",NA,"23907",6370.8,NA,NA,NA
+"3005","Virginia","1993",NA,"24160",6462.7,NA,NA,NA
+"3006","Virginia","1994",NA,"23437",6554.6,NA,NA,NA
+"3007","Virginia","1995",NA,"23921",6646.5,NA,NA,NA
+"3008","Virginia","1996",NA,"22782",6738.4,NA,NA,NA
+"3009","Virginia","1997",NA,"23249",6830.3,NA,NA,NA
+"3010","Virginia","1998",NA,"22115",6922.2,NA,NA,NA
+"3011","Virginia","1999",NA,"21626",7014.1,NA,NA,NA
+"3012","Virginia","2000",NA,"19943",7106,NA,NA,NA
+"3013","Virginia","2001",48,"20939",7198,32822,25165,7609
+"3014","Virginia","2002",189,"21256",7287,32948,25249,7510
+"3015","Virginia","2003",69,"20490",7367,34657,26399,8189
+"3016","Virginia","2004",164,"20608",7476,35660,27027,8469
+"3017","Virginia","2005",361,"21434",7577,36970,27739,8870
+"3018","Virginia","2006",462,"21683",7674,38775,28758,9555
+"3019","Virginia","2007",556,"21035",7751,39744,29312,9876
+"3020","Virginia","2008",622,"20031",7833,41236,30080,10534
+"3021","Virginia","2009",858,"18195",7926,42483,30969,10656
+"3022","Virginia","2010",2400,"17184",8001,45324,31927,10997
+"3023","Virginia","2011",NA,"16014",NA,NA,NA,NA
+"3024","Virginia","2012",NA,"15564",NA,NA,NA,NA
+"3025","Washington","1950",NA,NA,2387,NA,NA,NA
+"3026","Washington","1951",NA,NA,2424,NA,NA,NA
+"3027","Washington","1952",NA,NA,2448,NA,NA,NA
+"3028","Washington","1953",NA,NA,2466,NA,NA,NA
+"3029","Washington","1954",NA,NA,2516,NA,NA,NA
+"3030","Washington","1955",NA,NA,2604,NA,NA,NA
+"3031","Washington","1956",NA,NA,2668,NA,NA,NA
+"3032","Washington","1957",NA,NA,2724,NA,NA,NA
+"3033","Washington","1958",NA,NA,2773,NA,NA,NA
+"3034","Washington","1959",NA,NA,2821,NA,NA,NA
+"3035","Washington","1960",NA,"1616",2853,NA,NA,NA
+"3036","Washington","1961",NA,"1687",2882,NA,NA,NA
+"3037","Washington","1962",NA,"1913",2942,NA,NA,NA
+"3038","Washington","1963",NA,"2034",2955,NA,NA,NA
+"3039","Washington","1964",NA,"2761",2961,NA,NA,NA
+"3040","Washington","1965",NA,"3081",NA,NA,NA,NA
+"3041","Washington","1966",NA,"3673",3057,NA,NA,NA
+"3042","Washington","1967",NA,"4754",3174,NA,NA,NA
+"3043","Washington","1968",NA,"6970",3270,NA,NA,NA
+"3044","Washington","1969",NA,"8243",3343,NA,NA,NA
+"3045","Washington","1970",NA,"7546",3409,NA,NA,NA
+"3046","Washington","1971",NA,"8155",3448,NA,NA,NA
+"3047","Washington","1972",NA,"8627",3448,NA,NA,NA
+"3048","Washington","1973",NA,"9309",3479,NA,NA,NA
+"3049","Washington","1974",NA,"12036",3550,NA,NA,NA
+"3050","Washington","1975",NA,"13851",3621,NA,NA,NA
+"3051","Washington","1976",NA,"14036",3694,NA,NA,NA
+"3052","Washington","1977",NA,"13714",3776,NA,NA,NA
+"3053","Washington","1978",NA,"15296",3889,NA,NA,NA
+"3054","Washington","1979",NA,"17064",4018,NA,NA,NA
+"3055","Washington","1980",NA,"19098",4132,NA,NA,NA
+"3056","Washington","1981",NA,"18839",4236,NA,NA,NA
+"3057","Washington","1982",NA,"17251",4277,NA,NA,NA
+"3058","Washington","1983",NA,"15986",4300,NA,NA,NA
+"3059","Washington","1984",NA,"17676",4344,NA,NA,NA
+"3060","Washington","1985",NA,"18757",4400,NA,NA,NA
+"3061","Washington","1986",NA,"19505",4453,NA,NA,NA
+"3062","Washington","1987",NA,"19945",4532,NA,NA,NA
+"3063","Washington","1988",NA,"21543",4640,NA,NA,NA
+"3064","Washington","1989",NA,"22460",4746,NA,NA,NA
+"3065","Washington","1990",NA,"24410",4867,NA,NA,NA
+"3066","Washington","1991",NA,"26224",4971.4,NA,NA,NA
+"3067","Washington","1992",NA,"27454",5075.8,NA,NA,NA
+"3068","Washington","1993",NA,"27040",5180.2,NA,NA,NA
+"3069","Washington","1994",NA,"27317",5284.6,NA,NA,NA
+"3070","Washington","1995",NA,"26300",5389,NA,NA,NA
+"3071","Washington","1996",NA,"23857",5493.4,NA,NA,NA
+"3072","Washington","1997",NA,"24724",5597.8,NA,NA,NA
+"3073","Washington","1998",NA,"24380",5702.2,NA,NA,NA
+"3074","Washington","1999",NA,"21716",5806.6,NA,NA,NA
+"3075","Washington","2000",NA,"21788",5911,NA,NA,NA
+"3076","Washington","2001",180,"21258",5986,23441,17680,5581
+"3077","Washington","2002",278,"20964",6052,24462,18635,5549
+"3078","Washington","2003",338,"21272",6104,25908,19661,5909
+"3079","Washington","2004",604,"21330",6179,27240,20456,6180
+"3080","Washington","2005",745,"21745",6257,28265,20692,6828
+"3081","Washington","2006",797,"22303",6371,28570,20989,6784
+"3082","Washington","2007",746,"21768",6462,29160,21442,6972
+"3083","Washington","2008",823,"21888",6562,29524,21641,7060
+"3084","Washington","2009",1019,"22412",6667,30091,22061,7011
+"3085","Washington","2010",877,"21138",6725,30551,22851,6823
+"3086","Washington","2011",NA,"20152",NA,NA,NA,NA
+"3087","Washington","2012",NA,"20386",NA,NA,NA,NA
+"3088","West Virginia","1950",NA,NA,2006,NA,NA,NA
+"3089","West Virginia","1951",NA,NA,1984,NA,NA,NA
+"3090","West Virginia","1952",NA,NA,1957,NA,NA,NA
+"3091","West Virginia","1953",NA,NA,1929,NA,NA,NA
+"3092","West Virginia","1954",NA,NA,1905,NA,NA,NA
+"3093","West Virginia","1955",NA,NA,1880,NA,NA,NA
+"3094","West Virginia","1956",NA,NA,1857,NA,NA,NA
+"3095","West Virginia","1957",NA,NA,1843,NA,NA,NA
+"3096","West Virginia","1958",NA,NA,1845,NA,NA,NA
+"3097","West Virginia","1959",NA,NA,1855,NA,NA,NA
+"3098","West Virginia","1960",NA,"1200",1860,NA,NA,NA
+"3099","West Virginia","1961",NA,"1167",1828,NA,NA,NA
+"3100","West Virginia","1962",NA,"1146",1809,NA,NA,NA
+"3101","West Virginia","1963",NA,"1185",1796,NA,NA,NA
+"3102","West Virginia","1964",NA,"1359",1797,NA,NA,NA
+"3103","West Virginia","1965",NA,"1413",NA,NA,NA,NA
+"3104","West Virginia","1966",NA,"1613",1775,NA,NA,NA
+"3105","West Virginia","1967",NA,"1744",1769,NA,NA,NA
+"3106","West Virginia","1968",NA,"1959",1763,NA,NA,NA
+"3107","West Virginia","1969",NA,"1766",1746,NA,NA,NA
+"3108","West Virginia","1970",NA,"2158",1744,NA,NA,NA
+"3109","West Virginia","1971",NA,"2311",1771,NA,NA,NA
+"3110","West Virginia","1972",NA,"2299",1798,NA,NA,NA
+"3111","West Virginia","1973",NA,"2219",1806,NA,NA,NA
+"3112","West Virginia","1974",NA,"2460",1815,NA,NA,NA
+"3113","West Virginia","1975",NA,"2915",1842,NA,NA,NA
+"3114","West Virginia","1976",NA,"2761",1880,NA,NA,NA
+"3115","West Virginia","1977",NA,"2832",1908,NA,NA,NA
+"3116","West Virginia","1978",NA,"3120",1923,NA,NA,NA
+"3117","West Virginia","1979",NA,"3156",1942,NA,NA,NA
+"3118","West Virginia","1980",NA,"3547",1950,NA,NA,NA
+"3119","West Virginia","1981",NA,"3410",1954,NA,NA,NA
+"3120","West Virginia","1982",NA,"3405",1950,NA,NA,NA
+"3121","West Virginia","1983",NA,"3375",1945,NA,NA,NA
+"3122","West Virginia","1984",NA,"3283",1928,NA,NA,NA
+"3123","West Virginia","1985",NA,"3214",1907,NA,NA,NA
+"3124","West Virginia","1986",NA,"3156",1882,NA,NA,NA
+"3125","West Virginia","1987",NA,"2605",1858,NA,NA,NA
+"3126","West Virginia","1988",NA,"2476",1830,NA,NA,NA
+"3127","West Virginia","1989",NA,"2724",1807,NA,NA,NA
+"3128","West Virginia","1990",NA,"3036",1793,NA,NA,NA
+"3129","West Virginia","1991",NA,"3440",1794.4,NA,NA,NA
+"3130","West Virginia","1992",NA,"3833",1795.8,NA,NA,NA
+"3131","West Virginia","1993",NA,"3793",1797.2,NA,NA,NA
+"3132","West Virginia","1994",NA,"3931",1798.6,NA,NA,NA
+"3133","West Virginia","1995",NA,"3842",1800,NA,NA,NA
+"3134","West Virginia","1996",NA,"3836",1801.4,NA,NA,NA
+"3135","West Virginia","1997",NA,"3971",1802.8,NA,NA,NA
+"3136","West Virginia","1998",NA,"4503",1804.2,NA,NA,NA
+"3137","West Virginia","1999",NA,"6336",1805.6,NA,NA,NA
+"3138","West Virginia","2000",NA,"5723",1807,NA,NA,NA
+"3139","West Virginia","2001",0,"5035",1801,8704,7212,1492
+"3140","West Virginia","2002",0,"4221",1805,9022,7433,1589
+"3141","West Virginia","2003",0,"4627",1812,9335,7541,1794
+"3142","West Virginia","2004",0,"5110",1816,9101,7442,1659
+"3143","West Virginia","2005",72,"4968",1820,9574,7781,1719
+"3144","West Virginia","2006",71,"5113",1828,10033,8092,1870
+"3145","West Virginia","2007",43,"5016",1834,10543,8506,1992
+"3146","West Virginia","2008",46,"5006",1840,10466,8523,1891
+"3147","West Virginia","2009",28,"5554",1848,10228,8443,1757
+"3148","West Virginia","2010",30,"5586",1853,10166,8444,1692
+"3149","West Virginia","2011",NA,"5497",NA,NA,NA,NA
+"3150","West Virginia","2012",NA,"5869",NA,NA,NA,NA
+"3151","Wisconsin","1950",NA,NA,3438,NA,NA,NA
+"3152","Wisconsin","1951",NA,NA,3439,NA,NA,NA
+"3153","Wisconsin","1952",NA,NA,3469,NA,NA,NA
+"3154","Wisconsin","1953",NA,NA,3506,NA,NA,NA
+"3155","Wisconsin","1954",NA,NA,3608,NA,NA,NA
+"3156","Wisconsin","1955",NA,NA,3679,NA,NA,NA
+"3157","Wisconsin","1956",NA,NA,3742,NA,NA,NA
+"3158","Wisconsin","1957",NA,NA,3791,NA,NA,NA
+"3159","Wisconsin","1958",NA,NA,3843,NA,NA,NA
+"3160","Wisconsin","1959",NA,NA,3891,NA,NA,NA
+"3161","Wisconsin","1960",NA,"1261",3952,NA,NA,NA
+"3162","Wisconsin","1961",NA,"1268",4009,NA,NA,NA
+"3163","Wisconsin","1962",NA,"1174",4049,NA,NA,NA
+"3164","Wisconsin","1963",NA,"1312",4112,NA,NA,NA
+"3165","Wisconsin","1964",NA,"1762",4165,NA,NA,NA
+"3166","Wisconsin","1965",NA,"1911",NA,NA,NA,NA
+"3167","Wisconsin","1966",NA,"1984",4274,NA,NA,NA
+"3168","Wisconsin","1967",NA,"2948",4303,NA,NA,NA
+"3169","Wisconsin","1968",NA,"3400",4345,NA,NA,NA
+"3170","Wisconsin","1969",NA,"3411",4378,NA,NA,NA
+"3171","Wisconsin","1970",NA,"3792",4418,NA,NA,NA
+"3172","Wisconsin","1971",NA,"3957",4462,NA,NA,NA
+"3173","Wisconsin","1972",NA,"4358",4502,NA,NA,NA
+"3174","Wisconsin","1973",NA,"5273",4524,NA,NA,NA
+"3175","Wisconsin","1974",NA,"6411",4546,NA,NA,NA
+"3176","Wisconsin","1975",NA,"6992",4579,NA,NA,NA
+"3177","Wisconsin","1976",NA,"6345",4596,NA,NA,NA
+"3178","Wisconsin","1977",NA,"6117",4627,NA,NA,NA
+"3179","Wisconsin","1978",NA,"6184",4646,NA,NA,NA
+"3180","Wisconsin","1979",NA,"7839",4683,NA,NA,NA
+"3181","Wisconsin","1980",NA,"8546",4706,NA,NA,NA
+"3182","Wisconsin","1981",NA,"8904",4726,NA,NA,NA
+"3183","Wisconsin","1982",NA,"9077",4729,NA,NA,NA
+"3184","Wisconsin","1983",NA,"9070",4721,NA,NA,NA
+"3185","Wisconsin","1984",NA,"9367",4736,NA,NA,NA
+"3186","Wisconsin","1985",NA,"9880",4748,NA,NA,NA
+"3187","Wisconsin","1986",NA,"12339",4756,NA,NA,NA
+"3188","Wisconsin","1987",NA,"12014",4778,NA,NA,NA
+"3189","Wisconsin","1988",NA,"10414",4822,NA,NA,NA
+"3190","Wisconsin","1989",NA,"10834",4857,NA,NA,NA
+"3191","Wisconsin","1990",NA,"12948",4892,NA,NA,NA
+"3192","Wisconsin","1991",NA,"13723",4940.2,NA,NA,NA
+"3193","Wisconsin","1992",NA,"13806",4988.4,NA,NA,NA
+"3194","Wisconsin","1993",NA,"13321",5036.6,NA,NA,NA
+"3195","Wisconsin","1994",NA,"13748",5084.8,NA,NA,NA
+"3196","Wisconsin","1995",NA,"14399",5133,NA,NA,NA
+"3197","Wisconsin","1996",NA,"13039",5181.2,NA,NA,NA
+"3198","Wisconsin","1997",NA,"13988",5229.4,NA,NA,NA
+"3199","Wisconsin","1998",NA,"13009",5277.6,NA,NA,NA
+"3200","Wisconsin","1999",NA,"12908",5325.8,NA,NA,NA
+"3201","Wisconsin","2000",NA,"12700",5374,NA,NA,NA
+"3202","Wisconsin","2001",88,"12486",5407,28493,20927,7478
+"3203","Wisconsin","2002",104,"12238",5445,28783,21304,7375
+"3204","Wisconsin","2003",112,"12104",5479,29645,21426,8107
+"3205","Wisconsin","2004",174,"11548",5514,31759,23401,8184
+"3206","Wisconsin","2005",237,"13367",5546,31144,22742,8165
+"3207","Wisconsin","2006",252,"15899",5578,31434,22718,8464
+"3208","Wisconsin","2007",326,"16330",5611,32646,23564,8756
+"3209","Wisconsin","2008",446,"15507",5641,33187,24035,8706
+"3210","Wisconsin","2009",488,"14650",5669,33651,24515,8648
+"3211","Wisconsin","2010",591,"14167",5687,34110,24766,8753
+"3212","Wisconsin","2011",NA,"14268",NA,NA,NA,NA
+"3213","Wisconsin","2012",NA,"16064",NA,NA,NA,NA
+"3214","Wyoming","1950",NA,NA,290,NA,NA,NA
+"3215","Wyoming","1951",NA,NA,291,NA,NA,NA
+"3216","Wyoming","1952",NA,NA,293,NA,NA,NA
+"3217","Wyoming","1953",NA,NA,290,NA,NA,NA
+"3218","Wyoming","1954",NA,NA,293,NA,NA,NA
+"3219","Wyoming","1955",NA,NA,307,NA,NA,NA
+"3220","Wyoming","1956",NA,NA,312,NA,NA,NA
+"3221","Wyoming","1957",NA,NA,314,NA,NA,NA
+"3222","Wyoming","1958",NA,NA,315,NA,NA,NA
+"3223","Wyoming","1959",NA,NA,320,NA,NA,NA
+"3224","Wyoming","1960",NA,"362",330,NA,NA,NA
+"3225","Wyoming","1961",NA,"288",337,NA,NA,NA
+"3226","Wyoming","1962",NA,"156",333,NA,NA,NA
+"3227","Wyoming","1963",NA,"213",336,NA,NA,NA
+"3228","Wyoming","1964",NA,"285",339,NA,NA,NA
+"3229","Wyoming","1965",NA,"257",NA,NA,NA,NA
+"3230","Wyoming","1966",NA,"273",323,NA,NA,NA
+"3231","Wyoming","1967",NA,"294",322,NA,NA,NA
+"3232","Wyoming","1968",NA,"278",324,NA,NA,NA
+"3233","Wyoming","1969",NA,"286",329,NA,NA,NA
+"3234","Wyoming","1970",NA,"376",332,NA,NA,NA
+"3235","Wyoming","1971",NA,"532",340,NA,NA,NA
+"3236","Wyoming","1972",NA,"511",347,NA,NA,NA
+"3237","Wyoming","1973",NA,"763",354,NA,NA,NA
+"3238","Wyoming","1974",NA,"519",366,NA,NA,NA
+"3239","Wyoming","1975",NA,"764",382,NA,NA,NA
+"3240","Wyoming","1976",NA,"851",397,NA,NA,NA
+"3241","Wyoming","1977",NA,"978",413,NA,NA,NA
+"3242","Wyoming","1978",NA,"1189",433,NA,NA,NA
+"3243","Wyoming","1979",NA,"1579",454,NA,NA,NA
+"3244","Wyoming","1980",NA,"1841",470,NA,NA,NA
+"3245","Wyoming","1981",NA,"2116",492,NA,NA,NA
+"3246","Wyoming","1982",NA,"1527",506,NA,NA,NA
+"3247","Wyoming","1983",NA,"1219",510,NA,NA,NA
+"3248","Wyoming","1984",NA,"1237",505,NA,NA,NA
+"3249","Wyoming","1985",NA,"1307",500,NA,NA,NA
+"3250","Wyoming","1986",NA,"1486",496,NA,NA,NA
+"3251","Wyoming","1987",NA,"1387",477,NA,NA,NA
+"3252","Wyoming","1988",NA,"1479",465,NA,NA,NA
+"3253","Wyoming","1989",NA,"1227",458,NA,NA,NA
+"3254","Wyoming","1990",NA,"1367",454,NA,NA,NA
+"3255","Wyoming","1991",NA,"1427",458,NA,NA,NA
+"3256","Wyoming","1992",NA,"1489",462,NA,NA,NA
+"3257","Wyoming","1993",NA,"1345",466,NA,NA,NA
+"3258","Wyoming","1994",NA,"1297",470,NA,NA,NA
+"3259","Wyoming","1995",NA,"1220",474,NA,NA,NA
+"3260","Wyoming","1996",NA,"1201",478,NA,NA,NA
+"3261","Wyoming","1997",NA,"1225",482,NA,NA,NA
+"3262","Wyoming","1998",NA,"1191",486,NA,NA,NA
+"3263","Wyoming","1999",NA,"1115",490,NA,NA,NA
+"3264","Wyoming","2000",NA,"1316",494,NA,NA,NA
+"3265","Wyoming","2001",0,"1272",495,1677,1677,0
+"3266","Wyoming","2002",0,"1364",500,1655,1655,0
+"3267","Wyoming","2003",0,"1314",503,1739,1739,0
+"3268","Wyoming","2004",0,"1163",509,1670,1670,0
+"3269","Wyoming","2005",0,"1172",514,1695,1695,0
+"3270","Wyoming","2006",2,"1307",523,1792,1790,0
+"3271","Wyoming","2007",4,"1344",535,1691,1687,0
+"3272","Wyoming","2008",16,"1330",546,1802,1786,0
+"3273","Wyoming","2009",18,"1196",560,1765,1747,0
+"3274","Wyoming","2010",8,"1117",564,1791,1783,0
+"3275","Wyoming","2011",NA,"1245",NA,NA,NA,NA
+"3276","Wyoming","2012",NA,"1161",NA,NA,NA,NA
